@@ -1,0 +1,496 @@
+,Year,Company,City,State,Title,Salary Level,Area,Total Annual Compensation,Years of Experience,Years at Company,Base Salary,Stock Grant Value,Bonus,Masters Degree,Bachelors Degree,Doctorate Degree,Highschool,Some College
+0,2020,UBS,Krakow, MA,Business Analyst,1,Analytic,40000,5,2.0,40000,0,0,0,0,0,0,0
+1,2021,HCA Healthcare,Nashville, TN,Business Analyst,1,Inventory,41000,1,1.0,41000,0,0,0,1,0,0,0
+2,2021,Qualtrics,Provo, UT,Business Analyst,1,General,48000,0,0.0,44000,1000,3000,0,0,0,0,0
+3,2021,Clearwater Analytics,Boise, ID,Business Analyst,1,general,50000,5,0.0,48000,0,0,1,0,0,0,0
+4,2020,CIBC,Ontario, CA,Business Analyst,1,Product,50000,2,1.0,50000,0,0,0,0,0,0,0
+5,2020,Spectrum,San Diego, CA,Business Analyst,1,Analytic,60000,0,0.0,50000,5000,2000,0,0,0,0,0
+6,2020,Amazon,Seattle, WA,Business Analyst,1,Growth,53000,5,3.0,53000,0,0,0,0,0,0,0
+7,2020,JPMorgan Chase,Dallas, TX,Business Analyst,1,Other,55000,1,1.0,55000,1000,1000,1,0,0,0,0
+8,2020,JPmorgan Chase,Columbus, OH,Business Analyst,1,Analytic,57000,3,3.0,57000,0,3000,1,0,0,0,0
+9,2020,vizio,Irvine, CA,Business Analyst,1,Operations,57000,1,1.0,57000,0,0,0,0,0,0,0
+10,2020,BNY Mellon,Pittsburgh, PA,Business Analyst,1,Analytic,63000,0,0.0,58000,0,5000,0,1,0,0,0
+11,2020,Deloitte,Orlando, FL,Business Analyst,1,Operations,59000,1,1.0,59000,0,0,0,0,0,0,0
+12,2021,Deloitte,Lake Mary, FL,Business Analyst,1,Customer & Marketing,64000,0,0.0,59000,0,5000,0,1,0,0,0
+13,2021,Amazon,Nashville, TN,Business Analyst,1,General,65000,1,0.0,60000,5000,0,1,0,0,0,0
+14,2020,Facebook,Austin, TX,Business Analyst,1,Operations,71000,0,0.0,60000,4000,7000,0,0,0,0,0
+15,2020,JPMorgan Chase,New York, NY,Business Analyst,1,Analytic,65000,0,0.0,60000,0,5000,0,1,0,0,0
+16,2020,JPMorgan Chase,Columbus, OH,Business Analyst,1,Analytic,64000,0,0.0,60000,0,4000,0,0,0,0,0
+17,2021,Kroger,Cincinnati, OH,Business Analyst,1,Finance,70000,0,0.0,60000,0,10000,0,1,0,0,0
+18,2021,Morgan Stanley,New York, NY,Business Analyst,1,Operations,70000,0,0.0,60000,0,10000,0,0,0,0,0
+19,2021,Amazon,Seattle, WA,Business Analyst,1,General,100000,4,4.0,63000,37000,0,0,0,0,0,0
+20,2021,amazon,Seattle, WA,Business Analyst,1,General,77000,2,1.0,64000,3000,13000,1,0,0,0,0
+21,2021,Amazon,Seattle, WA,Business Analyst,1,Finance,80000,1,1.0,65000,11000,7000,0,0,0,0,0
+22,2020,Cisco,Raleigh, NC,Business Analyst,1,DevOps,65000,1,1.0,65000,0,2000,0,1,0,0,0
+23,2021,Convoy,Seattle, WA,Business Analyst,1,Operations,65000,10,2.0,65000,0,0,0,1,0,0,0
+24,2021,Logitech,Newark, CA,Business Analyst,1,Operation and Analytics,70000,4,1.0,65000,0,5000,0,0,0,0,0
+25,2020,Northrop Grumman,San Diego, CA,Business Analyst,1,Production,65000,1,1.0,65000,0,0,0,1,0,0,0
+26,2020,Qualtrics,Provo, UT,Business Analyst,1,Data,71000,4,4.0,65000,1000,5000,0,0,0,0,0
+27,2020,Uber,Amsterdam, NH,Business Analyst,1,Analytic,85000,5,5.0,65000,10000,10000,0,1,0,0,0
+28,2020,CBRE,Philadelphia, PA,Business Analyst,1,Analytic,66000,3,1.0,66000,0,5000,1,0,0,0,0
+29,2021,Micron,Boise, ID,Business Analyst,1,Marketing,81000,1,1.0,66000,10000,5000,0,0,0,0,0
+30,2020,Capgemini,Chicago, IL,Business Analyst,1,Tech Consulting,68000,0,0.0,68000,0,0,0,0,0,0,0
+31,2020,JPMorgan Chase,Columbus, OH,Business Analyst,1,Analytic,73000,2,2.0,68000,0,5000,0,0,0,0,0
+32,2021,Oracle,Redwood City, CA,Business Analyst,1,general,68000,3,3.0,68000,0,0,0,1,0,0,0
+33,2020,Amazon,Seattle, WA,Business Analyst,1,Supply Chain,92000,1,1.0,69000,13000,10000,1,0,0,0,0
+34,2020,Amazon,Seattle, WA,Business Analyst,1,Analytic,90000,1,1.0,69000,13000,10000,1,0,0,0,0
+35,2021,Johnson & Johnson,Titusville, NJ,Business Analyst,1,General,73000,1,0.0,69000,0,6000,0,0,0,0,0
+36,2020,Anaplan,Minneapolis, MN,Business Analyst,1,Data,70000,4,2.0,70000,0,0,0,0,0,0,0
+37,2020,Cognizant,Mason, OH,Business Analyst,1,Product,72000,13,1.0,70000,0,2000,0,1,0,0,0
+38,2020,Danaher,Indianapolis, IN,Business Analyst,1,Supply chain,73000,3,3.0,70000,0,3000,0,1,0,0,0
+39,2020,Deloitte,Atlanta, GA,Business Analyst,1,Operations,70000,1,1.0,70000,0,2000,0,0,0,0,0
+40,2021,Genesys,Raleigh, NC,Business Analyst,1,Sales,74000,2,1.0,70000,0,4000,0,1,0,0,0
+41,2020,Google,Amsterdam, NH,Business Analyst,1,Analytic,117000,8,6.0,70000,23000,24000,1,0,0,0,0
+42,2021,JPMorgan Chase,New York, NY,Business Analyst,1,General,70000,0,0.0,70000,0,0,0,1,0,0,0
+43,2020,Slalom,Seattle, WA,Business Analyst,1,Operations,77000,3,1.0,70000,0,7000,0,0,0,0,0
+44,2021,Wayfair,Boston, MA,Business Analyst,1,Operations,82000,0,0.0,70000,0,12000,0,1,0,0,0
+45,2021,Wayfair,Boston, MA,Business Analyst,1,Marketing,77000,0,0.0,70000,0,7000,0,1,0,0,0
+46,2021,Wayfair,Boston, MA,Business Analyst,1,Growth,77000,0,0.0,70000,0,7000,0,1,0,0,0
+47,2020,Google,San Francisco, CA,Business Analyst,1,Analyst,93000,0,0.0,71000,11000,11000,0,0,0,0,0
+48,2021,Qualcomm,San Diego, CA,Business Analyst,1,General,71000,3,1.0,71000,0,0,0,0,0,0,0
+49,2020,Amazon,Los Angeles, CA,Business Analyst,1,Production Finance,87000,5,1.0,72000,0,15000,0,1,0,0,0
+50,2020,Amazon,Seattle, WA,Business Analyst,1,Operations,80000,1,1.0,72000,2000,6000,0,0,0,0,0
+51,2018,Amazon,Seattle, WA,Business Analyst,1,Analytics,93000,7,2.0,72000,12000,9000,0,0,0,0,0
+52,2021,American Express,New York, NY,Business Analyst,1,General,75000,2,0.0,72000,0,3000,0,1,0,0,0
+53,2020,Delta Air Lines,Atlanta, GA,Business Analyst,1,Data and Analytics,73000,1,0.0,72000,0,1000,0,1,0,0,0
+54,2020,Fidelity Investments,Boston, MA,Business Analyst,1,Web Development (Front-End),82000,2,2.0,72000,0,10000,0,0,0,0,0
+55,2020,Gap,New York, NY,Business Analyst,1,,72000,1,1.0,72000,0,0,0,1,0,0,0
+56,2020,Amazon,Seattle, WA,Business Analyst,1,Operations,85000,1,0.0,73000,7000,5000,0,0,0,0,0
+57,2021,Deloitte,Washington, DC,Business Analyst,1,Product,74000,0,0.0,74000,0,0,1,0,0,0,0
+58,2021,JPMorgan Chase,San Antonio, TX,Business Analyst,1,Analytics,79000,12,12.0,74000,0,5000,0,0,0,0,1
+59,2021,Amazon,Seattle, WA,Business Analyst,1,SQL/ ETL/ Tableau,79000,3,3.0,75000,4000,0,0,1,0,0,0
+60,2020,Amazon,Seattle, WA,Business Analyst,1,Production,95000,1,1.0,75000,20000,0,0,0,0,0,0
+61,2021,Amazon,Seattle, WA,Business Analyst,1,General,87000,1,0.0,75000,8000,4000,0,0,0,0,0
+62,2021,Amazon,Seattle, WA,Business Analyst,1,General,96000,0,0.0,75000,11000,10000,0,0,0,0,0
+63,2020,Amazon,Seattle, WA,Business Analyst,1,Analytic,90000,0,0.0,75000,15000,0,0,0,0,0,0
+64,2020,Amazon,Seattle, WA,Business Analyst,1,Analytic,85000,1,0.0,75000,5000,5000,0,0,0,0,0
+65,2021,American Express,Phoenix, AZ,Business Analyst,1,General,95000,2,0.0,75000,0,20000,0,0,0,0,0
+66,2020,Blue Yonder,Waukesha, WI,Business Analyst,1,Mobile (iOS + Android),79000,6,3.0,75000,0,5000,0,0,0,0,0
+67,2021,EPAM Systems,Pennsylvania Furnace, PA,Business Analyst,1,Business Consulting,78000,0,0.0,75000,0,3000,0,0,0,0,0
+68,2020,Excella,Arlington, VA,Business Analyst,1,Production,78000,3,3.0,75000,0,3000,0,1,0,0,0
+69,2021,Ford Motor,Dearborn, MI,Business Analyst,1,Purchasing,79000,1,1.0,75000,0,4000,0,1,0,0,0
+70,2020,Ford Motor,Dearborn, MI,Business Analyst,1,Operations,79000,2,1.0,75000,0,4000,0,1,0,0,0
+71,2020,Johnson & Johnson,New Brunswick, NJ,Business Analyst,1,Analytic,81000,0,0.0,75000,0,6000,0,0,0,0,0
+72,2020,Juniper Square,San Francisco, CA,Business Analyst,1,Operations,75000,0,0.0,75000,0,5000,0,0,0,0,0
+73,2021,NXP Semiconductors,Austin, TX,Business Analyst,1,General,75000,2,1.0,75000,0,0,1,0,0,0,0
+74,2020,Staples,Boston, MA,Business Analyst,1,Operations,75000,0,0.0,75000,0,2000,0,0,0,0,0
+75,2021,Tempus,New York, NY,Business Analyst,1,Marketing,80000,1,1.0,75000,0,5000,0,0,0,0,0
+76,2021,Thermo Fisher Scientific,Carlsbad, CA,Business Analyst,1,HR,81000,3,1.0,75000,0,6000,0,1,0,0,0
+77,2021,Uber,Amsterdam, NH,Business Analyst,1,Operations,88000,4,4.0,75000,3000,10000,0,1,0,0,0
+78,2020,Visa,Austin, TX,Business Analyst,1,Other,90000,0,0.0,75000,3000,12000,0,0,0,0,0
+79,2021,Amazon,Seattle, WA,Business Analyst,1,General,93000,2,2.0,76000,10000,7000,1,0,0,0,0
+80,2020,Applied Materials,Hillsboro, OR,Business Analyst,1,Analytic,81000,4,2.0,76000,0,5000,1,0,0,0,0
+81,2020,Uber,Chicago, IL,Business Analyst,1,Ops,101000,1,1.0,77000,15000,9000,1,0,0,0,0
+82,2021,Wayfair,Boston, MA,Business Analyst,1,Operations,89000,3,3.0,77000,5000,8000,0,1,0,0,0
+83,2020,Accenture,Detroit, MI,Business Analyst,1,iOS,90000,1,1.0,78000,8000,3000,0,1,0,0,0
+84,2020,Deloitte,Sacramento, CA,Business Analyst,1,Product,88000,1,1.0,78000,0,10000,0,1,0,0,0
+85,2021,Deloitte,Sacramento, CA,Business Analyst,1,General,88000,0,0.0,78000,0,10000,0,1,0,0,0
+86,2021,Deloitte,Arlington, VA,Business Analyst,1,General,90000,0,0.0,78000,0,10000,0,1,0,0,0
+87,2020,Deloitte Consulting,Washington, DC,Business Analyst,1,Analytic,78000,1,1.0,78000,0,0,0,1,0,0,0
+88,2020,Ernst and Young,San Jose, CA,Business Analyst,1,Analytic,83000,1,0.0,78000,0,5000,1,0,0,0,0
+89,2021,Freddie Mac,Fairfax, VA,Business Analyst,1,General,81000,5,3.0,78000,0,3000,0,1,0,0,0
+90,2020,JPMorgan,New York, NY,Business Analyst,1,Finance,78000,1,0.0,78000,0,0,0,0,0,0,0
+91,2020,JPMorgan Chase,Jersey City, NJ,Business Analyst,1,Operations,78000,1,1.0,78000,0,0,0,0,0,0,0
+92,2020,PayPal,Chicago, IL,Business Analyst,1,Finance,96000,2,2.0,78000,10000,8000,1,0,0,0,0
+93,2021,Wayfair,Boston, MA,Business Analyst,1,Algorithms,92000,1,1.0,78000,6000,8000,0,1,0,0,0
+94,2020,Buzzfeed,Los Angeles, CA,Business Analyst,1,iOS,79000,2,2.0,79000,0,0,0,0,0,0,0
+95,2021,Cisco,San Francisco, CA,Business Analyst,1,Operations,86000,0,0.0,79000,0,7000,0,1,0,0,0
+96,2021,Cisco,San Jose, CA,Business Analyst,1,General,86000,1,1.0,79000,0,7000,0,1,0,0,0
+97,2021,Fidelity Investments,Boston, MA,Business Analyst,1,Data analyst,90000,2,2.0,79000,0,11000,0,0,0,0,0
+98,2020,Amazon,Seattle, WA,Business Analyst,1,Operations,120000,0,0.0,80000,4000,36000,1,0,0,0,0
+99,2021,Amazon,Seattle, WA,Business Analyst,1,General,90000,3,0.0,80000,0,10000,1,0,0,0,0
+100,2020,Amazon,Seattle, WA,Business Analyst,1,Data,120000,5,0.0,80000,20000,20000,0,0,0,0,0
+101,2021,Amazon,Seattle, WA,Business Analyst,1,BI,93000,3,2.0,80000,8000,5000,0,0,0,0,0
+102,2021,Capital One,Chicago, IL,Business Analyst,1,Credit,80000,1,1.0,80000,0,0,0,0,0,0,0
+103,2020,Capital One,Plano, TX,Business Analyst,1,Analytic,88000,0,0.0,80000,3000,5000,0,0,0,0,0
+104,2020,CBRE,San Jose, CA,Business Analyst,1,Operations,80000,10,3.0,80000,0,0,0,0,0,0,1
+105,2020,Cisco,San Jose, CA,Business Analyst,1,Networking,87000,0,0.0,80000,0,7000,0,1,0,0,0
+106,2020,Cisco,San Jose, CA,Business Analyst,1,Networking,85000,0,0.0,80000,0,5000,0,0,0,0,0
+107,2020,Cisco,San Jose, CA,Business Analyst,1,Analytics,80000,1,0.0,80000,0,0,0,0,0,0,0
+108,2020,CVS Health,Irving, TX,Business Analyst,1,Analytic,96000,20,9.0,80000,4000,12000,0,1,0,0,0
+109,2021,Deloitte,Philadelphia, PA,Business Analyst,1,Security,95000,1,1.0,80000,0,15000,0,1,0,0,0
+110,2020,Deloitte,Washington, DC,Business Analyst,1,Production,82000,3,1.0,80000,0,2000,0,0,0,0,0
+111,2020,Discover,Deerfield, IL,Business Analyst,1,Analytic,84000,3,3.0,80000,0,4000,0,0,0,0,0
+112,2021,Goldman Sachs,Dallas, TX,Business Analyst,1,Analytic,97000,1,1.0,80000,0,17000,1,0,0,0,0
+113,2021,goPuff,Philadelphia, PA,Business Analyst,1,data analyst,92000,3,3.0,80000,4000,8000,1,0,0,0,0
+114,2021,JPMorgan Chase,Wilmington, DE,Business Analyst,1,General,85000,3,1.0,80000,0,0,1,0,0,0,0
+115,2020,JPMorgan Chase,Plano, TX,Business Analyst,1,Analytic,85000,5,1.0,80000,0,5000,1,0,0,0,0
+116,2021,Kla,San Jose, CA,Business Analyst,1,Operations,88000,3,0.0,80000,0,8000,0,0,0,0,0
+117,2021,Morgan Stanley,New York, NY,Business Analyst,1,General,95000,1,1.0,80000,0,15000,0,0,0,0,0
+118,2021,Slalom,Dallas, TX,Business Analyst,1,Product,87000,1,1.0,80000,0,7000,1,0,0,0,0
+119,2020,Wayfair,Boston, MA,Business Analyst,1,Operations,97000,1,0.0,80000,9000,8000,0,1,0,0,0
+120,2021,Wayfair,Boston, MA,Business Analyst,1,Operations,97000,2,1.0,80000,9000,8000,0,1,0,0,0
+121,2020,Wayfair,Boston, MA,Business Analyst,1,Analytic,108000,2,2.0,80000,20000,8000,0,0,0,0,0
+122,2020,Splunk,Boulder, CO,Business Analyst,1,Marketing,100000,5,2.0,81000,12000,8000,0,0,0,0,0
+123,2021,Facebook,Menlo Park, CA,Business Analyst,1,Analytic,102000,3,2.0,82000,0,20000,0,1,0,0,0
+124,2020,Google,Mountain View, CA,Business Analyst,1,Partnerships,110000,1,1.0,82000,16000,12000,0,0,0,0,0
+125,2020,Uber,San Francisco, CA,Business Analyst,1,Operations,100000,5,2.0,83000,10000,5000,0,0,0,0,0
+126,2021,Verizon,Basking Ridge, NJ,Business Analyst,1,Analytic,93000,4,1.0,83000,2000,10000,0,1,0,0,0
+127,2021,Expedia,Seattle, WA,Business Analyst,1,Finance,94000,7,4.0,84000,0,10000,0,1,0,0,0
+128,2020,Lam Research,Livermore, CA,Business Analyst,1,Operations,94000,2,2.0,84000,2000,8000,1,0,0,0,0
+129,2021,Thermo Fisher Scientific,Frederick, MD,Business Analyst,1,Security,92000,4,4.0,84000,0,8000,0,0,0,0,0
+130,2020,Airbnb,Portland, OR,Business Analyst,1,Operations,125000,5,1.0,85000,30000,10000,0,1,0,0,0
+131,2021,Allstate,San Francisco, CA,Business Analyst,1,Data Analyst,100000,2,2.0,85000,0,15000,0,0,0,0,0
+132,2021,Boeing,Seattle, WA,Business Analyst,1,Analytic,95000,5,5.0,85000,0,10000,0,0,0,0,0
+133,2021,Fidelity Investments,Boston, MA,Business Analyst,1,Financial Services,102000,2,2.0,85000,2000,15000,0,1,0,0,0
+134,2021,SAP,Newtown Square, PA,Business Analyst,1,Sales Operations,96000,6,6.0,85000,0,12000,0,1,0,0,0
+135,2021,SAP,Newtown Square, PA,Business Analyst,1,Sales Operations,96000,6,6.0,85000,0,11000,0,1,0,0,0
+136,2020,Twitter,San Francisco, CA,Business Analyst,1,Internal,89000,1,1.0,85000,0,4000,0,1,0,0,0
+137,2021,Visa,San Francisco, CA,Business Analyst,1,Analytic,90000,0,0.0,85000,0,5000,0,0,0,0,0
+138,2020,Wayfair,Boston, MA,Business Analyst,1,Operations,100000,2,1.0,85000,5000,9000,0,0,0,0,0
+139,2020,Cisco,San Jose, CA,Business Analyst,1,Operations,88000,6,2.0,86000,0,2000,1,0,0,0,0
+140,2020,EY,New York, NY,Business Analyst,1,Tech consulting,86000,4,2.0,86000,0,5000,1,0,0,0,0
+141,2021,Accenture,New York, NY,Business Analyst,1,Strategy and Consulting,97000,0,0.0,87000,0,10000,0,1,0,0,0
+142,2021,Oliver Wyman,New York, NY,Business Analyst,1,Operations,93000,1,1.0,87000,0,6000,0,0,0,0,0
+143,2020,U.S. Bank,Portland, OR,Business Analyst,1,Operations,92000,11,8.0,87000,0,6000,0,1,0,0,0
+144,2020,Blue Origin,Seattle, WA,Business Analyst,1,Operations,88000,4,3.0,88000,0,0,0,0,0,0,0
+145,2020,Capital one,Washington, DC,Business Analyst,1,None,102000,0,0.0,88000,0,13000,0,0,0,0,0
+146,2020,Capital One,Washington, DC,Business Analyst,1,ML / AI,95000,1,1.0,88000,0,7000,0,1,0,0,0
+147,2020,Capital One,Washington, DC,Business Analyst,1,Data,99000,0,0.0,88000,0,11000,0,1,0,0,0
+148,2020,Capital One,Fairfax, VA,Business Analyst,1,Data,95000,0,0.0,88000,0,7000,0,0,0,0,0
+149,2020,Capital One,Washington, DC,Business Analyst,1,Analyst,91000,0,0.0,88000,0,3000,0,0,0,0,0
+150,2021,Deloitte,San Diego, CA,Business Analyst,1,Analytic,90000,3,1.0,88000,0,2000,0,1,0,0,0
+151,2020,Goldman Sachs,New York, NY,Business Analyst,1,Operations,98000,1,1.0,88000,0,10000,0,1,0,0,0
+152,2020,Quest diagnostics,Secaucus, NJ,Business Analyst,1,Analytic,90000,3,3.0,88000,0,2000,1,0,0,0,0
+153,2021,Capital One,Richmond, VA,Business Analyst,1,Data,91000,0,0.0,89000,0,2000,0,0,0,0,0
+154,2020,Capital One,Washington, DC,Business Analyst,1,Analytics,95000,1,1.0,89000,0,6000,0,0,0,0,0
+155,2021,Adobe,San Jose, CA,Business Analyst,1,FP&A,112000,3,2.0,90000,13000,9000,0,1,0,0,0
+156,2020,Amazon,Seattle, WA,Business Analyst,1,Operations,106000,5,1.0,90000,10000,6000,0,0,0,0,0
+157,2020,Amazon,Seattle, WA,Business Analyst,1,Analytic,120000,2,2.0,90000,20000,10000,1,0,0,0,0
+158,2021,Autodesk,San Francisco, CA,Business Analyst,1,Finance,99000,5,2.0,90000,0,9000,0,0,0,0,0
+159,2021,BNP Paribas,New York, NY,Business Analyst,1,General,123000,1,1.0,90000,0,33000,0,1,0,0,0
+160,2021,Boeing,Mesa, AZ,Business Analyst,1,Infrastructure,90000,3,2.0,90000,0,2000,0,0,0,0,0
+161,2020,Capital One,Washington, DC,Business Analyst,1,Web Development (Front-End),96000,0,0.0,90000,0,6000,0,0,0,0,0
+162,2020,Goldman Sachs,New York, NY,Business Analyst,1,Research,135000,3,1.0,90000,0,45000,0,0,0,0,0
+163,2021,Google,Ireland, IN,Business Analyst,1,Finance,135000,7,4.0,90000,25000,20000,1,0,0,0,0
+164,2020,IBM,Dallas, TX,Business Analyst,1,Infrastructure,100000,4,1.0,90000,1000,9000,0,0,0,0,0
+165,2020,Indeed,San Francisco, CA,Business Analyst,1,Growth,104000,1,1.0,90000,0,14000,0,1,0,0,0
+166,2020,Morningstar,Chicago, IL,Business Analyst,1,Research,110000,7,7.0,90000,10000,5000,0,0,0,0,0
+167,2020,Oracle,Madrid, MD,Business Analyst,1,Analytic,90000,25,20.0,90000,0,0,0,1,0,0,0
+168,2021,Vimeo,New York, NY,Business Analyst,1,General,104000,4,2.0,90000,10000,4000,0,1,0,0,0
+169,2020,Wells Fargo,San Francisco, CA,Business Analyst,1,iOS,90000,6,1.0,90000,0,0,0,0,0,0,0
+170,2021,Capital One,Washington, DC,Business Analyst,1,General,100000,1,1.0,92000,0,8000,0,1,0,0,0
+171,2020,Amazon,Seattle, WA,Business Analyst,1,Operations,122000,5,0.0,93000,15000,14000,1,0,0,0,0
+172,2021,Citi,Wilmington, DE,Business Analyst,1,fraud analyst,95000,2,2.0,93000,0,2000,1,0,0,0,0
+173,2020,Infosys,Atlanta, GA,Business Analyst,1,Analytic,95000,12,12.0,93000,0,2000,1,0,0,0,0
+174,2021,Microsoft,Redmond, WA,Business Analyst,1,General,101000,0,0.0,93000,3000,5000,0,1,0,0,0
+175,2021,Splunk,San Francisco, CA,Business Analyst,1,Cloud,121000,3,2.0,93000,20000,10000,1,0,0,0,0
+176,2021,Uber,New York, NY,Business Analyst,1,Operations,109000,5,2.0,93000,10000,10000,0,1,0,0,0
+177,2020,Yelp,San Francisco, CA,Business Analyst,1,Internal,110000,2,0.0,93000,15000,3000,0,1,0,0,0
+178,2021,AIG,Los Angeles, CA,Business Analyst,1,GENERAL,102000,11,2.0,94000,0,8000,1,0,0,0,0
+179,2021,Amazon,Tempe, AZ,Business Analyst,1,Supply chain,125000,4,0.0,94000,7000,24000,0,0,0,0,0
+180,2020,BCG,Atlanta, GA,Business Analyst,1,Product,119000,5,3.0,94000,0,25000,0,0,0,0,0
+181,2021,IBM,Atlanta, GA,Business Analyst,1,Analytic,94000,2,2.0,94000,0,0,0,1,0,0,0
+182,2021,Procore Technologies,Carpinteria, CA,Business Analyst,1,Business Intelligence Analyst,94000,5,2.0,94000,0,0,0,0,0,0,0
+183,2020,Vimeo,New York, NY,Business Analyst,1,Sales Ops,99000,5,1.0,94000,0,5000,0,0,0,0,0
+184,2021,Zulily,Seattle, WA,Business Analyst,1,Supply Chain,99000,3,1.0,94000,0,5000,0,1,0,0,0
+185,2021,Accenture,New York, NY,Business Analyst,1,General,100000,2,2.0,95000,0,5000,0,0,0,0,0
+186,2020,Amazon,Seattle, WA,Business Analyst,1,Analytic,130000,5,0.0,95000,30000,3000,1,0,0,0,0
+187,2021,Comcast,Philadelphia, PA,Business Analyst,1,Data Analytics,103000,6,5.0,95000,3000,5000,1,0,0,0,0
+188,2020,Comcast,Philadelphia, PA,Business Analyst,1,Analytic,110000,5,3.0,95000,10000,5000,1,0,0,0,0
+189,2020,Goldman Sachs,New York, NY,Business Analyst,1,Private Equity,130000,2,2.0,95000,0,35000,0,0,0,0,0
+190,2021,Goldman Sachs,New York, NY,Business Analyst,1,Asset Management,125000,1,1.0,95000,0,30000,0,0,0,0,0
+191,2021,Grubhub,Chicago, IL,Business Analyst,1,,95000,6,3.0,95000,0,0,0,0,0,0,0
+192,2020,Intuit,San Francisco, CA,Business Analyst,1,Analytics,110000,1,1.0,95000,0,15000,0,0,0,0,0
+193,2021,JP Morgan Chase,Dallas, TX,Business Analyst,1,Product,102000,5,3.0,95000,0,7000,0,0,0,0,0
+194,2020,Kaiser Permanente,Oakland, CA,Business Analyst,1,Analytic,102000,3,3.0,95000,0,7000,0,1,0,0,0
+195,2020,Ultimate Software,Weston, FL,Business Analyst,1,Product,100000,5,2.0,95000,5000,0,0,1,0,0,0
+196,2020,Wells Fargo,Charlotte, NC,Business Analyst,1,Analytic,95000,6,2.0,95000,5000,0,0,1,0,0,0
+197,2020,Boeing,Arlington, VA,Business Analyst,1,Growth,96000,6,6.0,96000,0,0,1,0,0,0,0
+198,2020,Capital One,New York, NY,Business Analyst,1,Analytic,102000,1,1.0,96000,2000,4000,0,1,0,0,0
+199,2021,Adobe,San Francisco, CA,Business Analyst,1,Sales Operations,125000,2,2.0,97000,18000,10000,0,1,0,0,0
+200,2020,Maxim Integrated,San Jose, CA,Business Analyst,1,Supply Chain,107000,5,2.0,97000,0,10000,1,0,0,0,0
+201,2020,Mphasis,New York, NY,Business Analyst,1,Product,97000,17,13.0,97000,0,0,1,0,0,0,0
+202,2021,Expedia,Seattle, WA,Business Analyst,1,Data,121000,0,0.0,98000,10000,13000,0,1,0,0,0
+203,2020,Facebook,Austin, TX,Business Analyst,1,Operations,116000,3,0.0,98000,9000,10000,0,1,0,0,0
+204,2021,Facebook,Austin, TX,Business Analyst,1,Ads,126000,5,4.0,98000,13000,15000,0,0,0,0,0
+205,2021,Lyft,Seattle, WA,Business Analyst,1,Product,138000,5,0.0,98000,35000,5000,0,0,0,0,0
+206,2021,Lyft,Seattle, WA,Business Analyst,1,Product,138000,5,0.0,98000,35000,5000,0,0,0,0,0
+207,2021,Siemens,Lexington, KY,Business Analyst,1,Sales,100000,3,2.0,99000,0,1000,0,1,0,0,0
+208,2020,Amazon,San Francisco, CA,Business Analyst,2,iOS,150000,8,1.0,100000,20000,30000,0,0,0,0,0
+209,2021,Amazon,Washington, DC,Business Analyst,2,General,125000,5,0.0,100000,15000,10000,0,1,0,0,0
+210,2020,Amazon,Seattle, WA,Business Analyst,2,Data,120000,3,2.0,100000,20000,0,0,0,0,0,0
+211,2021,Amazon,Seattle, WA,Business Analyst,2,Business Intelligence,129000,2,0.0,100000,17000,12000,0,0,0,0,0
+212,2018,Amazon,Seattle, WA,Business Analyst,2,BI,124000,10,2.0,100000,24000,0,0,0,0,0,0
+213,2021,Amazon,Seattle, WA,Business Analyst,2,Analytic,125000,5,1.0,100000,13000,10000,1,0,0,0,0
+214,2020,Capital One,Washington, DC,Business Analyst,2,Product,107000,4,1.0,100000,0,7000,0,1,0,0,0
+215,2020,Citi,Tampa, FL,Business Analyst,2,Operations,100000,5,0.0,100000,0,0,1,0,0,0,0
+216,2021,Deloitte,Princeton, NJ,Business Analyst,2,Data,100000,4,3.0,100000,0,0,0,0,0,0,0
+217,2021,DoorDash,San Francisco, CA,Business Analyst,2,Operations,117000,3,0.0,100000,17000,0,0,0,0,0,0
+218,2020,Google,New York, NY,Business Analyst,2,Full Stack,100000,6,4.0,100000,0,0,0,0,0,0,0
+219,2020,Google,New York, NY,Business Analyst,2,Full Stack,108000,5,5.0,100000,5000,3000,0,0,0,0,0
+220,2020,Google,Palo Alto, CA,Business Analyst,2,Data,190000,1,1.0,100000,40000,50000,0,0,0,0,0
+221,2020,JPMorgan Chase,Plano, TX,Business Analyst,2,Web Development (Front-End),110000,6,1.0,100000,0,10000,0,0,0,0,0
+222,2021,JPMorgan Chase,New York, NY,Business Analyst,2,Sales,140000,3,3.0,100000,0,40000,0,0,0,0,0
+223,2020,Microsoft,Seattle, WA,Business Analyst,2,Power BI,127000,3,0.0,100000,18000,9000,0,1,0,0,0
+224,2020,PwC,Los Angeles, CA,Business Analyst,2,Financial,115000,5,5.0,100000,0,15000,1,0,0,0,0
+225,2021,ServiceNow,San Diego, CA,Business Analyst,2,Operations,160000,5,5.0,100000,50000,10000,0,1,0,0,0
+226,2020,Wayfair,Boston, MA,Business Analyst,2,Analytic,100000,3,0.0,100000,0,0,0,0,0,0,0
+227,2020,Workhuman,Boston, MA,Business Analyst,2,Analytic,110000,5,0.0,100000,0,10000,0,1,0,0,0
+228,2020,3M,Saint Paul, MN,Business Analyst,2,Analytics,107000,5,5.0,101000,0,6000,0,0,0,0,0
+229,2021,Adobe,New York, NY,Business Analyst,2,General,126000,6,3.0,101000,15000,10000,0,1,0,0,0
+230,2020,Cisco,San Jose, CA,Business Analyst,2,Operations,124000,5,5.0,101000,8000,15000,0,1,0,0,0
+231,2020,Expedia,Seattle, WA,Business Analyst,2,Distributed Systems (Back-End),118000,4,2.0,101000,5000,12000,0,1,0,0,0
+232,2020,Tata Consultancy Services,Santa Clara, CA,Business Analyst,2,Supply Chain Management,101000,10,10.0,101000,0,0,0,1,0,0,0
+233,2021,2U,Brooklyn, NY,Business Analyst,2,General,109000,5,3.0,102000,0,7000,0,1,0,0,0
+234,2021,Autodesk,San Francisco, CA,Business Analyst,2,DES,120000,13,4.0,102000,5000,12000,0,0,0,0,0
+235,2020,Bloomberg,New York, NY,Business Analyst,2,Analytic,107000,2,2.0,102000,0,6000,0,0,0,0,0
+236,2020,ABB,Oxford, MS,Business Analyst,2,Sales Strategy,115000,6,6.0,103000,0,12000,0,1,0,0,0
+237,2020,amgen,Thousand Oaks, CA,Business Analyst,2,Production,123000,12,5.0,103000,10000,10000,1,0,0,0,0
+238,2021,Capital One,Vienna, VA,Business Analyst,2,Data Analytics,110000,3,1.0,103000,2000,5000,0,0,0,0,0
+239,2020,Capital One,Washington, DC,Business Analyst,2,Data,110000,1,1.0,103000,0,7000,0,0,0,0,0
+240,2021,Microsoft,Redmond, WA,Business Analyst,2,Finance,120000,5,5.0,104000,7000,10000,0,1,0,0,0
+241,2021,Amazon,Seattle, WA,Business Analyst,2,Sales,115000,6,1.0,105000,10000,0,0,0,0,0,0
+242,2020,Amazon,Seattle, WA,Business Analyst,2,Product,128000,5,1.0,105000,13000,8000,1,0,0,0,0
+243,2021,Amazon,Seattle, WA,Business Analyst,2,,133000,5,1.0,105000,3000,25000,0,1,0,0,0
+244,2019,Amazon,Seattle, WA,Business Analyst,2,Business Analyst,121000,4,0.3,105000,1000,17000,1,0,0,0,0
+245,2021,Amazon,Seattle, WA,Business Analyst,2,Analytic,131000,3,0.0,105000,12000,10000,1,0,0,0,0
+246,2020,Charles Schwab,Dallas, TX,Business Analyst,2,Data,100000,8,0.0,105000,0,0,0,0,0,0,0
+247,2020,Cisco Systems,San Jose, CA,Business Analyst,2,DevOps,115000,6,6.0,105000,0,14000,0,0,0,0,0
+248,2020,Citi,Tampa, FL,Business Analyst,2,Operations,105000,5,0.0,105000,0,0,1,0,0,0,0
+249,2021,Facebook,Sunnyvale, CA,Business Analyst,2,Operations,120000,4,4.0,105000,5000,10000,0,1,0,0,0
+250,2021,Facebook,New York, NY,Business Analyst,2,General,140000,3,3.0,105000,10000,25000,0,1,0,0,0
+251,2020,LendingTree,San Mateo, CA,Business Analyst,2,Analytic,131000,2,2.0,105000,15000,11000,0,0,0,0,0
+252,2020,Raytheon,Los Angeles, CA,Business Analyst,2,Finance,115000,6,1.0,105000,0,10000,0,0,0,0,0
+253,2021,Tesla,Fremont, CA,Business Analyst,2,General,115000,3,1.0,105000,10000,0,0,0,0,0,0
+254,2021,Twitter,Atlanta, GA,Business Analyst,2,Finance,133000,3,0.0,105000,13000,15000,0,0,0,0,0
+255,2021,ZS Associates,San Francisco, CA,Business Analyst,2,General,105000,2,0.0,105000,0,5000,1,0,0,0,0
+256,2020,Google,Redwood City, CA,Business Analyst,2,finance,150000,4,1.0,106000,29000,16000,0,1,0,0,0
+257,2021,Salesforce,San Francisco, CA,Business Analyst,2,General,118000,5,3.0,107000,0,11000,0,1,0,0,0
+258,2020,Verizon,New York Mills, NY,Business Analyst,2,Data,128000,4,4.0,107000,6000,15000,0,1,0,0,0
+259,2021,Amazon,San Francisco, CA,Business Analyst,2,Data,133000,10,1.0,108000,18000,8000,0,1,0,0,0
+260,2020,Capital One,Fairfax, VA,Business Analyst,2,Analytic,123000,2,0.0,108000,0,15000,0,1,0,0,0
+261,2020,Samsara,San Francisco, CA,Business Analyst,2,Operations,126000,2,0.0,108000,6000,12000,0,0,0,0,0
+262,2020,Synchrony,Chicago, IL,Business Analyst,2,Growth,125000,5,5.0,108000,0,17000,0,1,0,0,0
+263,2021,Wayfair,Boston, MA,Business Analyst,2,Business Intelligence,124000,2,2.0,108000,5000,11000,1,0,0,0,0
+264,2020,Oracle,Broomfield, CO,Business Analyst,2,Operations,119000,11,4.0,109000,10000,0,0,1,0,0,0
+265,2020,Amazon,Seattle, WA,Business Analyst,2,Data,120000,4,1.0,110000,10000,0,0,0,0,0,0
+266,2020,Amazon,Seattle, WA,Business Analyst,2,Data,143000,3,3.0,110000,33000,0,0,0,0,0,0
+267,2020,Amazon,San Francisco, CA,Business Analyst,2,Android,150000,1,0.0,110000,40000,0,0,0,0,0,0
+268,2020,Amazon,Seattle, WA,Business Analyst,2,Analytic,132000,4,2.0,110000,12000,10000,0,1,0,0,0
+269,2020,Amazon,Seattle, WA,Business Analyst,2,Analytic,193000,6,4.0,110000,75000,8000,1,0,0,0,0
+270,2021,ASML,Wilton, CT,Business Analyst,2,General,128000,5,2.0,110000,0,18000,1,0,0,0,0
+271,2020,Boston Consulting Group,Atlanta, GA,Business Analyst,2,Internal Products,132000,6,2.0,110000,11000,11000,1,0,0,0,0
+272,2020,Capital One,Washington, DC,Business Analyst,2,Credit Analysis,115000,4,2.0,110000,0,5000,1,0,0,0,0
+273,2021,Citi,New York, NY,Business Analyst,2,finance,130000,6,6.0,110000,0,20000,0,0,0,0,0
+274,2021,Discover Financial Services,Chicago, IL,Business Analyst,2,Credit Risk,110000,3,3.0,110000,0,0,0,0,0,0,0
+275,2021,LinkedIn,New York, NY,Business Analyst,2,Advertising,141000,3,1.0,110000,20000,11000,0,0,0,0,0
+276,2021,Microsoft,Seattle, WA,Business Analyst,2,Cloud / AI,124000,3,0.0,110000,6000,8000,0,0,0,0,0
+277,2021,Morgan Stanley,New York, NY,Business Analyst,2,Analytic,130000,0,0.0,110000,0,20000,0,1,0,0,0
+278,2020,Postmates,San Francisco, CA,Business Analyst,2,Product,115000,2,1.0,110000,1000,0,0,0,0,0,0
+279,2021,Salesforce,San Francisco, CA,Business Analyst,2,Operations,120000,2,1.0,110000,0,10000,0,0,0,0,0
+280,2020,Sephora,San Francisco, CA,Business Analyst,2,Analytic,121000,2,2.0,110000,0,11000,0,1,0,0,0
+281,2020,Square,New York, NY,Business Analyst,2,Operations,129000,2,0.0,110000,14000,5000,0,1,0,0,0
+282,2020,Twitter,San Francisco, CA,Business Analyst,2,Analytic,130000,5,1.0,110000,10000,10000,0,0,0,0,0
+283,2020,Uber,Pittsburgh, PA,Business Analyst,2,Production,155000,4,1.0,110000,35000,10000,1,0,0,0,0
+284,2020,Wayfair,Boston, MA,Business Analyst,2,Operations,120000,4,3.0,110000,3000,10000,0,0,1,0,0
+285,2021,Western Digital,San Jose, CA,Business Analyst,2,General,137000,4,4.0,110000,14000,13000,1,0,0,0,0
+286,2020,Workday,Pleasanton, CA,Business Analyst,2,Production,130000,6,1.0,110000,10000,10000,0,1,0,0,0
+287,2020,Zoominfo,Portland, OR,Business Analyst,2,Analytic,110000,7,1.0,110000,0,0,0,0,0,0,0
+288,2021,Capital One,Washington, DC,Business Analyst,2,General,118000,6,1.0,112000,0,6000,1,0,0,0,0
+289,2020,Fractal Analytics,San Francisco, CA,Business Analyst,2,Data,122000,8,2.0,112000,0,10000,0,1,0,0,0
+290,2021,Google,Mountain View, CA,Business Analyst,2,Business Intelligence,159000,5,3.0,112000,25000,22000,0,1,0,0,0
+291,2020,Starbucks,Seattle, WA,Business Analyst,2,Finance,125000,4,3.0,113000,4000,11000,0,0,0,0,0
+292,2020,Accenture,Washington, DC,Business Analyst,2,Product,120000,4,3.0,115000,1000,4000,0,1,0,0,0
+293,2021,Amazon,Seattle, WA,Business Analyst,2,Product,135000,4,2.0,115000,10000,10000,1,0,0,0,0
+294,2021,Amazon,Los Angeles, CA,Business Analyst,2,Driving data Recommendations,145000,3,3.0,115000,30000,0,0,1,0,0,0
+295,2020,Amazon,Palo Alto, CA,Business Analyst,2,Data,135000,3,1.0,115000,3000,18000,0,1,0,0,0
+296,2020,Apple,Cupertino, CA,Business Analyst,2,Growth,165000,2,0.0,115000,25000,25000,0,1,0,0,0
+297,2020,applied materials,Santa Clara, CA,Business Analyst,2,Data,135000,5,1.0,115000,20000,5000,1,0,0,0,0
+298,2021,Bridgewater Associates,Westport, CT,Business Analyst,2,General,155000,2,2.0,115000,0,40000,0,0,0,0,0
+299,2020,jp morgan,Dallas, TX,Business Analyst,2,Infrastructure,115000,8,0.0,115000,0,0,1,0,0,0,0
+300,2021,JPMorgan Chase,Wilmington, DE,Business Analyst,2,Analytics,123000,5,2.0,115000,0,8000,1,0,0,0,0
+301,2020,McKinsey,Redwood City, CA,Business Analyst,2,Operations,165000,2,2.0,115000,0,50000,1,0,0,0,0
+302,2021,McKinsey,Chicago, IL,Business Analyst,2,general,140000,2,0.0,115000,10000,15000,0,1,0,0,0
+303,2021,Morgan Stanley,New York, NY,Business Analyst,2,Finance Controller,115000,3,1.0,115000,0,0,0,1,0,0,0
+304,2020,Postmates,San Francisco, CA,Business Analyst,2,Data,115000,4,2.0,115000,0,0,0,0,0,0,0
+305,2021,Slack,San Francisco, CA,Business Analyst,2,General,170000,5,4.0,115000,40000,15000,0,0,0,0,0
+306,2020,Tesla,Fremont, CA,Business Analyst,2,Operations,200000,6,3.0,115000,70000,15000,0,0,0,0,0
+307,2021,Uber,San Francisco, CA,Business Analyst,2,Marketing,150000,4,0.0,115000,13000,23000,1,0,0,0,0
+308,2020,Unity Technologies,San Francisco, CA,Business Analyst,2,Operations,155000,4,2.0,115000,40000,0,0,0,0,0,0
+309,2020,Accenture,Portland, OR,Business Analyst,2,Production,120000,13,8.0,116000,0,4000,0,1,0,0,0
+310,2021,Amazon,Seattle, WA,Business Analyst,2,Data Engineering,217000,7,4.0,117000,100000,0,1,0,0,0,0
+311,2021,Deloitte,Hermitage, TN,Business Analyst,2,Operations,120000,20,7.0,117000,0,3000,1,0,0,0,0
+312,2021,General Motors,Detroit, MI,Business Analyst,2,General,131000,20,6.0,117000,0,14000,0,1,0,0,0
+313,2021,Oracle,Redwood City, CA,Business Analyst,2,Finance,118000,6,0.0,118000,0,0,0,1,0,0,0
+314,2021,Patreon,San Francisco, CA,Business Analyst,2,Strategic Finance,135000,3,1.0,118000,17000,0,0,1,0,0,0
+315,2021,ServiceNow,Santa Clara, CA,Business Analyst,2,General,150000,5,2.0,118000,20000,12000,0,1,0,0,0
+316,2020,Ticketmaster,Chicago, IL,Business Analyst,2,Analytic,118000,6,3.0,118000,0,0,0,1,0,0,0
+317,2021,Adobe,San Francisco, CA,Business Analyst,2,Operations,152000,10,10.0,120000,10000,22000,0,1,0,0,0
+318,2020,Amazon,Seattle, WA,Business Analyst,2,Internal,180000,7,1.0,120000,30000,30000,0,0,0,0,0
+319,2020,Amazon,Seattle, WA,Business Analyst,2,Data analytics,160000,9,3.0,120000,40000,0,1,0,0,0,0
+320,2020,Amazon,Arizona City, AZ,Business Analyst,2,Data,170000,11,2.0,120000,50000,0,1,0,0,0,0
+321,2020,Boeing,Seattle, WA,Business Analyst,2,Product,120000,6,6.0,120000,0,2000,1,0,0,0,0
+322,2020,Cisco,Milpitas, CA,Business Analyst,2,Analytic,133000,7,4.0,120000,0,13000,0,0,0,0,0
+323,2020,Electronic Arts,Redwood City, CA,Business Analyst,2,Analytic,150000,6,3.0,120000,13000,18000,1,0,0,0,0
+324,2020,Google,Sunnyvale, CA,Business Analyst,2,Operations,190000,6,2.0,120000,50000,20000,0,0,0,0,0
+325,2020,Hulu,Los Angeles, CA,Business Analyst,2,Analysis,160000,5,3.0,120000,15000,25000,0,0,0,0,0
+326,2021,Moody's,New York, NY,Business Analyst,2,general,130000,5,5.0,120000,0,10000,0,0,0,0,0
+327,2021,Procter & Gamble,Minneapolis, MN,Business Analyst,2,Growth,128000,15,1.0,120000,0,8000,0,1,0,0,0
+328,2020,Toyota USA,Dallas, TX,Business Analyst,2,Growth,180000,12,0.0,120000,0,60000,1,0,0,0,0
+329,2021,Upwork,Chicago, IL,Business Analyst,2,Data,155000,2,0.0,120000,21000,14000,0,0,0,0,0
+330,2021,Wells Fargo,Chicago, IL,Business Analyst,2,Operations,144000,10,10.0,120000,0,24000,0,0,0,0,0
+331,2021,Amazon,Seattle, WA,Business Analyst,2,General,164000,6,1.0,121000,28000,15000,0,0,0,0,0
+332,2021,Google,Sunnyvale, CA,Business Analyst,2,Data Analytics,130000,3,1.0,121000,0,9000,1,0,0,0,0
+333,2020,ZS Associates,San Mateo, CA,Business Analyst,2,Data,131000,6,2.0,121000,0,10000,0,0,0,0,0
+334,2020,Amazon,Washington, DC,Business Analyst,2,Operations,144000,3,0.0,122000,22000,0,1,0,0,0,0
+335,2021,Facebook,Menlo Park, CA,Business Analyst,2,General,160000,6,2.0,122000,26000,12000,0,1,0,0,0
+336,2020,Walmart,San Francisco, CA,Business Analyst,2,Data,151000,2,1.0,122000,5000,24000,1,0,0,0,0
+337,2021,S&P Global,New York, NY,Business Analyst,2,Credit Analyst,153000,4,4.0,123000,0,30000,0,1,0,0,0
+338,2020,The Home Depot,Austin, TX,Business Analyst,2,Production,140000,20,5.0,123000,13000,4000,0,1,0,0,0
+339,2020,Verizon Media,Dulles, VA,Business Analyst,2,Analytic,145000,5,1.0,124000,0,19000,0,1,0,0,0
+340,2020,Airbnb,San Francisco, CA,Business Analyst,2,Analytic,175000,5,2.0,125000,50000,0,0,0,0,0,0
+341,2021,Amazon,Seattle, WA,Business Analyst,2,Operations,150000,11,1.0,125000,15000,10000,0,0,0,0,0
+342,2021,Amazon,San Francisco, CA,Business Analyst,2,Data Analyst,145000,7,2.0,125000,15000,0,1,0,0,0,0
+343,2020,Amazon,Seattle, WA,Business Analyst,2,Data,178000,8,1.0,125000,30000,23000,1,0,0,0,0
+344,2020,Amazon,Seattle, WA,Business Analyst,2,AWS,178000,9,0.0,125000,30000,23000,0,0,0,0,0
+345,2021,Amazon,Seattle, WA,Business Analyst,2,Alexa,160000,8,2.0,125000,35000,0,1,0,0,0,0
+346,2021,eBay,San Jose, CA,Business Analyst,2,Finance,138000,4,1.0,125000,0,13000,1,0,0,0,0
+347,2020,eBay,San Jose, CA,Business Analyst,2,Analytic,143000,4,0.0,125000,0,13000,1,0,0,0,0
+348,2021,JP Morgan Chase,Jersey City, NJ,Business Analyst,2,Internal,139000,10,2.0,125000,0,14000,0,1,0,0,0
+349,2021,JPMorgan Chase,New York, NY,Business Analyst,2,General,190000,5,5.0,125000,7000,59000,1,0,0,0,0
+350,2020,Klarna,New York, NY,Business Analyst,2,Operations,150000,2,1.0,125000,0,25000,0,1,0,0,0
+351,2020,LinkedIn,San Francisco, CA,Business Analyst,2,Data,164000,5,3.0,125000,26000,13000,1,0,0,0,0
+352,2020,Pinterest,New York, NY,Business Analyst,2,Data,152000,5,3.0,125000,25000,2000,0,0,0,0,0
+353,2021,Amazon,Seattle, WA,Business Analyst,2,General,140000,2,2.0,126000,14000,0,0,0,0,0,0
+354,2021,Amazon,Seattle, WA,Business Analyst,2,Data Engineer,199000,5,3.0,126000,73000,0,1,0,0,0,0
+355,2021,Bank of America,Charlotte, NC,Business Analyst,2,General,142000,13,1.0,128000,9000,5000,1,0,0,0,0
+356,2021,Capital One,New York, NY,Business Analyst,2,General,135000,5,4.0,128000,0,8000,0,0,0,0,0
+357,2020,Amazon,Seattle, WA,Business Analyst,2,Business Intelligence Engineer,152000,5,1.0,129000,3000,20000,1,0,0,0,0
+358,2020,Expedia,San Francisco, CA,Business Analyst,2,Analytic,142000,8,5.0,129000,0,13000,1,0,0,0,0
+359,2020,Oracle,Redwood City, CA,Business Analyst,2,Product,129000,10,10.0,129000,0,0,1,0,0,0,0
+360,2020,Amazon,Seattle, WA,Business Analyst,2,Operations,130000,5,0.0,130000,0,0,0,0,0,0,0
+361,2021,Booz Allen Hamilton,Washington, DC,Business Analyst,2,Analytic,130000,7,3.0,130000,0,1000,1,0,0,0,0
+362,2021,DoorDash,New York, NY,Business Analyst,2,Sales Strategy & Operations,155000,4,0.0,130000,25000,0,0,1,0,0,0
+363,2021,Facebook,Austin, TX,Business Analyst,2,General,158000,3,0.0,130000,15000,13000,1,0,0,0,0
+364,2020,Facebook,San Francisco, CA,Business Analyst,2,Data,150000,1,1.0,130000,20000,0,0,0,0,0,0
+365,2021,Google,Mountain View, CA,Business Analyst,2,Business Intelligence,180000,6,2.0,130000,30000,20000,0,0,1,0,0
+366,2020,Google,San Francisco, CA,Business Analyst,2,Analytic,250000,9,1.0,130000,40000,80000,0,0,0,0,0
+367,2020,IBM,New York, NY,Business Analyst,2,Finance,130000,10,1.0,130000,0,0,1,0,0,0,0
+368,2020,LinkedIn,San Francisco, CA,Business Analyst,2,Sales Insights,193000,7,7.0,130000,50000,13000,0,1,0,0,0
+369,2020,linkedin,San Francisco, CA,Business Analyst,2,Analytic,165000,7,3.0,130000,20000,11000,0,0,0,0,0
+370,2020,Microsoft,Seattle, WA,Business Analyst,2,finance,150000,10,7.0,130000,9000,11000,0,0,0,0,0
+371,2020,Microsoft,Seattle, WA,Business Analyst,2,Analytic,155000,4,2.0,130000,9000,17000,0,0,0,0,0
+372,2021,Nutanix,San Jose, CA,Business Analyst,2,Sales Operations,150000,5,0.0,130000,20000,0,0,0,0,0,0
+373,2020,PayPal,San Jose, CA,Business Analyst,2,Analytic,175000,6,3.0,130000,40000,1000,0,1,0,0,0
+374,2020,ServiceNow,Santa Clara, CA,Business Analyst,2,Business Analysis,169000,10,2.0,130000,19000,20000,0,1,0,0,0
+375,2020,Uber,San Francisco, CA,Business Analyst,2,Data,160000,4,2.0,130000,15000,15000,0,0,0,0,0
+376,2021,walmart,San Bruno, CA,Business Analyst,2,general,180000,5,2.0,130000,25000,25000,0,0,0,0,0
+377,2021,Astrazeneca,Gaithersburg, MD,Business Analyst,2,Operations,173000,10,3.0,131000,10000,32000,1,0,0,0,0
+378,2021,Astrazeneca,Gaithersburg, MD,Business Analyst,2,Operations,173000,11,4.0,131000,10000,32000,1,0,0,0,0
+379,2021,Astrazeneca,Gaithersburg, MD,Business Analyst,2,General,170000,10,4.0,131000,8000,30000,1,0,0,0,0
+380,2020,Dell Technologies,Austin, TX,Business Analyst,2,Operations,151000,10,4.0,131000,0,20000,0,0,0,0,0
+381,2020,Scribd,San Francisco, CA,Business Analyst,2,Product,131000,3,1.0,131000,2000,0,0,1,0,0,0
+382,2021,Google,Sunnyvale, CA,Business Analyst,2,Sales operations,173000,5,1.0,132000,21000,20000,0,1,0,0,0
+383,2021,Google,Mountain View, CA,Business Analyst,2,sales,199000,7,2.0,134000,38000,27000,0,1,0,0,0
+384,2020,Amazon,Seattle, WA,Business Analyst,2,API Development (Back-End),160000,15,5.0,135000,15000,10000,0,0,0,0,0
+385,2020,Dropbox,San Francisco, CA,Business Analyst,2,Product,165000,3,1.0,135000,20000,10000,1,0,0,0,0
+386,2020,Exxonmobil,Houston, TX,Business Analyst,2,Analytic,135000,10,2.0,135000,0,0,0,0,0,0,0
+387,2021,Godaddy,Kirkland, WA,Business Analyst,2,Marketing,169000,7,2.0,135000,20000,14000,0,0,0,0,0
+388,2021,Google,Redwood City, CA,Business Analyst,2,Sales Ops,193000,3,0.0,135000,38000,20000,1,0,0,0,0
+389,2020,Google,New York, NY,Business Analyst,2,Analyst,256000,8,2.0,135000,81000,40000,0,0,0,0,0
+390,2021,AWS,Seattle, WA,Business Analyst,2,Product,170000,6,2.0,136000,35000,0,0,0,0,0,0
+391,2020,SAP,Palo Alto, CA,Business Analyst,2,SAP,200000,10,1.0,136000,50000,14000,0,0,0,0,0
+392,2021,Amazon,Boston, MA,Business Analyst,2,HR,296000,5,0.0,137000,14000,145000,0,0,0,0,0
+393,2020,Google,Mountain View, CA,Business Analyst,2,Analytic,190000,6,1.0,137000,33000,21000,0,1,0,0,0
+394,2020,Google,San Francisco, CA,Business Analyst,2,Analytic,258000,9,1.0,137000,40000,82000,0,0,0,0,0
+395,2020,Cadence,San Jose, CA,Business Analyst,2,Security,138000,2,2.0,138000,0,0,0,0,0,0,0
+396,2021,Facebook,Washington, DC,Business Analyst,2,Human Resources,172000,5,2.0,138000,20000,14000,0,1,0,0,0
+397,2020,Facebook,New York, NY,Business Analyst,2,Data,167000,9,1.0,139000,14000,14000,0,1,0,0,0
+398,2020,Airbnb,Portland, OR,Business Analyst,2,Data,200000,6,2.0,140000,60000,0,1,0,0,0,0
+399,2021,Amazon,Seattle, WA,Business Analyst,2,General,208000,8,4.0,140000,68000,0,0,0,0,0,0
+400,2021,Apple,Cupertino, CA,Business Analyst,2,Retail Finance,190000,6,2.0,140000,40000,15000,0,0,0,0,0
+401,2020,Apple,Cupertino, CA,Business Analyst,2,Operations,191000,8,1.0,140000,26000,25000,0,1,0,0,0
+402,2021,Boeing,Seattle, WA,Business Analyst,2,Financial Analyst,140000,16,16.0,140000,0,0,0,0,0,0,0
+403,2020,Google,Mountain View, CA,Business Analyst,2,Product,200000,8,2.0,140000,38000,22000,0,0,0,0,0
+404,2020,Google,Mountain View, CA,Business Analyst,2,Mobile (iOS + Android),170000,6,2.0,140000,25000,5000,0,0,0,0,0
+405,2021,Google,Redwood City, CA,Business Analyst,2,General,191000,4,1.0,140000,31000,21000,0,1,0,0,0
+406,2020,Google,San Francisco, CA,Business Analyst,2,Android,200000,5,2.0,140000,40000,20000,0,0,0,0,0
+407,2020,Intel,Portland, OR,Business Analyst,2,Finance,198000,23,21.0,140000,15000,43000,1,0,0,0,0
+408,2020,Intuit,Mountain View, CA,Business Analyst,2,Big Data,190000,3,0.0,140000,20000,30000,0,1,0,0,0
+409,2021,Priceline,Norwalk, CT,Business Analyst,2,Analytics,161000,9,4.0,140000,0,21000,1,0,0,0,0
+410,2021,RingCentral,San Francisco, CA,Business Analyst,2,Sfdc,170000,12,2.0,140000,20000,10000,0,1,0,0,0
+411,2020,Square,San Francisco, CA,Business Analyst,2,Operations,165000,7,0.0,140000,25000,0,0,0,0,0,0
+412,2021,Twitter,San Francisco, CA,Business Analyst,2,Business Analyst,185000,2,0.0,140000,20000,20000,0,0,0,0,0
+413,2021,Twitter,San Francisco, CA,Business Analyst,2,Analytics,185000,3,0.0,140000,20000,25000,1,0,0,0,0
+414,2020,Walmart,San Bruno, CA,Business Analyst,2,Analytic,210000,8,5.0,140000,40000,30000,0,0,0,0,0
+415,2021,Amazon,Seattle, WA,Business Analyst,2,Product,222000,12,2.0,142000,40000,45000,0,1,0,0,0
+416,2020,McKesson,Irving, TX,Business Analyst,2,Analytic,172000,10,2.0,142000,4000,25000,0,0,0,0,0
+417,2021,Uber,San Francisco, CA,Business Analyst,2,Core Analytics,181000,5,0.0,142000,24000,14000,1,0,0,0,0
+418,2020,Google,Seattle, WA,Business Analyst,2,Data,143000,4,2.0,143000,0,3000,0,0,0,0,0
+419,2021,Facebook,Los Angeles, CA,Business Analyst,2,Data,196000,9,1.0,144000,36000,16000,0,0,0,0,0
+420,2020,LinkedIn,San Francisco, CA,Business Analyst,2,Data,215000,7,7.0,144000,50000,21000,0,0,0,0,0
+421,2020,Amazon,Seattle, WA,Business Analyst,2,Infrastructure,185000,8,0.0,145000,3000,40000,0,0,0,0,0
+422,2020,Amazon,Seattle, WA,Business Analyst,2,Data,230000,8,0.0,145000,45000,45000,0,0,0,0,0
+423,2020,Amazon,Seattle, WA,Business Analyst,2,Data,230000,8,0.0,145000,45000,45000,0,0,0,0,0
+424,2020,Datadog,San Francisco, CA,Business Analyst,2,Operations,161000,4,1.0,145000,16000,0,0,0,0,0,0
+425,2020,Facebook,Austin, TX,Business Analyst,2,Data,195000,5,0.0,145000,28000,22000,0,0,0,0,0
+426,2020,Google,Mountain View, CA,Business Analyst,2,Analytic,250000,6,6.0,145000,80000,25000,0,1,0,0,0
+427,2021,T-Mobile,Bellevue, WA,Business Analyst,2,Business Analysis,190000,8,2.0,145000,15000,30000,0,0,0,0,0
+428,2021,Udemy,San Francisco, CA,Business Analyst,2,Partnerships,175000,10,1.0,145000,10000,20000,0,0,0,0,0
+429,2021,Adobe,San Francisco, CA,Business Analyst,2,Sales,209000,7,2.0,146000,25000,38000,1,0,0,0,0
+430,2020,Facebook,Seattle, WA,Business Analyst,2,Operations,191000,10,2.0,146000,25000,20000,0,0,0,0,0
+431,2021,T-Mobile,Bellevue, WA,Business Analyst,2,Sales Intelligence,190000,2,2.0,146000,15000,29000,1,0,0,0,0
+432,2020,Afterpay,New York, NY,Business Analyst,2,Finance,150000,7,1.0,150000,0,0,1,0,0,0,0
+433,2020,Apple,San Francisco, CA,Business Analyst,2,Product,184000,0,0.0,150000,24000,10000,0,0,0,0,0
+434,2021,Apple,Cupertino, CA,Business Analyst,2,Finance,235000,12,4.0,150000,60000,25000,0,0,0,0,0
+435,2021,ebay,San Jose, CA,Business Analyst,2,Analytic,180000,7,4.0,150000,15000,15000,0,0,0,0,0
+436,2021,First Republic bank,San Francisco, CA,Business Analyst,2,Wealth management,190000,15,2.0,150000,0,40000,0,1,0,0,0
+437,2020,GoDaddy,Sunnyvale, CA,Business Analyst,2,Marketing Analytics,180000,10,1.0,150000,20000,10000,0,0,0,0,0
+438,2020,Google,San Francisco, CA,Business Analyst,2,Operations,250000,11,2.0,150000,80000,20000,0,0,0,0,0
+439,2020,Google,New York, NY,Business Analyst,2,Analytic,160000,3,2.0,150000,5000,10000,0,0,0,0,0
+440,2021,Oracle,Santa Monica, CA,Business Analyst,2,Sales,180000,24,24.0,150000,0,30000,1,0,0,0,0
+441,2021,Facebook,Menlo Park, CA,Business Analyst,2,Product growth/growth marketing,243000,5,2.0,153000,74000,15000,1,0,0,0,0
+442,2020,Microsoft,Redmond, WA,Business Analyst,2,Product,189000,7,5.0,153000,17000,19000,0,0,0,0,0
+443,2020,Amazon,Arlington, VA,Business Analyst,2,Operations,295000,16,0.0,155000,84000,57000,1,0,0,0,0
+444,2021,Facebook,Austin, TX,Business Analyst,2,Operations,208000,6,3.0,155000,30000,23000,0,1,0,0,0
+445,2021,IBM,San Jose, CA,Business Analyst,2,Internal,155000,45,20.0,155000,0,0,1,0,0,0,0
+446,2020,Intuit,San Diego, CA,Business Analyst,2,Data,305000,9,9.0,155000,110000,40000,0,1,0,0,0
+447,2021,LinkedIn,San Francisco, CA,Business Analyst,2,Sales Operations,250000,10,3.0,155000,72000,23000,0,0,0,0,0
+448,2021,Microsoft,Redmond, WA,Business Analyst,2,Finance,190000,4,0.0,155000,7000,25000,1,0,0,0,0
+449,2021,Google,Mountain View, CA,Business Analyst,2,Finance,244000,6,6.0,158000,60000,26000,0,0,0,0,0
+450,2021,Amazon,Chicago, IL,Business Analyst,2,General,290000,13,4.0,160000,130000,0,0,0,0,0,0
+451,2021,eBay,San Jose, CA,Business Analyst,2,payments,220000,10,4.0,160000,30000,25000,0,0,0,0,0
+452,2021,LinkedIn,San Francisco, CA,Business Analyst,2,Sales Operations,258000,10,3.0,160000,75000,23000,0,1,0,0,0
+453,2021,LinkedIn,San Francisco, CA,Business Analyst,2,Operations,226000,7,1.0,160000,50000,16000,0,1,0,0,0
+454,2020,T-Mobile,Seattle, WA,Business Analyst,2,Analyst,205000,18,3.0,160000,15000,32000,0,0,0,0,0
+455,2021,Thumbtack,San Francisco, CA,Business Analyst,2,General,190000,8,2.0,160000,30000,0,0,0,0,0,0
+456,2021,Amazon,Seattle, WA,Business Analyst,2,General,325000,15,1.0,164000,41000,120000,0,0,0,0,0
+457,2021,LinkedIn,San Francisco, CA,Business Analyst,2,business analytics,197000,10,4.0,165000,32000,0,0,0,0,0,0
+458,2020,Playstation,San Mateo, CA,Business Analyst,2,Analytics,215000,8,3.0,165000,0,50000,0,0,0,0,0
+459,2021,Google,Sunnyvale, CA,Business Analyst,2,supply chain,275000,16,6.0,167000,75000,33000,0,1,0,0,0
+460,2020,IBM,New York, NY,Business Analyst,2,Operations,170000,14,13.0,168000,0,2000,1,0,0,0,0
+461,2021,Google,Mountain View, CA,Business Analyst,2,Sales Operations,240000,6,2.0,169000,46000,25000,0,0,0,0,0
+462,2020,MITRE,Washington, DC,Business Analyst,2,Analytic,169000,14,2.0,169000,0,0,0,0,0,0,0
+463,2020,Credit Karma,Los Angeles, CA,Business Analyst,2,Product,200000,4,1.0,170000,30000,0,0,0,0,0,0
+464,2020,Facebook,Menlo Park, CA,Business Analyst,2,Analytic,230000,7,4.0,170000,30000,30000,0,1,0,0,0
+465,2021,Intuit,Mountain View, CA,Business Analyst,2,Analytics,255000,9,0.0,170000,50000,35000,1,0,0,0,0
+466,2021,Thumbtack,San Francisco, CA,Business Analyst,2,Analytics,240000,5,0.0,170000,70000,0,1,0,0,0,0
+467,2021,PayPal,San Jose, CA,Business Analyst,2,Operations,221000,20,1.0,171000,24000,26000,1,0,0,0,0
+468,2020,Affirm,San Francisco, CA,Business Analyst,2,Analytic,204000,3,0.0,174000,30000,0,1,0,0,0,0
+469,2021,Affirm,San Francisco, CA,Business Analyst,2,Analytic,231000,4,0.0,174000,57000,0,1,0,0,0,0
+470,2021,Facebook,Seattle, WA,Business Analyst,2,Finance,269000,12,3.0,174000,60000,35000,0,0,0,0,0
+471,2021,Facebook,Menlo Park, CA,Business Analyst,2,Product,230000,3,2.0,175000,30000,27000,0,0,0,0,0
+472,2020,Google,New York, NY,Business Analyst,2,Operations,265000,6,1.0,175000,60000,30000,1,0,0,0,0
+473,2021,Google,San Francisco, CA,Business Analyst,2,General,245000,8,0.0,175000,45000,25000,1,0,0,0,0
+474,2021,Opendoor,Dallas, TX,Business Analyst,2,"Sales, Lending",280000,20,2.0,175000,80000,25000,0,0,0,0,0
+475,2020,Slack,San Francisco, CA,Business Analyst,2,Operations,350000,11,1.0,175000,150000,27000,1,0,0,0,0
+476,2021,Yahoo,San Francisco, CA,Business Analyst,2,General,280000,14,9.0,176000,60000,44000,0,1,0,0,0
+477,2021,Facebook,San Francisco, CA,Business Analyst,2,Operations,245000,9,3.0,179000,40000,27000,0,0,0,0,0
+478,2021,Apple,Cupertino, CA,Business Analyst,2,General,320000,12,4.0,180000,100000,40000,0,1,0,0,0
+479,2021,Chime,San Francisco, CA,Business Analyst,2,Product Analytics,288000,4,1.0,180000,90000,18000,0,0,0,0,0
+480,2021,Facebook,Menlo Park, CA,Business Analyst,2,Analytic,240000,6,1.0,180000,33000,27000,0,1,0,0,0
+481,2021,Google,San Francisco, CA,Business Analyst,2,Sales Operations,340000,7,7.0,180000,120000,40000,0,1,0,0,0
+482,2021,Google,Sunnyvale, CA,Business Analyst,2,General,300000,12,6.0,180000,80000,40000,1,0,0,0,0
+483,2020,Microsoft,Redmond, WA,Business Analyst,2,ML / AI,230000,17,10.0,180000,20000,30000,0,0,0,0,0
+484,2020,Roku,Texas City, TX,Business Analyst,2,Data,200000,2,1.0,180000,20000,0,0,0,0,0,0
+485,2020,Salesforce,Irvine, CA,Business Analyst,2,Full Stack,300000,20,6.0,180000,0,120000,1,0,0,0,0
+486,2021,Square,San Francisco, CA,Business Analyst,2,Finance,240000,10,1.0,180000,50000,10000,0,1,0,0,0
+487,2020,Adobe,San Jose, CA,Business Analyst,2,Data,295000,13,8.0,190000,70000,35000,0,1,0,0,0
+488,2021,Google,Sunnyvale, CA,Business Analyst,2,General,360000,10,5.0,195000,120000,45000,0,0,0,0,0
+489,2020,CACI,Chantilly, VA,Business Analyst,3,MBSE,204000,31,2.0,200000,0,4000,1,0,0,0,0
+490,2020,Bank of America,New York, NY,Business Analyst,3,Analytic,225000,8,8.0,205000,4000,20000,1,0,0,0,0
+491,2020,Goldman Sachs,New York, NY,Business Analyst,3,Analyst,210000,0,0.0,210000,0,0,0,0,0,0,0
+492,2020,Google,Seattle, WA,Business Analyst,3,Analytic,500000,13,1.0,240000,200000,60000,0,0,1,0,0
+493,2021,Intel,Santa Clara, CA,Business Analyst,3,Operations Finance,482000,21,21.0,244000,114000,123000,0,1,0,0,0
+494,2021,Rakuten,San Mateo, CA,Business Analyst,3,General,400000,10,4.0,250000,75000,75000,1,0,0,0,0
