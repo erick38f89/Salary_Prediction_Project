@@ -6,7 +6,7 @@ The source of the data is [Kaggle.com](https://www.kaggle.com/datasets/jackogoza
 
 ## Guiding Questions 
 We aim to make a prediction about the salaries that the graduates from the Data Analytics Bootcamp could obtain. We take in consideration the years of experience and each company’s salary level. We asked ourselves the following questions:
-•	Based of their experience, what salary can the graduates expect?  
-•	What would that salary be in the Florida area? 
-•	In the case of a remote job, what would the salary be for other estates in the US?
-•	Do the years of experience at the same company have an effect on the salary increase?
+- Based of their experience, what salary can the graduates expect?  
+- What would that salary be in the Florida area? 
+- In the case of a remote job, what would the salary be for other estates in the US?
+- Do the years of experience at the same company have an effect on the salary increase?
