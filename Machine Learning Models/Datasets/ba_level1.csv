@@ -1,0 +1,209 @@
+﻿timestamp,company,title,level,Salary Level,totalyearlycompensation,location,State,yearsofexperience,yearsatcompany,tag,basesalary,stockgrantvalue,bonus,gender,otherdetails,cityid,dmaid,rowNumber,Masters_Degree,Bachelors_Degree,Doctorate_Degree,Highschool,Some_College,Race_Asian,Race_White,Race_Two_Or_More,Race_Black,Race_Hispanic,Race,Education
+12/25/20 18:28,UBS,Business Analyst,L2,1,40000,Krakow, MA,5,2,Analytic,40000,0,0,NA,NA,14676,0,52388,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/14/21 19:03,HCA Healthcare,Business Analyst,L1,1,41000,Nashville, TN,1,1,Inventory,41000,0,0,Male,"Title: Supply Chain Analyst, Race: White, Academic Level: Bachelor‚Äôs degree",10919,659,69908,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/13/21 16:31,Qualtrics,Business Analyst,L1,1,48000,Provo, UT,0,0,General,44000,1000,3000,NA,Title: Product Specialist,11321,770,83278,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/6/21 18:10,Clearwater Analytics,Business Analyst,N/A,1,50000,Boise, ID,5,0,general,48000,0,0,Female,"Title: Customer Service Analyst, Race: Asian, Academic Level: Master‚Äôs degree",8132,757,68779,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/18/20 21:25,CIBC,Business Analyst,L3,1,50000,Ontario, CA,2,1,Product,50000,0,0,NA,NA,7339,803,37076,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/9/20 9:28,Spectrum,Business Analyst,Entry,1,60000,San Diego, CA,0,0,Analytic,50000,5000,2000,NA,NA,7416,825,47993,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/6/20 20:52,Amazon,Business Analyst,L4,1,53000,Seattle, WA,5,3,Growth,53000,0,0,NA,NA,11527,819,47858,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/21/20 19:01,JPMorgan Chase,Business Analyst,Analyst,1,55000,Dallas, TX,1,1,Other,55000,1000,1000,Male,"Race: Hispanic / Latino, Academic Level: Master‚Äôs degree",11039,623,33798,1,0,0,0,0,0,0,0,0,1,Hispanic,Master's Degree
+12/31/20 10:05,JPmorgan Chase,Business Analyst,601,1,57000,Columbus, OH,3,3,Analytic,57000,0,3000,Male,"0, Race: Asian, Academic Level: Master‚Äôs degree",10278,535,52753,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/29/20 3:09,vizio,Business Analyst,L1,1,57000,Irvine, CA,1,1,Operations,57000,0,0,NA,NA,7229,803,38615,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/24/20 14:21,BNY Mellon,Business Analyst,L3,1,63000,Pittsburgh, PA,0,0,Analytic,58000,0,5000,Male,"Title: Emerging Leaders Program, Race: White, Academic Level: Bachelor‚Äôs degree",10648,508,52318,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+9/23/20 20:40,Deloitte,Business Analyst,Solution Analyst,1,59000,Orlando, FL,1,1,Operations,59000,0,0,NA,NA,7776,534,42470,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/5/21 9:54,Deloitte,Business Analyst,Analyst,1,64000,Lake Mary, FL,0,0,Customer & Marketing,59000,0,5000,Male,"Title: Solution Analyst, Race: Black or African American, Academic Level: Bachelor‚Äôs degree",14015,534,64244,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+7/17/21 14:09,Amazon,Business Analyst,L4,1,65000,Nashville, TN,1,0,General,60000,5000,0,Male,"Title: Analyst, Race: White, Academic Level: Master‚Äôs degree",10919,659,78626,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+10/19/20 7:59,Facebook,Business Analyst,IC2,1,71000,Austin, TX,0,0,Operations,60000,4000,7000,Female,Title: Operations Analyst,10965,635,45717,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/5/20 10:24,JPMorgan Chase,Business Analyst,601,1,65000,New York, NY,0,0,Analytic,60000,0,5000,Male,"2015, Race: White, Academic Level: Bachelor‚Äôs degree",10182,501,39881,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+12/25/20 23:03,JPMorgan Chase,Business Analyst,Analyst,1,64000,Columbus, OH,0,0,Analytic,60000,0,4000,NA,Title: Analyst,10278,535,52394,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/11/21 6:05,Kroger,Business Analyst,G1,1,70000,Cincinnati, OH,0,0,Finance,60000,0,10000,Female,"Title: Financial Analyst, Academic Level: Bachelor‚Äôs degree",10274,515,61054,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+8/7/21 12:51,Morgan Stanley,Business Analyst,Analyst,1,70000,New York, NY,0,0,Operations,60000,0,10000,NA,Title: Operations Analyst,10182,501,82150,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/21/21 13:45,Amazon,Business Analyst,4,1,100000,Seattle, WA,4,4,General,63000,37000,0,Male,"Remote, Title: Business Analyst, Race: White",11527,819,79222,0,0,0,0,0,0,1,0,0,0,White,NA
+5/27/21 0:18,amazon,Business Analyst,l4,1,77000,Seattle, WA,2,1,General,64000,3000,13000,Female,"Title: Business Analyst, Race: Asian, Academic Level: Master‚Äôs degree",11527,819,71262,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+3/7/21 11:58,Amazon,Business Analyst,4,1,80000,Seattle, WA,1,1,Finance,65000,11000,7000,NA,Title: Financial Analyst,11527,819,60435,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/2/20 12:38,Cisco,Business Analyst,Grade 4,1,65000,Raleigh, NC,1,1,DevOps,65000,0,2000,Female,"Race: Black or African American, Academic Level: Bachelor‚Äôs degree",1317,560,43661,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+1/2/21 18:00,Convoy,Business Analyst,L4,1,65000,Seattle, WA,10,2,Operations,65000,0,0,Female,"I was granted 3,000 options on hire; and then traded cash for equity (appx 1k more), Race: White, Academic Level: Bachelor‚Äôs degree",11527,819,52946,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+1/6/21 15:57,Logitech,Business Analyst,L1,1,70000,Newark, CA,4,1,Operation and Analytics,65000,0,5000,Female,NA,7328,807,53314,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/4/20 12:13,Northrop Grumman,Business Analyst,L1,1,65000,San Diego, CA,1,1,Production,65000,0,0,Male,"Race: White, Academic Level: Bachelor‚Äôs degree",7416,825,43842,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+9/29/20 7:17,Qualtrics,Business Analyst,L3,1,71000,Provo, UT,4,4,Data,65000,1000,5000,NA,NA,11321,770,43171,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/16/20 22:34,Uber,Business Analyst,L3,1,85000,Amsterdam, NH,5,5,Analytic,65000,10000,10000,Male,"Race: Asian, Academic Level: Bachelor‚Äôs degree",6580,0,36764,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+9/10/20 17:25,CBRE,Business Analyst,Lower,1,66000,Philadelphia, PA,3,1,Analytic,66000,0,5000,Male,"Race: Hispanic / Latino, Academic Level: Master‚Äôs degree",10646,504,40618,1,0,0,0,0,0,0,0,0,1,Hispanic,Master's Degree
+2/25/21 18:59,Micron,Business Analyst,P3,1,81000,Boise, ID,1,1,Marketing,66000,10000,5000,NA,NA,8132,757,59177,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/13/20 18:06,Capgemini,Business Analyst,L1,1,68000,Chicago, IL,0,0,Tech Consulting,68000,0,0,NA,NA,8198,602,45032,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/25/20 23:05,JPMorgan Chase,Business Analyst,Associate,1,73000,Columbus, OH,2,2,Analytic,68000,0,5000,NA,Title: Associate,10278,535,52395,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/17/21 17:11,Oracle,Business Analyst,IC1,1,68000,Redwood City, CA,3,3,general,68000,0,0,Female,"Title: Business Analyst, Race: Asian, Academic Level: Bachelor‚Äôs degree",7392,807,70193,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+10/1/20 11:54,Amazon,Business Analyst,L4,1,92000,Seattle, WA,1,1,Supply Chain,69000,13000,10000,Female,"Race: Asian, Academic Level: Master‚Äôs degree",11527,819,43511,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/8/20 12:45,Amazon,Business Analyst,L4,1,90000,Seattle, WA,1,1,Analytic,69000,13000,10000,Female,"Race: Asian, Academic Level: Master‚Äôs degree",11527,819,35767,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+6/30/21 20:31,Johnson & Johnson,Business Analyst,23,1,73000,Titusville, NJ,1,0,General,69000,0,6000,NA,"Remote, Title: Gold Associate",39218,504,76225,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/22/20 10:40,Anaplan,Business Analyst,L1,1,70000,Minneapolis, MN,4,2,Data,70000,0,0,NA,NA,9194,613,42205,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/23/20 18:12,Cognizant,Business Analyst,L1,1,72000,Mason, OH,13,1,Product,70000,0,2000,Male,"Race: Asian, Academic Level: Bachelor‚Äôs degree",31508,515,37728,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+7/30/20 9:52,Danaher,Business Analyst,P2,1,73000,Indianapolis, IN,3,3,Supply chain,70000,0,3000,Male,"Race: White, Academic Level: Bachelor‚Äôs degree",8399,527,34733,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+10/16/20 16:04,Deloitte,Business Analyst,1,1,70000,Atlanta, GA,1,1,Operations,70000,0,2000,NA,NA,7839,524,45449,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/22/21 12:21,Genesys,Business Analyst,L1,1,74000,Raleigh, NC,2,1,Sales,70000,0,4000,Female,"Title: Business Analyst, Race: Asian, Academic Level: Bachelor‚Äôs degree",1317,560,70664,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+11/20/20 11:40,Google,Business Analyst,L3,1,117000,Amsterdam, NH,8,6,Analytic,70000,23000,24000,Male,"Title: Strategy & Ops Mngr, Race: White, Academic Level: Master‚Äôs degree",6580,0,49099,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+4/12/21 18:53,JPMorgan Chase,Business Analyst,Analyst,1,70000,New York, NY,0,0,General,70000,0,0,Male,"Title: Chase Leadership Development Analyst, Race: White, Academic Level: Bachelor‚Äôs degree",10182,501,65370,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/27/20 21:39,Slalom,Business Analyst,L1,1,77000,Seattle, WA,3,1,Operations,70000,0,7000,NA,NA,11527,819,34462,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/6/21 18:44,Wayfair,Business Analyst,L1,1,82000,Boston, MA,0,0,Operations,70000,0,12000,Female,"Race: White, Academic Level: Bachelor‚Äôs degree",8816,506,60372,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+7/13/21 19:40,Wayfair,Business Analyst,L1,1,77000,Boston, MA,0,0,Marketing,70000,0,7000,Male,"Title: Business Analyst, Race: Asian, Academic Level: Bachelor‚Äôs degree",8816,506,78042,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+1/20/21 13:13,Wayfair,Business Analyst,L1,1,77000,Boston, MA,0,0,Growth,70000,0,7000,Male,"$5K Signing Bonus, Title: Business Analyst, Race: Asian, Academic Level: Bachelor‚Äôs degree",8816,506,54761,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+9/24/20 5:27,Google,Business Analyst,L2,1,93000,San Francisco, CA,0,0,Analyst,71000,11000,11000,NA,NA,7419,807,42522,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/22/21 0:29,Qualcomm,Business Analyst,L1,1,71000,San Diego, CA,3,1,General,71000,0,0,NA,Title: Project Analyst,7416,825,70622,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/11/20 5:00,Amazon,Business Analyst,L4,1,87000,Los Angeles, CA,5,1,Production Finance,72000,0,15000,Female,"Race: Black or African American, Academic Level: Bachelor‚Äôs degree",7275,803,48171,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+8/3/20 17:59,Amazon,Business Analyst,L5,1,80000,Seattle, WA,1,1,Operations,72000,2000,6000,NA,NA,11527,819,35179,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/19/18 14:52,Amazon,Business Analyst,L4,1,93000,Seattle, WA,7,2,Analytics,72000,12000,9000,NA,NA,11527,819,2147,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/23/21 19:22,American Express,Business Analyst,30,1,75000,New York, NY,2,0,General,72000,0,3000,Female,"Title: Senior Analyst, Race: Asian, Academic Level: Bachelor‚Äôs degree",10182,501,58874,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+8/3/20 17:58,Delta Air Lines,Business Analyst,Analyst 1,1,73000,Atlanta, GA,1,0,Data and Analytics,72000,0,1000,NA,Academic Level: Bachelor‚Äôs degree,7839,524,35178,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+7/19/20 7:42,Fidelity Investments,Business Analyst,L2,1,82000,Boston, MA,2,2,Web Development (Front-End),72000,0,10000,NA,NA,8816,506,33516,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/9/20 15:16,Gap,Business Analyst,L3,1,72000,New York, NY,1,1,N/A,72000,0,0,Male,"Race: Asian, Academic Level: Bachelor‚Äôs degree",10182,501,40445,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+10/7/20 10:07,Amazon,Business Analyst,L4,1,85000,Seattle, WA,1,0,Operations,73000,7000,5000,NA,NA,11527,819,44220,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/25/21 18:40,Deloitte,Business Analyst,Analyst,1,74000,Washington, DC,0,0,Product,74000,0,0,Male,"Title: Analyst, Race: Black or African American, Academic Level: Master‚Äôs degree",40303,511,55387,1,0,0,0,0,0,0,0,1,0,Black,Master's Degree
+8/10/21 22:33,JPMorgan Chase,Business Analyst,602,1,79000,San Antonio, TX,12,12,Analytics,74000,0,5000,Male,"Title: Business Operations Analyst Ii, Race: Hispanic / Latino, Academic Level: Some college coursework completed",11229,641,82713,0,0,0,0,1,0,0,0,0,1,Hispanic,Some College
+3/3/21 21:03,Amazon,Business Analyst,L4,1,79000,Seattle, WA,3,3,SQL/ ETL/ Tableau,75000,4000,0,Female,"Title: Business Intelligence Analyst, Race: Asian, Academic Level: Bachelor‚Äôs degree",11527,819,59989,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+10/10/20 16:28,Amazon,Business Analyst,L4,1,95000,Seattle, WA,1,1,Production,75000,20000,0,NA,NA,11527,819,44663,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/15/21 14:26,Amazon,Business Analyst,L4,1,87000,Seattle, WA,1,0,General,75000,8000,4000,NA,Title: Controllership Analyst,11527,819,61621,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/30/21 18:17,Amazon,Business Analyst,L4,1,96000,Seattle, WA,0,0,General,75000,11000,10000,NA,Title: Business Analyst,11527,819,80726,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/11/20 23:17,Amazon,Business Analyst,L4,1,90000,Seattle, WA,0,0,Analytic,75000,15000,0,NA,NA,11527,819,36163,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/12/20 20:26,Amazon,Business Analyst,L4,1,85000,Seattle, WA,1,0,Analytic,75000,5000,5000,NA,Title: Business Analyst,11527,819,48374,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/29/21 9:43,American Express,Business Analyst,B30,1,95000,Phoenix, AZ,2,0,General,75000,0,20000,NA,Title: Senior Analyst,7042,753,67867,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/14/20 13:28,Blue Yonder,Business Analyst,L2,1,79000,Waukesha, WI,6,3,Mobile (iOS + Android),75000,0,5000,NA,NA,11628,617,45139,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/13/21 6:49,EPAM Systems,Business Analyst,L1,1,78000,Pennsylvania Furnace, PA,0,0,Business Consulting,75000,0,3000,Other,"Remote, Title: Business Analyst",34757,574,77916,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/2/20 11:26,Excella,Business Analyst,Consultant,1,78000,Arlington, VA,3,3,Production,75000,0,3000,Female,"Race: White, Academic Level: Bachelor‚Äôs degree",11342,511,39205,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+2/2/21 6:14,Ford Motor,Business Analyst,GSR 5,1,79000,Dearborn, MI,1,1,Purchasing,75000,0,4000,Female,"Title: Business Analyst, Race: Black or African American, Academic Level: Bachelor‚Äôs degree",9050,505,56246,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+12/21/20 17:35,Ford Motor,Business Analyst,GSR6,1,79000,Dearborn, MI,2,1,Operations,75000,0,4000,Female,"Race: Two or More Races, Academic Level: Bachelor‚Äôs degree",9050,505,52035,0,1,0,0,0,0,0,1,0,0,Two Or More,Bachelor's Degree
+8/15/20 14:53,Johnson & Johnson,Business Analyst,1,1,81000,New Brunswick, NJ,0,0,Analytic,75000,0,6000,NA,NA,9942,501,36629,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/9/20 16:14,Juniper Square,Business Analyst,Associate,1,75000,San Francisco, CA,0,0,Operations,75000,0,5000,NA,NA,7419,807,40455,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/29/21 20:09,NXP Semiconductors,Business Analyst,Level 1,1,75000,Austin, TX,2,1,General,75000,0,0,Female,"Title: Business Intelligence Analyst, Race: Asian, Academic Level: Master‚Äôs degree",10965,635,71643,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+9/9/20 22:01,Staples,Business Analyst,35,1,75000,Boston, MA,0,0,Operations,75000,0,2000,NA,NA,8816,506,40497,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/6/21 19:43,Tempus,Business Analyst,Associate,1,80000,New York, NY,1,1,Marketing,75000,0,5000,NA,Title: Business Analyst,10182,501,68791,0,0,0,0,0,0,0,0,0,0,NA,NA
+2/9/21 22:16,Thermo Fisher Scientific,Business Analyst,Band 6,1,81000,Carlsbad, CA,3,1,HR,75000,0,6000,Female,"Race: Asian, Academic Level: Bachelor‚Äôs degree",7126,825,57106,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+3/22/21 16:40,Uber,Business Analyst,L3,1,88000,Amsterdam, NH,4,4,Operations,75000,3000,10000,Male,"Title: Strategy & Planning, Race: Asian, Academic Level: Bachelor‚Äôs degree",6580,0,62450,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+8/26/20 14:09,Visa,Business Analyst,L3,1,90000,Austin, TX,0,0,Other,75000,3000,12000,NA,NA,10965,635,38182,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/29/21 18:07,Amazon,Business Analyst,L4,1,93000,Seattle, WA,2,2,General,76000,10000,7000,Female,"Title: Business Analyst, Race: Asian, Academic Level: Master‚Äôs degree",11527,819,75962,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+11/29/20 15:38,Applied Materials,Business Analyst,B2,1,81000,Hillsboro, OR,4,2,Analytic,76000,0,5000,Female,"Title: Sales Operations, Race: Asian, Academic Level: Master‚Äôs degree",10500,820,49828,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/13/20 16:31,Uber,Business Analyst,L3,1,101000,Chicago, IL,1,1,Ops,77000,15000,9000,Male,Masters,8198,602,28534,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+7/1/21 14:07,Wayfair,Business Analyst,L2,1,89000,Boston, MA,3,3,Operations,77000,5000,8000,Female,"Title: Operations Analyst, Race: Black or African American, Academic Level: Bachelor‚Äôs degree",8816,506,76377,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+10/12/20 20:51,Accenture,Business Analyst,11,1,90000,Detroit, MI,1,1,iOS,78000,8000,3000,Male,"Race: Black or African American, Academic Level: Bachelor‚Äôs degree",9052,505,44924,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+11/29/20 13:00,Deloitte,Business Analyst,entry level,1,88000,Sacramento, CA,1,1,Product,78000,0,10000,Male,"Title: Analyst, Academic Level: Bachelor‚Äôs degree",7408,862,49820,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+4/23/21 2:00,Deloitte,Business Analyst,Analyst,1,88000,Sacramento, CA,0,0,General,78000,0,10000,NA,"Title: Gps Bta, Academic Level: Bachelor‚Äôs degree",7408,862,67038,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+5/24/21 17:20,Deloitte,Business Analyst,Analyst,1,90000,Arlington, VA,0,0,General,78000,0,10000,Male,"Remote, Title: Bta, Race: White, Academic Level: Bachelor‚Äôs degree",11342,511,70944,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+10/2/20 10:39,Deloitte Consulting,Business Analyst,Analyst,1,78000,Washington, DC,1,1,Analytic,78000,0,0,NA,Academic Level: Bachelor‚Äôs degree,40303,511,43640,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+11/30/20 11:27,Ernst and Young,Business Analyst,Consultant,1,83000,San Jose, CA,1,0,Analytic,78000,0,5000,Female,"Title: Technical Consultant, Race: Asian, Academic Level: Master‚Äôs degree",7422,807,49903,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+3/31/21 18:51,Freddie Mac,Business Analyst,L2,1,81000,Fairfax, VA,5,3,General,78000,0,3000,Male,"Title: Operations Associate, Race: Black or African American, Academic Level: Bachelor‚Äôs degree",11369,511,63665,0,1,0,0,0,0,0,0,1,0,Black,Bachelor's Degree
+10/4/20 19:07,JPMorgan,Business Analyst,Analyst,1,78000,New York, NY,1,0,Finance,78000,0,0,NA,NA,10182,501,43879,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/11/20 14:49,JPMorgan Chase,Business Analyst,1,1,78000,Jersey City, NJ,1,1,Operations,78000,0,0,NA,NA,9920,501,36103,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/20/20 13:09,PayPal,Business Analyst,L3,1,96000,Chicago, IL,2,2,Finance,78000,10000,8000,NA,Masters,8198,602,26998,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+4/5/21 19:30,Wayfair,Business Analyst,L2,1,92000,Boston, MA,1,1,Algorithms,78000,6000,8000,Male,"Title: Senior Analyst, Race: Asian, Academic Level: Bachelor‚Äôs degree",8816,506,64311,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+7/24/20 19:26,Buzzfeed,Business Analyst,4,1,79000,Los Angeles, CA,2,2,iOS,79000,0,0,NA,NA,7275,803,34148,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/3/21 13:04,Cisco,Business Analyst,4,1,86000,San Francisco, CA,0,0,Operations,79000,0,7000,Female,"Title: Business Analyst, Race: Asian, Academic Level: Bachelor‚Äôs degree",7419,807,64034,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+4/3/21 16:50,Cisco,Business Analyst,4,1,86000,San Jose, CA,1,1,General,79000,0,7000,Female,"Title: Business Operation Analyst, Race: Asian, Academic Level: Bachelor‚Äôs degree",7422,807,64051,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+5/9/21 15:14,Fidelity Investments,Business Analyst,l4,1,90000,Boston, MA,2,2,Data analyst,79000,0,11000,NA,Title: Data Analyst,8816,506,69107,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/12/20 3:04,Amazon,Business Analyst,L4,1,120000,Seattle, WA,0,0,Operations,80000,4000,36000,Male,"Title: Business Analyst, Race: Asian, Academic Level: Master‚Äôs degree",11527,819,44794,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/22/21 8:53,Amazon,Business Analyst,L4,1,90000,Seattle, WA,3,0,General,80000,0,10000,Female,"Title: Business Analyst, Race: Asian, Academic Level: Master‚Äôs degree",11527,819,66877,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+10/20/20 14:55,Amazon,Business Analyst,L5,1,120000,Seattle, WA,5,0,Data,80000,20000,20000,NA,Remote,11527,819,45909,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/9/21 10:07,Amazon,Business Analyst,L4,1,93000,Seattle, WA,3,2,BI,80000,8000,5000,NA,Title: Business Analyst,11527,819,64911,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/24/21 22:42,Capital One,Business Analyst,Business Analyst,1,80000,Chicago, IL,1,1,Credit,80000,0,0,Male,Title: Business Analyst,8198,602,62792,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/15/20 14:37,Capital One,Business Analyst,Associate,1,88000,Plano, TX,0,0,Analytic,80000,3000,5000,NA,NA,11204,623,48592,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/21/20 12:10,CBRE,Business Analyst,L1,1,80000,San Jose, CA,10,3,Operations,80000,0,0,Male,"Remote, Race: Asian, Academic Level: Some college coursework completed",7422,807,37485,0,0,0,0,1,1,0,0,0,0,Asian,Some College
+7/30/20 15:31,Cisco,Business Analyst,Grade 4,1,87000,San Jose, CA,0,0,Networking,80000,0,7000,Female,"Race: Asian, Academic Level: Bachelor‚Äôs degree",7422,807,34768,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+8/31/20 11:10,Cisco,Business Analyst,Grade 4,1,85000,San Jose, CA,0,0,Networking,80000,0,5000,NA,NA,7422,807,38890,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/29/20 11:47,Cisco,Business Analyst,Grade 4,1,80000,San Jose, CA,1,0,Analytics,80000,0,0,NA,NA,7422,807,38645,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/27/20 19:40,CVS Health,Business Analyst,110,1,96000,Irving, TX,20,9,Analytic,80000,4000,12000,Female,"Remote, Race: White, Academic Level: Bachelor‚Äôs degree",11115,623,46760,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+8/11/21 18:33,Deloitte,Business Analyst,Analyst,1,95000,Philadelphia, PA,1,1,Security,80000,0,15000,Male,"Remote, Title: Solutions Engineer, Race: White, Academic Level: Bachelor‚Äôs degree",10646,504,82883,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+9/19/20 12:03,Deloitte,Business Analyst,1,1,82000,Washington, DC,3,1,Production,80000,0,2000,NA,NA,40303,511,41793,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/9/20 14:31,Discover,Business Analyst,L8,1,84000,Deerfield, IL,3,3,Analytic,80000,0,4000,NA,Title: Data Analyst,8208,602,44560,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/26/21 12:35,Goldman Sachs,Business Analyst,Analyst,1,97000,Dallas, TX,1,1,Analytic,80000,0,17000,Male,"Title: Analyst, Race: Black or African American, Academic Level: Master‚Äôs degree",11039,623,55483,1,0,0,0,0,0,0,0,1,0,Black,Master's Degree
+4/2/21 22:12,goPuff,Business Analyst,data analyst,1,92000,Philadelphia, PA,3,3,data analyst,80000,4000,8000,Male,"Title: Data Analyst, Race: White, Academic Level: Master‚Äôs degree",10646,504,63983,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+7/11/21 5:32,JPMorgan Chase,Business Analyst,Associate,1,85000,Wilmington, DE,3,1,General,80000,0,0,Female,"Title: Associate - Fraud Risk, Race: Asian, Academic Level: Master‚Äôs degree",7667,504,77626,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+10/5/20 18:04,JPMorgan Chase,Business Analyst,601,1,85000,Plano, TX,5,1,Analytic,80000,0,5000,Female,"Race: Asian, Academic Level: Master‚Äôs degree",11204,623,43999,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+1/4/21 8:41,Kla,Business Analyst,P2,1,88000,San Jose, CA,3,0,Operations,80000,0,8000,NA,NA,7422,807,53070,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/16/21 6:23,Morgan Stanley,Business Analyst,Analyst,1,95000,New York, NY,1,1,General,80000,0,15000,NA,Title: Analyst,10182,501,74059,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/8/21 22:31,Slalom,Business Analyst,Analyst,1,87000,Dallas, TX,1,1,Product,80000,0,7000,Male,"Title: Analyst, Academic Level: Master‚Äôs degree",11039,623,73052,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+11/11/20 8:26,Wayfair,Business Analyst,L2,1,97000,Boston, MA,1,0,Operations,80000,9000,8000,Male,"Title: Senior Analyst, Race: Asian, Academic Level: Bachelor‚Äôs degree",8816,506,48184,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+8/15/21 17:58,Wayfair,Business Analyst,L2,1,97000,Boston, MA,2,1,Operations,80000,9000,8000,Male,"Title: Senior Analyst, Race: Asian, Academic Level: Bachelor‚Äôs degree",8816,506,83583,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+10/12/20 20:01,Wayfair,Business Analyst,L2,1,108000,Boston, MA,2,2,Analytic,80000,20000,8000,NA,Title: Senior Analyst,8816,506,44917,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/15/20 8:58,Splunk,Business Analyst,P2,1,100000,Boulder, CO,5,2,Marketing,81000,12000,8000,NA,NA,7534,751,41195,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/12/21 12:34,Facebook,Business Analyst,L3,1,102000,Menlo Park, CA,3,2,Analytic,82000,0,20000,Male,"Title: Sourcing Specialist, Race: Asian, Academic Level: Bachelor‚Äôs degree",7300,807,53865,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+8/29/20 10:55,Google,Business Analyst,L2,1,110000,Mountain View, CA,1,1,Partnerships,82000,16000,12000,NA,Remote,7322,807,38640,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/12/20 20:22,Uber,Business Analyst,L3,1,100000,San Francisco, CA,5,2,Operations,83000,10000,5000,NA,NA,7419,807,44918,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/8/21 22:29,Verizon,Business Analyst,L3,1,93000,Basking Ridge, NJ,4,1,Analytic,83000,2000,10000,Female,Academic Level: Bachelor‚Äôs degree,15008,501,53573,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+3/23/21 19:37,Expedia,Business Analyst,K,1,94000,Seattle, WA,7,4,Finance,84000,0,10000,Male,"Title: Senior Finance Analyst, Race: Asian, Academic Level: Bachelor‚Äôs degree",11527,819,62609,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+7/31/20 12:47,Lam Research,Business Analyst,3,1,94000,Livermore, CA,2,2,Operations,84000,2000,8000,Female,"SPP, Race: Asian, Academic Level: Master‚Äôs degree",7267,807,34878,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/3/21 20:47,Thermo Fisher Scientific,Business Analyst,6,1,92000,Frederick, MD,4,4,Security,84000,0,8000,NA,Title: Security Engineer,8934,511,64085,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/21/20 14:28,Airbnb,Business Analyst,L7,1,125000,Portland, OR,5,1,Operations,85000,30000,10000,Female,Academic Level: Bachelor‚Äôs degree,10522,820,37504,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+3/22/21 13:38,Allstate,Business Analyst,L4,1,100000,San Francisco, CA,2,2,Data Analyst,85000,0,15000,NA,"Remote, Title: Data Analyst",7419,807,62425,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/9/21 13:38,Boeing,Business Analyst,L3,1,95000,Seattle, WA,5,5,Analytic,85000,0,10000,NA,NA,11527,819,53612,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/25/21 15:26,Fidelity Investments,Business Analyst,1,1,102000,Boston, MA,2,2,Financial Services,85000,2000,15000,Female,"Title: Business Strategy Analyst, Race: White, Academic Level: Bachelor‚Äôs degree",8816,506,71072,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+4/14/21 13:00,SAP,Business Analyst,T3,1,96000,Newtown Square, PA,6,6,Sales Operations,85000,0,12000,Male,"Remote, Title: Senior Business Specialist, Race: White, Academic Level: Bachelor‚Äôs degree",33465,504,65682,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+6/1/21 16:59,SAP,Business Analyst,T3,1,96000,Newtown Square, PA,6,6,Sales Operations,85000,0,11000,Male,"Remote, Title: Senior Business Specialist, Race: White, Academic Level: Bachelor‚Äôs degree",33465,504,71947,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+10/12/20 16:36,Twitter,Business Analyst,L3,1,89000,San Francisco, CA,1,1,Internal,85000,0,4000,Female,"Race: Asian, Academic Level: Bachelor‚Äôs degree",7419,807,44893,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+1/10/21 20:33,Visa,Business Analyst,Associate,1,90000,San Francisco, CA,0,0,Analytic,85000,0,5000,NA,Title: Rotational Program Associate,7419,807,53702,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/10/20 18:07,Wayfair,Business Analyst,L2,1,100000,Boston, MA,2,1,Operations,85000,5000,9000,NA,NA,8816,506,36006,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/17/20 14:40,Cisco,Business Analyst,N/A,1,88000,San Jose, CA,6,2,Operations,86000,0,2000,Female,"Contract Role, Race: Asian, Academic Level: Master‚Äôs degree",7422,807,51617,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/4/20 21:54,EY,Business Analyst,S1,1,86000,New York, NY,4,2,Tech consulting,86000,0,5000,Male,"Race: Asian, Academic Level: Master‚Äôs degree",10182,501,35358,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+5/30/21 8:09,Accenture,Business Analyst,Analyst,1,97000,New York, NY,0,0,Strategy and Consulting,87000,0,10000,Male,"Title: Consulting Analyst, Race: White, Academic Level: Bachelor‚Äôs degree",10182,501,71686,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+1/11/21 17:14,Oliver Wyman,Business Analyst,Consultant,1,93000,New York, NY,1,1,Operations,87000,0,6000,NA,NA,10182,501,53780,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/28/20 16:28,U.S. Bank,Business Analyst,L5,1,92000,Portland, OR,11,8,Operations,87000,0,6000,Female,"CAMS certification (Remote), Race: White, Academic Level: Bachelor‚Äôs degree",10522,820,52543,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+9/22/20 13:32,Blue Origin,Business Analyst,2,1,88000,Seattle, WA,4,3,Operations,88000,0,0,NA,NA,11527,819,42244,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/17/20 12:39,Capital one,Business Analyst,L1,1,102000,Washington, DC,0,0,None,88000,0,13000,NA,NA,40303,511,33388,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/2/20 19:58,Capital One,Business Analyst,l1,1,95000,Washington, DC,1,1,ML / AI,88000,0,7000,Male,"Race: Asian, Academic Level: Bachelor‚Äôs degree",40303,511,35092,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+8/26/20 11:47,Capital One,Business Analyst,ADP,1,99000,Washington, DC,0,0,Data,88000,0,11000,Male,"Race: White, Academic Level: Bachelor‚Äôs degree",40303,511,38154,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+9/24/20 11:57,Capital One,Business Analyst,Business Analyst,1,95000,Fairfax, VA,0,0,Data,88000,0,7000,NA,NA,11369,511,42566,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/24/20 5:28,Capital One,Business Analyst,L2,1,91000,Washington, DC,0,0,Analyst,88000,0,3000,NA,NA,40303,511,42523,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/8/21 23:29,Deloitte,Business Analyst,Consultant,1,90000,San Diego, CA,3,1,Analytic,88000,0,2000,Male,"Title: Data Analyst, Race: White, Academic Level: Bachelor‚Äôs degree",7416,825,53575,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+11/24/20 17:33,Goldman Sachs,Business Analyst,Analyst,1,98000,New York, NY,1,1,Operations,88000,0,10000,Male,"Race: White, Academic Level: Bachelor‚Äôs degree",10182,501,49503,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+10/26/20 21:20,Quest diagnostics,Business Analyst,48,1,90000,Secaucus, NJ,3,3,Analytic,88000,0,2000,Male,"Title: Sr Analyst, Academic Level: Master‚Äôs degree",9971,501,46640,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+4/30/21 1:50,Capital One,Business Analyst,L1,1,91000,Richmond, VA,0,0,Data,89000,0,2000,NA,"Remote, Title: Data Analyst",11434,556,67966,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/29/20 14:11,Capital One,Business Analyst,Business Analyst,1,95000,Washington, DC,1,1,Analytics,89000,0,6000,Male,NA,40303,511,31794,0,0,0,0,0,0,0,0,0,0,NA,NA
+5/19/21 6:24,Adobe,Business Analyst,L2,1,112000,San Jose, CA,3,2,FP&A,90000,13000,9000,Male,"$5k Relocation Bonus, Title: Financial Analyst, Race: White, Academic Level: Bachelor‚Äôs degree",7422,807,70326,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+9/26/20 21:06,Amazon,Business Analyst,L5,1,106000,Seattle, WA,5,1,Operations,90000,10000,6000,NA,NA,11527,819,42874,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/1/20 22:40,Amazon,Business Analyst,L4,1,120000,Seattle, WA,2,2,Analytic,90000,20000,10000,Male,Academic Level: Master‚Äôs degree,11527,819,43600,1,0,0,0,0,0,0,0,0,0,NA,Master's Degree
+4/9/21 13:53,Autodesk,Business Analyst,L2,1,99000,San Francisco, CA,5,2,Finance,90000,0,9000,NA,Title: Commissions Analyst,7419,807,64955,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/1/21 9:31,BNP Paribas,Business Analyst,L1,1,123000,New York, NY,1,1,General,90000,0,33000,Female,"Title: Global Markets Analyst, Race: Hispanic / Latino, Academic Level: Bachelor‚Äôs degree",10182,501,59590,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+1/26/21 8:40,Boeing,Business Analyst,L3,1,90000,Mesa, AZ,3,2,Infrastructure,90000,0,2000,NA,Title: Facilities Analyst,7032,753,55440,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/9/20 21:26,Capital One,Business Analyst,Associate Business Analyst,1,96000,Washington, DC,0,0,Web Development (Front-End),90000,0,6000,NA,NA,40303,511,48062,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/29/20 17:24,Goldman Sachs,Business Analyst,Analyst,1,135000,New York, NY,3,1,Research,90000,0,45000,Female,Race: Asian,10182,501,38695,0,0,0,0,0,1,0,0,0,0,Asian,NA
+3/7/21 2:58,Google,Business Analyst,L4,1,135000,Ireland, IN,7,4,Finance,90000,25000,20000,Male,"Remote, Title: Financial Analyst, Race: White, Academic Level: Master‚Äôs degree",28920,649,60404,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+10/13/20 0:50,IBM,Business Analyst,Band 7,1,100000,Dallas, TX,4,1,Infrastructure,90000,1000,9000,NA,NA,11039,623,44937,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/28/20 14:55,Indeed,Business Analyst,L1,1,104000,San Francisco, CA,1,1,Growth,90000,0,14000,Male,"Title: Analyst, Academic Level: Bachelor‚Äôs degree",7419,807,46860,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+7/23/20 15:21,Morningstar,Business Analyst,L4,1,110000,Chicago, IL,7,7,Research,90000,10000,5000,NA,NA,8198,602,34023,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/3/20 5:42,Oracle,Business Analyst,L3,1,90000,Madrid, MD,25,20,Analytic,90000,0,0,Male,"Race: White, Academic Level: Bachelor‚Äôs degree",3818,0,50188,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+4/5/21 17:09,Vimeo,Business Analyst,L2,1,104000,New York, NY,4,2,General,90000,10000,4000,Female,"Title: Senior Associate, Research & Consumer Insights, Race: White, Academic Level: Bachelor‚Äôs degree",10182,501,64290,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+9/22/20 14:18,Wells Fargo,Business Analyst,L3,1,90000,San Francisco, CA,6,1,iOS,90000,0,0,NA,NA,7419,807,42251,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/18/21 18:21,Capital One,Business Analyst,Associate,1,100000,Washington, DC,1,1,General,92000,0,8000,Male,"$2K relocation; $10K signing, Title: Business Analyst, Race: White, Academic Level: Bachelor‚Äôs degree",40303,511,62052,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
+12/23/20 7:38,Amazon,Business Analyst,L5,1,122000,Seattle, WA,5,0,Operations,93000,15000,14000,Female,"Title: Analyst, Race: Asian, Academic Level: Master‚Äôs degree",11527,819,52206,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/23/21 11:49,Citi,Business Analyst,C12,1,95000,Wilmington, DE,2,2,fraud analyst,93000,0,2000,Male,"Title: Snr. Analyst, Race: Asian, Academic Level: Master‚Äôs degree",7667,504,79605,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+9/1/20 17:32,Infosys,Business Analyst,5,1,95000,Atlanta, GA,12,12,Analytic,93000,0,2000,Male,"Race: Asian, Academic Level: Master‚Äôs degree",7839,524,39080,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+7/28/21 17:39,Microsoft,Business Analyst,59,1,101000,Redmond, WA,0,0,General,93000,3000,5000,NA,"Title: Business Development Analyst, Academic Level: Bachelor‚Äôs degree",11521,819,80382,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+3/20/21 15:35,Splunk,Business Analyst,P2,1,121000,San Francisco, CA,3,2,Cloud,93000,20000,10000,Female,"Title: Cloud Business Process Analyst, Race: Asian, Academic Level: Master‚Äôs degree",7419,807,62261,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+3/22/21 9:35,Uber,Business Analyst,3,1,109000,New York, NY,5,2,Operations,93000,10000,10000,Male,"Title: Operations Manager, Uber Eats, Race: Hispanic / Latino, Academic Level: Bachelor‚Äôs degree",10182,501,62392,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+9/3/20 14:20,Yelp,Business Analyst,L1,1,110000,San Francisco, CA,2,0,Internal,93000,15000,3000,Female,"Race: Asian, Academic Level: Bachelor‚Äôs degree",7419,807,39552,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+3/17/21 13:10,AIG,Business Analyst,19,1,102000,Los Angeles, CA,11,2,GENERAL,94000,0,8000,Male,"Title: Senior It Business Systems Analyst, Race: Asian, Academic Level: Master‚Äôs degree",7275,803,61866,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+4/4/21 0:10,Amazon,Business Analyst,L5,1,125000,Tempe, AZ,4,0,Supply chain,94000,7000,24000,NA,Title: Labor Planner,7053,753,64105,0,0,0,0,0,0,0,0,0,0,NA,NA
+12/16/20 12:29,BCG,Business Analyst,L2,1,119000,Atlanta, GA,5,3,Product,94000,0,25000,NA,Title: Senior Knowledge Analyst,7839,524,51440,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/14/21 18:30,IBM,Business Analyst,Band 7,1,94000,Atlanta, GA,2,2,Analytic,94000,0,0,Female,"Title: Senior Consultant, Race: Asian, Academic Level: Bachelor‚Äôs degree",7839,524,54161,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+5/5/21 13:05,Procore Technologies,Business Analyst,IC2,1,94000,Carpinteria, CA,5,2,Business Intelligence Analyst,94000,0,0,NA,"Remote, Title: Business Intelligence Analyst",7129,855,68581,0,0,0,0,0,0,0,0,0,0,NA,NA
+9/18/20 20:37,Vimeo,Business Analyst,N/A,1,99000,New York, NY,5,1,Sales Ops,94000,0,5000,NA,NA,10182,501,41739,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/2/21 8:45,Zulily,Business Analyst,L2,1,99000,Seattle, WA,3,1,Supply Chain,94000,0,5000,Female,"Title: Business Analyst, Academic Level: Bachelor‚Äôs degree",11527,819,76522,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+4/29/21 0:57,Accenture,Business Analyst,L10,1,100000,New York, NY,2,2,General,95000,0,5000,Male,Title: Senior Analyst,10182,501,67836,0,0,0,0,0,0,0,0,0,0,NA,NA
+11/2/20 18:04,Amazon,Business Analyst,L4,1,130000,Seattle, WA,5,0,Analytic,95000,30000,3000,Male,"Title: Operations Analyst, Race: Asian, Academic Level: Master‚Äôs degree",11527,819,47435,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+6/9/21 10:37,Comcast,Business Analyst,Analyst L3,1,103000,Philadelphia, PA,6,5,Data Analytics,95000,3000,5000,Male,"Title: Senior Analyst, Race: Asian, Academic Level: Master‚Äôs degree",10646,504,73118,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+9/10/20 5:50,Comcast,Business Analyst,Analyst 3,1,110000,Philadelphia, PA,5,3,Analytic,95000,10000,5000,Male,"Race: Asian, Academic Level: Master‚Äôs degree",10646,504,40527,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+8/1/20 17:13,Goldman Sachs,Business Analyst,Analyst,1,130000,New York, NY,2,2,Private Equity,95000,0,35000,NA,NA,10182,501,35001,0,0,0,0,0,0,0,0,0,0,NA,NA
+8/4/21 13:52,Goldman Sachs,Business Analyst,Analyst,1,125000,New York, NY,1,1,Asset Management,95000,0,30000,NA,Title: Analyst,10182,501,81549,0,0,0,0,0,0,0,0,0,0,NA,NA
+6/1/21 21:25,Grubhub,Business Analyst,N/A,1,95000,Chicago, IL,6,3,N/A,95000,0,0,Female,"Title: Sr Analyst, Race: Asian",8198,602,71975,0,0,0,0,0,1,0,0,0,0,Asian,NA
+9/13/20 0:58,Intuit,Business Analyst,L1,1,110000,San Francisco, CA,1,1,Analytics,95000,0,15000,Male,NA,7419,807,40911,0,0,0,0,0,0,0,0,0,0,NA,NA
+1/22/21 6:49,JP Morgan Chase,Business Analyst,Associate,1,102000,Dallas, TX,5,3,Product,95000,0,7000,NA,NA,11039,623,54970,0,0,0,0,0,0,0,0,0,0,NA,NA
+10/9/20 21:58,Kaiser Permanente,Business Analyst,Analytics,1,102000,Oakland, CA,3,3,Analytic,95000,0,7000,Male,"Title: Consulting Data Analyst, Race: Asian, Academic Level: Bachelor‚Äôs degree",7335,807,44609,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+9/8/20 9:51,Ultimate Software,Business Analyst,L2,1,100000,Weston, FL,5,2,Product,95000,5000,0,Male,"Race: Hispanic / Latino, Academic Level: Bachelor‚Äôs degree",41897,528,40228,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+10/6/20 16:59,Wells Fargo,Business Analyst,L3,1,95000,Charlotte, NC,6,2,Analytic,95000,5000,0,Female,"Race: Asian, Academic Level: Bachelor‚Äôs degree",9594,517,44149,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+11/3/20 14:23,Boeing,Business Analyst,L3,1,96000,Arlington, VA,6,6,Growth,96000,0,0,Male,"Title: Strategy Analyst, Race: White, Academic Level: Master‚Äôs degree",11342,511,47558,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+11/10/20 9:01,Capital One,Business Analyst,Associate,1,102000,New York, NY,1,1,Analytic,96000,2000,4000,Female,"Title: Business Analyst, Race: Asian, Academic Level: Bachelor‚Äôs degree",10182,501,48093,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+3/14/21 23:53,Adobe,Business Analyst,IC 2,1,125000,San Francisco, CA,2,2,Sales Operations,97000,18000,10000,Female,"Title: Program Manager, Race: Asian, Academic Level: Bachelor‚Äôs degree",7419,807,61544,0,1,0,0,0,1,0,0,0,0,Asian,Bachelor's Degree
+8/4/20 8:42,Maxim Integrated,Business Analyst,L2,1,107000,San Jose, CA,5,2,Supply Chain,97000,0,10000,Female,"Race: White, Academic Level: Master‚Äôs degree",7422,807,35242,1,0,0,0,0,0,1,0,0,0,White,Master's Degree
+9/12/20 15:22,Mphasis,Business Analyst,7,1,97000,New York, NY,17,13,Product,97000,0,0,Male,"Race: Asian, Academic Level: Master‚Äôs degree",10182,501,40878,1,0,0,0,0,1,0,0,0,0,Asian,Master's Degree
+2/4/21 16:12,Expedia,Business Analyst,K,1,121000,Seattle, WA,0,0,Data,98000,10000,13000,Male,"New Grad (Remote), Title: Data Analyst, Academic Level: Bachelor‚Äôs degree",11527,819,56580,0,1,0,0,0,0,0,0,0,0,NA,Bachelor's Degree
+11/30/20 13:38,Facebook,Business Analyst,L3,1,116000,Austin, TX,3,0,Operations,98000,9000,10000,Male,"Title: Operations Analyst, Race: Hispanic / Latino, Academic Level: Bachelor‚Äôs degree",10965,635,49914,0,1,0,0,0,0,0,0,0,1,Hispanic,Bachelor's Degree
+6/15/21 18:08,Facebook,Business Analyst,IC3,1,126000,Austin, TX,5,4,Ads,98000,13000,15000,Female,Title: Program Manager,10965,635,73995,0,0,0,0,0,0,0,0,0,0,NA,NA
+3/25/21 12:19,Lyft,Business Analyst,L3,1,138000,Seattle, WA,5,0,Product,98000,35000,5000,NA,Title: Business Analyst,11527,819,62858,0,0,0,0,0,0,0,0,0,0,NA,NA
+4/1/21 23:41,Lyft,Business Analyst,L3,1,138000,Seattle, WA,5,0,Product,98000,35000,5000,NA,Title: Business Analyst,11527,819,63850,0,0,0,0,0,0,0,0,0,0,NA,NA
+7/12/21 16:47,Siemens,Business Analyst,7,1,100000,Lexington, KY,3,2,Sales,99000,0,1000,Male,"Remote, Title: Channel Sales Analyst, Race: White, Academic Level: Bachelor‚Äôs degree",8656,541,77840,0,1,0,0,0,0,1,0,0,0,White,Bachelor's Degree
