@@ -1,0 +1,123 @@
+year_column,company,city,state1,title,salary_level,area,total_annual_compensation,years_of_experience,years_at_company,base_salary,stock_grant_value,bonus
+2021,Accenture,Indianapolis, IN,Data Scientist,1,Data,16000,0,0,13000,0,3000
+2021,Bank of America,Charlotte, NC,Data Scientist,1,data science,15000,1,1,15000,0,3000
+2020,PayPal,Chennai, TN,Data Scientist,1,Data,30000,4,2,22000,8000,0
+2021,Verizon,Chennai, TN,Data Scientist,1,Analytics,35000,8,1,32000,1000,3000
+2021,Accenture,Dublin, NH,Data Scientist,1,General,34000,0,0,34000,0,0
+2020,McKinsey,Brazil, IN,Data Scientist,1,ML / AI,36000,2,1,34000,0,2000
+2021,PayPal,Chennai, TN,Data Scientist,1,Global data science,54000,4,0,37000,13000,4000
+2021,PwC,Ireland, IN,Data Scientist,1,General,38000,3,2,38000,0,2000
+2021,Accenture,Amsterdam, NH,Data Scientist,1,General,44000,2,2,41000,0,2000
+2021,IBM,Barcelona, CT,Data Scientist,1,Data,49000,17,3,45000,0,4000
+2021,Accenture,Boston, MA,Data Scientist,1,Data Science,54000,2,0,54000,0,0
+2020,IBM,Columbia, MO,Data Scientist,1,Data,60000,2,2,60000,0,0
+2021,DAZN Group,Amsterdam, NH,Data Scientist,1,machine learning,61000,3,1,61000,0,0
+2021,DAZN Group,Amsterdam, NH,Data Scientist,1,Machine Learning,61000,3,1,61000,0,0
+2020,KPMG,Washington, DC,Data Scientist,1,Data,63000,2,1,63000,0,1000
+2019,Nielsen,Tampa, FL,Data Scientist,1,ML / AI,65000,2,2,65000,0,0
+2020,Qualtrics,Provo, UT,Data Scientist,1,Full Stack,70000,1,1,66000,0,3000
+2021,Siemens,Mississippi State, MS,Data Scientist,1,Data Analyst,70000,2,1,68000,0,0
+2020,PwC,Dallas, TX,Data Scientist,1,ML / AI,69000,0,0,69000,0,0
+2021,Ernst and Young,Atlanta, GA,Data Scientist,1,Forensic Data Analytics,78000,1,1,70000,0,8000
+2020,Google,Atlanta, GA,Data Scientist,1,Anlytics,100000,0,0,70000,20000,10000
+2020,Nielsen,Tampa, FL,Data Scientist,1,ML / AI,78000,1,1,70000,0,8000
+2019,ADP,Norfolk, VA,Data Scientist,1,Distributed Systems (Back-End),72000,2,2,72000,0,1000
+2020,T-Mobile,Bellevue, WA,Data Scientist,1,Data,80000,2,2,72000,3000,5000
+2021,IBM,Rochester, MN,Data Scientist,1,Finance,73000,2,2,73000,0,0
+2021,Carrier,Boston, MA,Data Scientist,1,General,74000,2,2,74000,0,0
+2020,Zalando,Berlin Center, OH,Data Scientist,1,ML / AI,74000,3,1,74000,0,0
+2020,Allstate,Chicago, IL,Data Scientist,1,Marketing,75000,3,3,75000,0,0
+2021,Booz Allen Hamilton,Arlington, VA,Data Scientist,1,Data,75000,3,0,75000,0,0
+2020,Merck,Philadelphia, PA,Data Scientist,1,ML / AI,81000,0,0,75000,0,6000
+2021,JP Morgan Chase,Chicago, IL,Data Scientist,1,Analytics,84000,2,2,77000,0,7000
+2020,Booz Allen Hamilton,Arlington, VA,Data Scientist,1,Data,81000,0,0,78000,0,3000
+2021,Intel,Phoenix, AZ,Data Scientist,1,Optimization,78000,3,1,78000,0,0
+2020,Intel,Arizona City, AZ,Data Scientist,1,Data,78000,2,0,78000,0,0
+2020,Siemens,Atlanta, GA,Data Scientist,1,ML / AI,78000,3,3,78000,0,0
+2020,State Farm,Bloomington, IL,Data Scientist,1,Data,81000,1,0,79000,0,2000
+2020,Boeing,Seattle, WA,Data Scientist,1,ML / AI,85000,1,1,80000,0,0
+2020,CVS Health,Woonsocket, RI,Data Scientist,1,Data,92000,2,1,80000,0,10000
+2021,Google,Seattle, WA,Data Scientist,1,General,110000,1,1,80000,20000,10000
+2021,JP Morgan Chase,New York, NY,Data Scientist,1,Chase,85000,2,2,80000,0,5000
+2021,Kroger,Chicago, IL,Data Scientist,1,General,85000,0,0,80000,0,5000
+2021,Lockheed Martin,Philadelphia, PA,Data Scientist,1,Data Engineer,80000,0,0,80000,0,0
+2020,PwC,New York, NY,Data Scientist,1,Data,88000,5,1,80000,0,8000
+2020,3M,Saint Paul, MN,Data Scientist,1,ML / AI,86000,0,0,82000,0,4000
+2020,PNC,Cleveland, OH,Data Scientist,1,ML / AI,97000,2,2,82000,0,15000
+2020,AT&T,Dallas, TX,Data Scientist,1,ML / AI,98000,0,0,83000,0,15000
+2021,Cisco,San Jose, CA,Data Scientist,1,ML/AI,90000,2,2,83000,1000,6000
+2021,Nielsen,Columbia, MD,Data Scientist,1,Data Scientist,83000,3,2,83000,0,2000
+2020,Zalando,Berlin Center, OH,Data Scientist,1,ML / AI,86000,4,1,83000,3000,0
+2020,Deloitte,Washington, DC,Data Scientist,1,Data,93000,4,4,84000,0,9000
+2021,Boeing,Seattle, WA,Data Scientist,1,Data scientist,85000,14,3,85000,0,0
+2018,Indeed,Austin, TX,Data Scientist,1,business intelligence,100000,1,1,85000,0,15000
+2019,JP Morgan Chase,New York, NY,Data Scientist,1,ML / AI,100000,1,1,85000,0,15000
+2020,McKesson,Louisville, KY,Data Scientist,1,ML / AI,85000,14,1,85000,0,0
+2020,McKinsey,Chicago, IL,Data Scientist,1,ML / AI,100000,0,0,85000,0,15000
+2020,Pinterest,New York, NY,Data Scientist,1,Data,125000,4,1,85000,27000,13000
+2019,PwC,Washington, DC,Data Scientist,1,ML / AI,90000,3,1,85000,0,5000
+2021,Qualtrics,Provo, UT,Data Scientist,1,General,89000,1,1,85000,3000,4000
+2021,State Farm,Bloomington, IL,Data Scientist,1,P&C,95000,2,1,85000,0,10000
+2020,State Farm,Bloomington, IL,Data Scientist,1,Data,87000,0,0,85000,0,2000
+2021,Synechron,Charlotte, NC,Data Scientist,1,Machine Learning,85000,3,2,85000,0,0
+2020,SAP,Newtown Square, PA,Data Scientist,1,Data,95000,5,3,86000,0,10000
+2021,Nielsen,Columbia, MD,Data Scientist,1,Audio,87000,3,2,87000,0,0
+2021,Capital One,Washington, DC,Data Scientist,1,Data,91000,0,0,88000,0,3000
+2020,IBM,Chicago, IL,Data Scientist,1,ML / AI,98000,0,0,88000,0,10000
+2019,Walmart Labs,Bentonville, AR,Data Scientist,1,ML / AI,117000,3,0.5,88000,7000,22000
+2019,Aetna,Phoenix, AZ,Data Scientist,1,Healthcare,98000,6,3,89000,0,9000
+2020,Amazon,Edinburgh, SC,Data Scientist,1,ML / AI,120000,3,0,90000,10000,20000
+2021,Blink Health,New York, NY,Data Scientist,1,General,98000,1,0,90000,8000,0
+2019,Capital One,Dallas, TX,Data Scientist,1,ML / AI,95000,2,2,90000,0,5000
+2019,Capital One,Plano, TX,Data Scientist,1,ML / AI,110000,0,0,90000,10000,10000
+2020,Credit Suisse,New York, NY,Data Scientist,1,Data,100000,0,0,90000,0,10000
+2020,KPMG,Irvine, CA,Data Scientist,1,ML / AI,90000,2,0,90000,0,0
+2020,Morgan Stanley,New York, NY,Data Scientist,1,Analytics,123000,2,2,90000,10000,18000
+2019,Red Hat,Raleigh, NC,Data Scientist,1,Sales Analytics,99000,1,1,90000,0,9000
+2021,IBM,Chicago, IL,Data Scientist,1,General,101000,1,1,91000,0,10000
+2021,Intel,Hillsboro, OR,Data Scientist,1,RET Design Engineer,107000,5,5,91000,8000,9000
+2020,Red Hat,Raleigh, NC,Data Scientist,1,Analytics,100000,2,2,91000,0,9000
+2021,Seagate,Longmont, CO,Data Scientist,1,Data,96000,3,2,91000,0,5000
+2019,AT&T,Plano, TX,Data Scientist,1,ML / AI,100000,0,0,92000,0,8000
+2020,Capital One,Richmond, VA,Data Scientist,1,ML / AI,102000,0,0,92000,0,10000
+2021,Ernst and Young,New York, NY,Data Scientist,1,ML / AI,93000,1,1,92000,0,1000
+2021,IBM,Canberra, CT,Data Scientist,1,General,93000,3,2,93000,0,0
+2021,Indeed,Austin, TX,Data Scientist,1,Finance,126000,5,3,93000,20000,13000
+2020,Mastercard,Arlington, VA,Data Scientist,1,Data,103000,2,2,93000,0,10000
+2021,Micron Technology,Boise, ID,Data Scientist,1,data engineer,104000,5,4,93000,5000,6000
+2021,3M,Saint Paul, MN,Data Scientist,1,Computer Vision,100000,2,2,95000,0,5000
+2020,Booking.com,Amsterdam, NH,Data Scientist,1,Data,125000,6,3,95000,20000,10000
+2020,Booz Allen Hamilton,Philadelphia, PA,Data Scientist,1,ML / AI,95000,3,1,95000,0,0
+2020,Charter Communications,Charlotte, NC,Data Scientist,1,Data,105000,9,5,95000,0,10000
+2021,Citi,Oklahoma City, OK,Data Scientist,1,General,105000,0,0,95000,0,10000
+2020,IBM,Austin, TX,Data Scientist,1,Data,95000,0,0,95000,0,0
+2021,Intel,Chandler, AZ,Data Scientist,1,General,111000,6,4,95000,3000,10000
+2020,JP Morgan Chase,Plano, TX,Data Scientist,1,Data,115000,6,6,95000,0,20000
+2021,KPMG,New York, NY,Data Scientist,1,General,95000,2,2,95000,0,0
+2020,Mastercard,New York, NY,Data Scientist,1,Data,110000,1,1,95000,5000,10000
+2021,PNC,Pittsburgh, PA,Data Scientist,1,Marketing,95000,0,0,95000,0,0
+2021,Point72,New York, NY,Data Scientist,1,Data,105000,1,0,95000,0,10000
+2021,Southwest Airlines,Dallas, TX,Data Scientist,1,Data Scientist,105000,3,1,95000,0,10000
+2021,Southwest Airlines,Dallas, TX,Data Scientist,1,Data,100000,3,1,95000,0,5000
+2021,Two Sigma,Houston, TX,Data Scientist,1,General,120000,4,4,95000,0,25000
+2021,Walmart,Bentonville, AR,Data Scientist,1,ML/AI,120000,5,2,95000,6000,19000
+2021,Walmart,Dallas, TX,Data Scientist,1,Data Analytics,105000,5,0,95000,0,10000
+2020,Walmart Labs,Bentonville, AR,Data Scientist,1,ML / AI,125000,3,1,95000,10000,20000
+2020,State Farm,Atlanta, GA,Data Scientist,1,ML / AI,106000,1,1,96000,0,10000
+2020,Target,Minneapolis, MN,Data Scientist,1,ML / AI,102000,4,1,96000,0,6000
+2020,Zillow,Seattle, WA,Data Scientist,1,Data,101000,3,3,96000,5000,0
+2019,Amazon,Seattle, WA,Data Scientist,1,ML / AI,133000,3,1,97000,16000,20000
+2021,Bank of America Merrill Lynch,New York, NY,Data Scientist,1,Analytics,97000,2,1,97000,0,0
+2020,Capgemini,Los Angeles, CA,Data Scientist,1,ML / AI,97000,0,0,97000,0,0
+2021,Cisco,San Jose, CA,Data Scientist,1,ML/AI,115000,3,2,97000,10000,8000
+2021,Deloitte,Orlando, FL,Data Scientist,1,Solution Specialist,97000,3,0,97000,0,0
+2018,Indeed,New York, NY,Data Scientist,1,business intelligence,114000,2,2,97000,0,17000
+2021,Amazon,Seattle, WA,Data Scientist,1,General,152000,5,4,98000,54000,0
+2020,Booz Allen Hamilton,Alexandria, VA,Data Scientist,1,ML / AI,98000,4,2,98000,0,0
+2021,Dell Technologies,Austin, TX,Data Scientist,1,general,106000,3,3,98000,0,8000
+2020,Disney,Bristol, CT,Data Scientist,1,Data,109000,3,3,98000,6000,5000
+2021,IBM,Austin, TX,Data Scientist,1,General,115000,2,2,98000,0,17000
+2021,Northrop Grumman,Baltimore, MD,Data Scientist,1,General,98000,5,5,98000,0,0
+2021,Walmart,Dallas, TX,Data Scientist,1,General,139000,1,1,98000,25000,16000
+2019,Deloitte,Washington, DC,Data Scientist,1,Distributed Systems (Back-End),104000,4,1,99000,0,5000
+2021,GE Aviation,Boston, MA,Data Scientist,1,ML,99000,6,6,99000,0,0
