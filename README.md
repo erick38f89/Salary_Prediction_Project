@@ -10,3 +10,5 @@ We aim to make a prediction about the salaries that the graduates from the Data 
 - What would that salary be in the Florida area? 
 - In the case of a remote job, what would the salary be for other estates in the US?
 - Do the years of experience at the same company have an effect on the salary increase?
+
+## [Google Slides Presentation Link](https://docs.google.com/presentation/d/1L6YwrEB3mePGtRGdOWEHsGN0QoqELQiDGjxrxh3_Ofo/edit?usp=sharing)
