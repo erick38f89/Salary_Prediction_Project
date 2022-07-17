@@ -1,0 +1,1766 @@
+Employee_ID,Year_Column,Company,City,State1,Title,Salary_Level,Area,Total_Annual_Compensation,Years_of_Experience,Years_at_Company,Base_Salary,Stock_Grant_Value,Bonus,Masters_Degree,Bachelors_Degree,Doctorate_Degree,Highschool,Some_College
+d0001,2021,Accenture,Indianapolis, IN,Data Scientist,1,Data,16000,0,0,13000,0,3000,0,1,0,0,0
+d0002,2021,Bank of America,Charlotte, NC,Data Scientist,1,data science,15000,1,1,15000,0,3000,0,0,0,0,0
+d0003,2020,PayPal,Chennai, TN,Data Scientist,1,Data,30000,4,2,22000,8000,0,0,0,0,0,0
+d0004,2021,Verizon,Chennai, TN,Data Scientist,1,Analytics,35000,8,1,32000,1000,3000,1,0,0,0,0
+d0005,2021,Accenture,Dublin, NH,Data Scientist,1,General,34000,0,0,34000,0,0,0,0,0,0,0
+d0006,2020,McKinsey,Brazil, IN,Data Scientist,1,ML / AI,36000,2,1,34000,0,2000,0,0,0,0,0
+d0007,2021,PayPal,Chennai, TN,Data Scientist,1,Global data science,54000,4,0,37000,13000,4000,1,0,0,0,0
+d0008,2021,PwC,Ireland, IN,Data Scientist,1,General,38000,3,2,38000,0,2000,1,0,0,0,0
+d0009,2021,Accenture,Amsterdam, NH,Data Scientist,1,General,44000,2,2,41000,0,2000,1,0,0,0,0
+d0010,2021,IBM,Barcelona, CT,Data Scientist,1,Data,49000,17,3,45000,0,4000,1,0,0,0,0
+d0011,2021,Accenture,Boston, MA,Data Scientist,1,Data Science,54000,2,0,54000,0,0,0,0,0,0,0
+d0012,2020,IBM,Columbia, MO,Data Scientist,1,Data,60000,2,2,60000,0,0,0,1,0,0,0
+d0013,2021,DAZN Group,Amsterdam, NH,Data Scientist,1,machine learning,61000,3,1,61000,0,0,1,0,0,0,0
+d0014,2021,DAZN Group,Amsterdam, NH,Data Scientist,1,Machine Learning,61000,3,1,61000,0,0,1,0,0,0,0
+d0015,2020,KPMG,Washington, DC,Data Scientist,1,Data,63000,2,1,63000,0,1000,0,0,0,0,0
+d0016,2019,Nielsen,Tampa, FL,Data Scientist,1,ML / AI,65000,2,2,65000,0,0,0,0,0,0,0
+d0017,2020,Qualtrics,Provo, UT,Data Scientist,1,Full Stack,70000,1,1,66000,0,3000,0,1,0,0,0
+d0018,2021,Siemens,Mississippi State, MS,Data Scientist,1,Data Analyst,70000,2,1,68000,0,0,1,0,0,0,0
+d0019,2020,PwC,Dallas, TX,Data Scientist,1,ML / AI,69000,0,0,69000,0,0,0,1,0,0,0
+d0020,2021,Ernst and Young,Atlanta, GA,Data Scientist,1,Forensic Data Analytics,78000,1,1,70000,0,8000,0,1,0,0,0
+d0021,2020,Google,Atlanta, GA,Data Scientist,1,Anlytics,100000,0,0,70000,20000,10000,1,0,0,0,0
+d0022,2020,Nielsen,Tampa, FL,Data Scientist,1,ML / AI,78000,1,1,70000,0,8000,0,1,0,0,0
+d0023,2019,ADP,Norfolk, VA,Data Scientist,1,Distributed Systems (Back-End),72000,2,2,72000,0,1000,0,0,0,0,0
+d0024,2020,T-Mobile,Bellevue, WA,Data Scientist,1,Data,80000,2,2,72000,3000,5000,0,0,0,0,0
+d0025,2021,IBM,Rochester, MN,Data Scientist,1,Finance,73000,2,2,73000,0,0,0,1,0,0,0
+d0026,2021,Carrier,Boston, MA,Data Scientist,1,General,74000,2,2,74000,0,0,0,0,0,0,0
+d0027,2020,Zalando,Berlin Center, OH,Data Scientist,1,ML / AI,74000,3,1,74000,0,0,0,0,0,0,0
+d0028,2020,Allstate,Chicago, IL,Data Scientist,1,Marketing,75000,3,3,75000,0,0,0,1,0,0,0
+d0029,2021,Booz Allen Hamilton,Arlington, VA,Data Scientist,1,Data,75000,3,0,75000,0,0,0,1,0,0,0
+d0030,2020,Merck,Philadelphia, PA,Data Scientist,1,ML / AI,81000,0,0,75000,0,6000,0,1,0,0,0
+d0031,2021,JP Morgan Chase,Chicago, IL,Data Scientist,1,Analytics,84000,2,2,77000,0,7000,1,0,0,0,0
+d0032,2020,Booz Allen Hamilton,Arlington, VA,Data Scientist,1,Data,81000,0,0,78000,0,3000,1,0,0,0,0
+d0033,2021,Intel,Phoenix, AZ,Data Scientist,1,Optimization,78000,3,1,78000,0,0,1,0,0,0,0
+d0034,2020,Intel,Arizona City, AZ,Data Scientist,1,Data,78000,2,0,78000,0,0,0,0,0,0,0
+d0035,2020,Siemens,Atlanta, GA,Data Scientist,1,ML / AI,78000,3,3,78000,0,0,1,0,0,0,0
+d0036,2020,State Farm,Bloomington, IL,Data Scientist,1,Data,81000,1,0,79000,0,2000,0,1,0,0,0
+d0037,2020,Boeing,Seattle, WA,Data Scientist,1,ML / AI,85000,1,1,80000,0,0,0,1,0,0,0
+d0038,2020,CVS Health,Woonsocket, RI,Data Scientist,1,Data,92000,2,1,80000,0,10000,0,0,0,0,0
+d0039,2021,Google,Seattle, WA,Data Scientist,1,General,110000,1,1,80000,20000,10000,0,0,0,0,0
+d0040,2021,JP Morgan Chase,New York, NY,Data Scientist,1,Chase,85000,2,2,80000,0,5000,0,1,0,0,0
+d0041,2021,Kroger,Chicago, IL,Data Scientist,1,General,85000,0,0,80000,0,5000,0,0,0,0,0
+d0042,2021,Lockheed Martin,Philadelphia, PA,Data Scientist,1,Data Engineer,80000,0,0,80000,0,0,0,1,0,0,0
+d0043,2020,PwC,New York, NY,Data Scientist,1,Data,88000,5,1,80000,0,8000,0,0,0,0,0
+d0044,2020,3M,Saint Paul, MN,Data Scientist,1,ML / AI,86000,0,0,82000,0,4000,1,0,0,0,0
+d0045,2020,PNC,Cleveland, OH,Data Scientist,1,ML / AI,97000,2,2,82000,0,15000,0,1,0,0,0
+d0046,2020,AT&T,Dallas, TX,Data Scientist,1,ML / AI,98000,0,0,83000,0,15000,0,1,0,0,0
+d0047,2021,Cisco,San Jose, CA,Data Scientist,1,ML/AI,90000,2,2,83000,1000,6000,0,1,0,0,0
+d0048,2021,Nielsen,Columbia, MD,Data Scientist,1,Data Scientist,83000,3,2,83000,0,2000,0,1,0,0,0
+d0049,2020,Zalando,Berlin Center, OH,Data Scientist,1,ML / AI,86000,4,1,83000,3000,0,0,0,0,0,0
+d0050,2020,Deloitte,Washington, DC,Data Scientist,1,Data,93000,4,4,84000,0,9000,0,1,0,0,0
+d0051,2021,Boeing,Seattle, WA,Data Scientist,1,Data scientist,85000,14,3,85000,0,0,1,0,0,0,0
+d0052,2018,Indeed,Austin, TX,Data Scientist,1,business intelligence,100000,1,1,85000,0,15000,0,0,0,0,0
+d0053,2019,JP Morgan Chase,New York, NY,Data Scientist,1,ML / AI,100000,1,1,85000,0,15000,0,0,0,0,0
+d0054,2020,McKesson,Louisville, KY,Data Scientist,1,ML / AI,85000,14,1,85000,0,0,0,1,0,0,0
+d0055,2020,McKinsey,Chicago, IL,Data Scientist,1,ML / AI,100000,0,0,85000,0,15000,0,0,0,0,0
+d0056,2020,Pinterest,New York, NY,Data Scientist,1,Data,125000,4,1,85000,27000,13000,0,1,0,0,0
+d0057,2019,PwC,Washington, DC,Data Scientist,1,ML / AI,90000,3,1,85000,0,5000,1,0,0,0,0
+d0058,2021,Qualtrics,Provo, UT,Data Scientist,1,General,89000,1,1,85000,3000,4000,0,1,0,0,0
+d0059,2021,State Farm,Bloomington, IL,Data Scientist,1,P&C,95000,2,1,85000,0,10000,0,1,0,0,0
+d0060,2020,State Farm,Bloomington, IL,Data Scientist,1,Data,87000,0,0,85000,0,2000,1,0,0,0,0
+d0061,2021,Synechron,Charlotte, NC,Data Scientist,1,Machine Learning,85000,3,2,85000,0,0,0,0,0,0,0
+d0062,2020,SAP,Newtown Square, PA,Data Scientist,1,Data,95000,5,3,86000,0,10000,1,0,0,0,0
+d0063,2021,Nielsen,Columbia, MD,Data Scientist,1,Audio,87000,3,2,87000,0,0,1,0,0,0,0
+d0064,2021,Capital One,Washington, DC,Data Scientist,1,Data,91000,0,0,88000,0,3000,0,0,0,0,0
+d0065,2020,IBM,Chicago, IL,Data Scientist,1,ML / AI,98000,0,0,88000,0,10000,0,0,0,0,0
+d0066,2019,Walmart Labs,Bentonville, AR,Data Scientist,1,ML / AI,117000,3,0.5,88000,7000,22000,0,0,0,0,0
+d0067,2019,Aetna,Phoenix, AZ,Data Scientist,1,Healthcare,98000,6,3,89000,0,9000,0,0,0,0,0
+d0068,2020,Amazon,Edinburgh, SC,Data Scientist,1,ML / AI,120000,3,0,90000,10000,20000,0,0,0,0,0
+d0069,2021,Blink Health,New York, NY,Data Scientist,1,General,98000,1,0,90000,8000,0,0,1,0,0,0
+d0070,2019,Capital One,Dallas, TX,Data Scientist,1,ML / AI,95000,2,2,90000,0,5000,0,0,0,0,0
+d0071,2019,Capital One,Plano, TX,Data Scientist,1,ML / AI,110000,0,0,90000,10000,10000,0,0,0,0,0
+d0072,2020,Credit Suisse,New York, NY,Data Scientist,1,Data,100000,0,0,90000,0,10000,0,0,0,0,0
+d0073,2020,KPMG,Irvine, CA,Data Scientist,1,ML / AI,90000,2,0,90000,0,0,1,0,0,0,0
+d0074,2020,Morgan Stanley,New York, NY,Data Scientist,1,Analytics,123000,2,2,90000,10000,18000,1,0,0,0,0
+d0075,2019,Red Hat,Raleigh, NC,Data Scientist,1,Sales Analytics,99000,1,1,90000,0,9000,0,0,0,0,0
+d0076,2021,IBM,Chicago, IL,Data Scientist,1,General,101000,1,1,91000,0,10000,0,1,0,0,0
+d0077,2021,Intel,Hillsboro, OR,Data Scientist,1,RET Design Engineer,107000,5,5,91000,8000,9000,0,1,0,0,0
+d0078,2020,Red Hat,Raleigh, NC,Data Scientist,1,Analytics,100000,2,2,91000,0,9000,1,0,0,0,0
+d0079,2021,Seagate,Longmont, CO,Data Scientist,1,Data,96000,3,2,91000,0,5000,1,0,0,0,0
+d0080,2019,AT&T,Plano, TX,Data Scientist,1,ML / AI,100000,0,0,92000,0,8000,0,0,0,0,0
+d0081,2020,Capital One,Richmond, VA,Data Scientist,1,ML / AI,102000,0,0,92000,0,10000,1,0,0,0,0
+d0082,2021,Ernst and Young,New York, NY,Data Scientist,1,ML / AI,93000,1,1,92000,0,1000,1,0,0,0,0
+d0083,2021,IBM,Canberra, CT,Data Scientist,1,General,93000,3,2,93000,0,0,0,1,0,0,0
+d0084,2021,Indeed,Austin, TX,Data Scientist,1,Finance,126000,5,3,93000,20000,13000,1,0,0,0,0
+d0085,2020,Mastercard,Arlington, VA,Data Scientist,1,Data,103000,2,2,93000,0,10000,0,1,0,0,0
+d0086,2021,Micron Technology,Boise, ID,Data Scientist,1,data engineer,104000,5,4,93000,5000,6000,0,0,0,0,0
+d0087,2021,3M,Saint Paul, MN,Data Scientist,1,Computer Vision,100000,2,2,95000,0,5000,1,0,0,0,0
+d0088,2020,Booking.com,Amsterdam, NH,Data Scientist,1,Data,125000,6,3,95000,20000,10000,1,0,0,0,0
+d0089,2020,Booz Allen Hamilton,Philadelphia, PA,Data Scientist,1,ML / AI,95000,3,1,95000,0,0,0,0,0,0,0
+d0090,2020,Charter Communications,Charlotte, NC,Data Scientist,1,Data,105000,9,5,95000,0,10000,1,0,0,0,0
+d0091,2021,Citi,Oklahoma City, OK,Data Scientist,1,General,105000,0,0,95000,0,10000,1,0,0,0,0
+d0092,2020,IBM,Austin, TX,Data Scientist,1,Data,95000,0,0,95000,0,0,0,0,0,0,0
+d0093,2021,Intel,Chandler, AZ,Data Scientist,1,General,111000,6,4,95000,3000,10000,1,0,0,0,0
+d0094,2020,JP Morgan Chase,Plano, TX,Data Scientist,1,Data,115000,6,6,95000,0,20000,1,0,0,0,0
+d0095,2021,KPMG,New York, NY,Data Scientist,1,General,95000,2,2,95000,0,0,0,0,0,0,0
+d0096,2020,Mastercard,New York, NY,Data Scientist,1,Data,110000,1,1,95000,5000,10000,0,0,0,0,0
+d0097,2021,PNC,Pittsburgh, PA,Data Scientist,1,Marketing,95000,0,0,95000,0,0,0,0,1,0,0
+d0098,2021,Point72,New York, NY,Data Scientist,1,Data,105000,1,0,95000,0,10000,1,0,0,0,0
+d0099,2021,Southwest Airlines,Dallas, TX,Data Scientist,1,Data Scientist,105000,3,1,95000,0,10000,0,1,0,0,0
+d0100,2021,Southwest Airlines,Dallas, TX,Data Scientist,1,Data,100000,3,1,95000,0,5000,0,1,0,0,0
+d0101,2021,Two Sigma,Houston, TX,Data Scientist,1,General,120000,4,4,95000,0,25000,0,0,0,0,0
+d0102,2021,Walmart,Bentonville, AR,Data Scientist,1,ML/AI,120000,5,2,95000,6000,19000,1,0,0,0,0
+d0103,2021,Walmart,Dallas, TX,Data Scientist,1,Data Analytics,105000,5,0,95000,0,10000,1,0,0,0,0
+d0104,2020,Walmart Labs,Bentonville, AR,Data Scientist,1,ML / AI,125000,3,1,95000,10000,20000,1,0,0,0,0
+d0105,2020,State Farm,Atlanta, GA,Data Scientist,1,ML / AI,106000,1,1,96000,0,10000,0,0,0,0,0
+d0106,2020,Target,Minneapolis, MN,Data Scientist,1,ML / AI,102000,4,1,96000,0,6000,1,0,0,0,0
+d0107,2020,Zillow,Seattle, WA,Data Scientist,1,Data,101000,3,3,96000,5000,0,0,0,0,0,0
+d0108,2019,Amazon,Seattle, WA,Data Scientist,1,ML / AI,133000,3,1,97000,16000,20000,0,0,0,0,0
+d0109,2021,Bank of America Merrill Lynch,New York, NY,Data Scientist,1,Analytics,97000,2,1,97000,0,0,0,0,0,0,0
+d0110,2020,Capgemini,Los Angeles, CA,Data Scientist,1,ML / AI,97000,0,0,97000,0,0,0,0,0,0,0
+d0111,2021,Cisco,San Jose, CA,Data Scientist,1,ML/AI,115000,3,2,97000,10000,8000,0,1,0,0,0
+d0112,2021,Deloitte,Orlando, FL,Data Scientist,1,Solution Specialist,97000,3,0,97000,0,0,1,0,0,0,0
+d0113,2018,Indeed,New York, NY,Data Scientist,1,business intelligence,114000,2,2,97000,0,17000,0,0,0,0,0
+d0114,2021,Amazon,Seattle, WA,Data Scientist,1,General,152000,5,4,98000,54000,0,1,0,0,0,0
+d0115,2020,Booz Allen Hamilton,Alexandria, VA,Data Scientist,1,ML / AI,98000,4,2,98000,0,0,0,0,0,0,0
+d0116,2021,Dell Technologies,Austin, TX,Data Scientist,1,general,106000,3,3,98000,0,8000,0,0,0,0,0
+d0117,2020,Disney,Bristol, CT,Data Scientist,1,Data,109000,3,3,98000,6000,5000,0,0,0,0,0
+d0118,2021,IBM,Austin, TX,Data Scientist,1,General,115000,2,2,98000,0,17000,0,1,0,0,0
+d0119,2021,Northrop Grumman,Baltimore, MD,Data Scientist,1,General,98000,5,5,98000,0,0,0,0,0,0,0
+d0120,2021,Walmart,Dallas, TX,Data Scientist,1,General,139000,1,1,98000,25000,16000,1,0,0,0,0
+d0121,2019,Deloitte,Washington, DC,Data Scientist,1,Distributed Systems (Back-End),104000,4,1,99000,0,5000,0,0,0,0,0
+d0122,2021,GE Aviation,Boston, MA,Data Scientist,1,ML,99000,6,6,99000,0,0,0,0,0,0,0
+d0123,2020,Airbnb,Miami, FL,Data Scientist,2,ML / AI,318000,6,1,100000,200000,18000,0,0,1,0,0
+d0124,2021,Allstate,Dallas, TX,Data Scientist,2,data,100000,4,4,100000,0,0,0,0,1,0,0
+d0125,2019,Amazon,San Francisco, CA,Data Scientist,2,DS,178000,2,0,100000,70000,5000,0,0,0,0,0
+d0126,2020,Amazon,Antioch, TN,Data Scientist,2,Data,126000,1,1,100000,16000,10000,0,1,0,0,0
+d0127,2019,Bank of America Merrill Lynch,New York, NY,Data Scientist,2,ML / AI,110000,4,2,100000,0,10000,0,0,0,0,0
+d0128,2020,Booking.com,Amsterdam, NH,Data Scientist,2,DSI,140000,10,2,100000,25000,15000,0,0,1,0,0
+d0129,2020,Booking.com,Amsterdam, NH,Data Scientist,2,DSI,140000,6,2,100000,24000,16000,1,0,0,0,0
+d0130,2021,Capital One,Washington, VA,Data Scientist,2,Operations,105000,2,2,100000,0,5000,1,0,0,0,0
+d0131,2019,Cerner,Kansas City, MO,Data Scientist,2,ML / AI,100000,3,1,100000,0,0,0,0,1,0,0
+d0132,2021,CVS Health,Chicago, IL,Data Scientist,2,data scientist,100000,1,0,100000,0,0,0,0,1,0,0
+d0133,2021,Deloitte,Arlington, VA,Data Scientist,2,General,110000,6,2,100000,0,10000,0,0,0,0,0
+d0134,2020,Facebook,San Francisco, CA,Data Scientist,2,Data,165000,0,0,100000,50000,15000,0,0,0,0,0
+d0135,2018,Feedzai,Atlanta, GA,Data Scientist,2,ML / AI,140000,4,3,100000,20000,20000,0,0,0,0,0
+d0136,2021,Ford Motor,Dearborn, MI,Data Scientist,2,ML / AI,110000,6,4,100000,0,8000,0,0,0,0,0
+d0137,2020,Goldman sachs,New York, NY,Data Scientist,2,API Development (Back-End),110000,5,3,100000,0,10000,1,0,0,0,0
+d0138,2020,Google,Atlanta, GA,Data Scientist,2,Networking,120000,2,1,100000,12000,10000,1,0,0,0,0
+d0139,2021,Google,Hawaiian Gardens, CA,Data Scientist,2,IOS,130000,2,2,100000,3000,27000,0,0,0,0,0
+d0140,2020,Google,San Francisco, CA,Data Scientist,2,Android,180000,5,2,100000,40000,40000,0,0,0,0,0
+d0141,2021,IBM,San Jose, CA,Data Scientist,2,General,110000,2,2,100000,0,10000,0,1,0,0,0
+d0142,2021,JP Morgan Chase,New York, NY,Data Scientist,2,Asset management,125000,2,2,100000,0,25000,0,0,0,0,0
+d0143,2020,KPMG,Irvine, CA,Data Scientist,2,ML / AI,100000,1,0,100000,0,0,1,0,0,0,0
+d0144,2020,McKinsey,Waltham, MA,Data Scientist,2,Data,150000,2,0,100000,40000,10000,0,0,0,0,0
+d0145,2020,PayPal,Los Angeles, CA,Data Scientist,2,Data,116000,2,1,100000,6000,10000,0,0,0,0,0
+d0146,2020,Red Hat,Raleigh, NC,Data Scientist,2,ML / AI,112000,4,2,100000,0,12000,0,0,0,0,0
+d0147,2020,Red Hat,Raleigh, NC,Data Scientist,2,ML / AI,110000,2,2,100000,0,10000,0,0,0,0,0
+d0148,2020,Swiss Re,New York, NY,Data Scientist,2,ML / AI,105000,1,1,100000,0,5000,1,0,0,0,0
+d0149,2020,Swiss Re,New York, NY,Data Scientist,2,Data,110000,3,2,100000,0,10000,1,0,0,0,0
+d0150,2021,Target,Minneapolis, MN,Data Scientist,2,Data,105000,7,0,100000,0,5000,1,0,0,0,0
+d0151,2020,Travelers,Hartford, CT,Data Scientist,2,ML / AI,108000,0,0,100000,0,8000,1,0,0,0,0
+d0152,2020,Walmart Labs,Bentonville, AR,Data Scientist,2,ML / AI,131000,6,1,100000,6000,25000,1,0,0,0,0
+d0153,2019,Wayfair,Boston, MA,Data Scientist,2,ML / AI,110000,0,0,100000,0,10000,0,0,0,0,0
+d0154,2021,Southwest Airlines,Dallas, TX,Data Scientist,2,Revenue Management,108000,7,6,101000,0,7000,0,1,0,0,0
+d0155,2021,Accenture,New York, NY,Data Scientist,2,Machine Learning,112000,0,0,102000,0,10000,0,1,0,0,0
+d0156,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,123000,2,2,102000,1000,20000,0,0,0,0,0
+d0157,2021,Boeing,Seattle, WA,Data Scientist,2,General,109000,0,0,102000,4000,3000,0,0,0,0,0
+d0158,2020,Booz Allen Hamilton,Washington, DC,Data Scientist,2,Data,102000,0,0,102000,0,0,0,1,0,0,0
+d0159,2020,The Hartford,Hartford, CT,Data Scientist,2,Data,110000,2,2,102000,0,8000,0,0,0,0,0
+d0160,2020,Travelers,Hartford, CT,Data Scientist,2,ML / AI,110000,5,0,102000,0,8000,0,0,0,0,0
+d0161,2021,AT&T,Dallas, TX,Data Scientist,2,Web Analytics,114000,3,2,103000,0,11000,0,1,0,0,0
+d0162,2020,Lockheed Martin,Shelton, CT,Data Scientist,2,ML / AI,103000,1,1,103000,0,5000,0,1,0,0,0
+d0163,2021,Cisco,San Francisco, CA,Data Scientist,2,project management,116000,11,11,104000,0,12000,1,0,0,0,0
+d0164,2018,Indeed,New York, NY,Data Scientist,2,business intelligence,119000,2,2,104000,0,15000,0,0,0,0,0
+d0165,2020,Uber,San Francisco, CA,Data Scientist,2,Data,128000,0,0,104000,14000,11000,1,0,0,0,0
+d0166,2019,Amazon,Seattle, WA,Data Scientist,2,ML / AI,123000,0,1,105000,8000,10000,0,0,0,0,0
+d0167,2018,Amazon,Seattle, WA,Data Scientist,2,ML / AI,125000,1,1,105000,4000,15000,0,0,0,0,0
+d0168,2020,Amazon,Seattle, WA,Data Scientist,2,Data,127000,3,0,105000,0,23000,0,0,0,0,0
+d0169,2021,Capital One,Fairfax, VA,Data Scientist,2,ML / AI,110000,2,2,105000,0,5000,1,0,0,0,0
+d0170,2020,Dell Technologies,Austin, TX,Data Scientist,2,ML / AI,113000,1,0,105000,0,8000,1,0,0,0,0
+d0171,2021,eBay,Austin, TX,Data Scientist,2,Data Science,122000,1,0,105000,6000,11000,0,0,0,0,0
+d0172,2020,Ford Motor,Detroit, MI,Data Scientist,2,ML / AI,115000,1,1,105000,0,10000,0,0,1,0,0
+d0173,2021,Ford Motor,Dearborn, MI,Data Scientist,2,General,112000,5,1,105000,0,7000,0,0,0,0,0
+d0174,2020,IBM,Columbus, OH,Data Scientist,2,ML / AI,105000,4,2,105000,0,0,0,1,0,0,0
+d0175,2021,IBM,New York, NY,Data Scientist,2,Blockchain,105000,2,2,105000,0,0,0,1,0,0,0
+d0176,2020,Liberty Mutual,Boston, MA,Data Scientist,2,Analytics,110000,5,2.5,105000,0,5000,0,0,0,0,0
+d0177,2020,Mckesson,Phoenix, AZ,Data Scientist,2,ML / AI,120000,3,1,105000,0,15000,0,0,0,0,0
+d0178,2021,Moveworks,Austin, TX,Data Scientist,2,Presales,115000,4,1,105000,3000,8000,1,1,0,0,0
+d0179,2021,Optiver,Chicago, IL,Data Scientist,2,General,155000,1,1,105000,0,50000,0,1,0,0,0
+d0180,2021,Prudential Financial,Newark, NJ,Data Scientist,2,General,130000,1,0,105000,0,25000,0,0,0,0,0
+d0181,2021,Quicken Loans,Detroit, MI,Data Scientist,2,Natural Language Processing,120000,3,3,105000,0,15000,1,0,0,0,0
+d0182,2020,Starbucks,Seattle, WA,Data Scientist,2,Data,115000,1,1,105000,5000,5000,0,1,0,0,0
+d0183,2020,Thumbtack,San Francisco, CA,Data Scientist,2,Product Analytics,125000,1,1,105000,10000,10000,0,0,0,0,0
+d0184,2021,TransUnion,Boca Raton, FL,Data Scientist,2,Fraud Detection,120000,2,2,105000,0,14000,0,0,0,0,0
+d0185,2021,Capital One,Plano, TX,Data Scientist,2,Machine Learning,125000,1,0,106000,13000,8000,1,0,0,0,0
+d0186,2020,ExxonMobil,Houston, TX,Data Scientist,2,iOS,106000,1,1,106000,0,0,0,0,0,0,0
+d0187,2020,ExxonMobil,Spring, TX,Data Scientist,2,Data,106000,0,0,106000,0,0,1,0,0,0,0
+d0188,2021,IBM,New York, NY,Data Scientist,2,General,140000,2,2,106000,0,34000,1,0,0,0,0
+d0189,2020,MITRE,Washington, DC,Data Scientist,2,ML / AI,109000,2,2,106000,0,3000,0,0,0,0,0
+d0190,2019,Oracle,Denver, CO,Data Scientist,2,ML / AI,119000,4,2,106000,13000,0,0,0,0,0,0
+d0191,2018,Capital One,Mc Lean, VA,Data Scientist,2,ML / AI,112000,4,1,107000,0,5000,0,0,0,0,0
+d0192,2021,Intel,Portland, OR,Data Scientist,2,General,130000,4,4,107000,18000,6000,0,0,0,0,0
+d0193,2021,JP Morgan Chase,Columbus, OH,Data Scientist,2,Machine learning,128000,6,2,107000,0,21000,1,0,0,0,0
+d0194,2021,LinkedIn,Sunnyvale, CA,Data Scientist,2,Data Science,138000,0,0,107000,20000,11000,0,0,0,0,0
+d0195,2019,Workday,Pleasanton, CA,Data Scientist,2,Data Science,122000,2,4,107000,15000,0,0,0,0,0,0
+d0196,2021,Booking.com,Amsterdam, NH,Data Scientist,2,ML / AI,138000,4,4,108000,14000,16000,1,0,0,0,0
+d0197,2019,JP Morgan Chase,Columbus, OH,Data Scientist,2,ML / AI,120000,2,1.5,108000,0,12000,0,0,0,0,0
+d0198,2021,Kroger,Chicago, IL,Data Scientist,2,Stat/ML,118000,5,3,108000,0,11000,1,0,0,0,0
+d0199,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,146000,1,0,108000,18000,20000,0,0,0,0,0
+d0200,2021,Microsoft,Seattle, WA,Data Scientist,2,ML / AI,136000,0,0,108000,18000,11000,0,0,0,0,0
+d0201,2021,Nike,Portland, OR,Data Scientist,2,General,118000,2,2,108000,0,10000,0,1,0,0,0
+d0202,2021,PayPal,New York, NY,Data Scientist,2,Data Scientist,158000,2,1,108000,40000,10000,0,0,0,0,0
+d0203,2019,SAP,Palo Alto, CA,Data Scientist,2,ML / AI,120000,3,2,108000,0,12000,0,0,0,0,0
+d0204,2019,Starbucks,Seattle, WA,Data Scientist,2,ML / AI,118000,2,2,108000,5000,5000,0,0,0,0,0
+d0205,2021,Thermo Fisher Scientific,San Diego, CA,Data Scientist,2,General,126000,4,2,108000,0,18000,0,0,0,0,0
+d0206,2021,TransUnion,Chicago, IL,Data Scientist,2,Financial Services,123000,8,4,108000,0,15000,1,0,0,0,0
+d0207,2018,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,160000,0,0,109000,30000,21000,0,0,0,0,0
+d0208,2019,Microsoft,Cambridge, MA,Data Scientist,2,ML / AI,164000,0,0,109000,30000,25000,0,0,0,0,0
+d0209,2019,Amazon,Seattle, WA,Data Scientist,2,DS,149000,0,0,110000,4000,35000,0,0,1,0,0
+d0210,2021,Amazon,Arlington, VA,Data Scientist,2,applied scientist-ML,160000,4,0,110000,40000,10000,0,0,1,0,0
+d0211,2020,BlackRock,New York, NY,Data Scientist,2,ML / AI,120000,2,2,110000,0,10000,0,0,0,0,0
+d0212,2021,Booking.com,Amsterdam, NH,Data Scientist,2,General,147000,6,6,110000,20000,17000,1,0,0,0,0
+d0213,2020,Booz Allen Hamilton,Washington, DC,Data Scientist,2,ML / AI,110000,5,2,110000,0,0,0,0,0,0,0
+d0214,2021,Capital Group,Los Angeles, CA,Data Scientist,2,ML / AI,130000,2,0,110000,0,20000,1,0,0,0,0
+d0215,2021,Capital One,Richmond, VA,Data Scientist,2,Data Analysis,120000,10,8,110000,2000,8000,0,1,0,0,0
+d0216,2021,Capital One,Washington, DC,Data Scientist,2,Data,120000,2,2,110000,0,10000,0,0,0,0,0
+d0217,2021,Citi,Dallas, TX,Data Scientist,2,Consumer Bank,120000,4,4,110000,0,10000,0,0,0,0,0
+d0218,2021,Dell Technologies,Austin, TX,Data Scientist,2,ML / AI,118000,3,1,110000,0,8000,0,0,0,0,0
+d0219,2021,Goldman Sachs,New York, NY,Data Scientist,2,Finance,150000,2,2,110000,0,40000,0,1,0,0,0
+d0220,2019,Groupon,Chicago, IL,Data Scientist,2,ML / AI,136000,5,4,110000,15000,11000,0,0,0,0,0
+d0221,2020,IBM,Denver, CO,Data Scientist,2,ML / AI,110000,4,4,110000,0,1000,0,0,0,0,0
+d0222,2020,IBM,New York, NY,Data Scientist,2,Data,110000,0,0,110000,0,0,1,0,0,0,0
+d0223,2021,Liberty Mutual,Boston, MA,Data Scientist,2,Pricing Modeling,118000,5,5,110000,0,8000,0,0,0,0,0
+d0224,2019,Liberty Mutual,Boston, MA,Data Scientist,2,ML / AI,118000,1,1,110000,0,8000,0,0,0,0,0
+d0225,2020,Micron Technology,Boise, ID,Data Scientist,2,ML / AI,110000,3,2,110000,0,0,0,0,0,0,0
+d0226,2020,Microsoft,Seattle, WA,Data Scientist,2,Data,150000,1,1,110000,30000,10000,0,0,0,0,0
+d0227,2021,Prudential Financial,Newark, NJ,Data Scientist,2,AI/ML,125000,3,0,110000,0,15000,0,0,0,0,0
+d0228,2020,Quest diagnostics,Los Angeles, CA,Data Scientist,2,ML / AI,110000,8,3,110000,0,5000,0,0,0,0,0
+d0229,2018,Startup,Los Angeles, CA,Data Scientist,2,ML / AI,110000,3,2,110000,0,0,0,0,0,0,0
+d0230,2020,Uber,San Francisco, CA,Data Scientist,2,ML / AI,149000,2,2,110000,29000,10000,1,0,0,0,0
+d0231,2020,UBS,New York, NY,Data Scientist,2,ML / AI,110000,3,0,110000,0,0,0,0,0,0,0
+d0232,2021,WarnerMedia,Los Angeles, CA,Data Scientist,2,General,116000,1,0,110000,0,6000,0,0,0,0,0
+d0233,2021,Amazon,Seattle, WA,Data Scientist,2,Business Intelligence Engineer,163000,10,10,111000,52000,0,0,0,0,0,1
+d0234,2021,Booking.com,Amsterdam, NH,Data Scientist,2,Analytics,153000,5,3,111000,25000,17000,0,0,1,0,0
+d0235,2020,Dell Technologies,Austin, TX,Data Scientist,2,ML / AI,134000,2,2,111000,15000,9000,1,0,0,0,0
+d0236,2019,IBM,Durham, NC,Data Scientist,2,ML / AI,111000,1,1,111000,0,0,0,0,1,0,0
+d0237,2021,Amazon,San Francisco, CA,Data Scientist,2,data,150000,2,2,112000,38000,0,0,0,0,0,0
+d0238,2021,Amazon,Seattle, WA,Data Scientist,2,Analytics,190000,10,2,112000,41000,40000,0,0,0,0,0
+d0239,2021,Ernst and Young,Chicago, IL,Data Scientist,2,NLP,120000,4,2,112000,0,8000,1,0,0,0,0
+d0240,2020,GoDaddy,Arizona City, AZ,Data Scientist,2,ML / AI,150000,2,2,112000,26000,12000,1,0,0,0,0
+d0241,2020,GoDaddy,Arizona City, AZ,Data Scientist,2,ML / AI,150000,5,1,112000,26000,11000,1,0,0,0,0
+d0242,2021,Nielsen,New York, NY,Data Scientist,2,Identity Team,122000,5,0,112000,0,10000,1,0,0,0,0
+d0243,2021,ADP,Atlanta, GA,Data Scientist,2,ML / AI,123000,3,0,113000,0,10000,0,0,0,0,0
+d0244,2021,Booking.com,Amsterdam, NH,Data Scientist,2,ML / AI,150000,3,2,113000,20000,17000,1,0,0,0,0
+d0245,2021,Booz Allen Hamilton,Washington, DC,Data Scientist,2,General,113000,5,2,113000,0,0,0,1,0,0,0
+d0246,2021,Dell Technologies,Austin, TX,Data Scientist,2,ML,142000,4,3,113000,20000,9000,1,0,0,0,0
+d0247,2021,Discover,Chicago, IL,Data Scientist,2,Data science,120000,4,2,113000,0,7000,1,0,0,0,0
+d0248,2019,Facebook,Menlo Park, CA,Data Scientist,2,Product analytics,144000,1,1,113000,20000,11000,0,0,0,0,0
+d0249,2021,Ford Motor,Dearborn, MI,Data Scientist,2,Data Engineering,120000,5,3,113000,3000,7000,0,0,0,0,0
+d0250,2019,Uber,San Francisco, CA,Data Scientist,2,ML / AI,154000,2,1,113000,30000,7000,0,0,0,0,0
+d0251,2021,Wells Fargo,Charlotte, NC,Data Scientist,2,Risk,145000,0,0,113000,0,32000,0,0,0,0,0
+d0252,2021,Aetna,New York, NY,Data Scientist,2,ML,128000,1,1,114000,0,14000,0,0,0,0,0
+d0253,2021,Facebook,Seattle, WA,Data Scientist,2,Analytics,165000,0,0,114000,40000,11000,0,0,0,0,0
+d0254,2020,Feedzai,Atlanta, GA,Data Scientist,2,ML / AI,142000,6,4,114000,5000,23000,1,0,0,0,0
+d0255,2020,PwC,New York, NY,Data Scientist,2,ML / AI,120000,3,3,114000,0,6000,0,0,0,0,0
+d0256,2021,Acorns,Irvine, CA,Data Scientist,2,General,115000,1,1,115000,1000,0,0,0,0,0,0
+d0257,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,170000,5,0,115000,6000,48000,1,0,0,0,0
+d0258,2019,Amazon,Seattle, WA,Data Scientist,2,ML / AI,150000,3,1,115000,25000,10000,1,0,0,0,0
+d0259,2020,Amazon,Seattle, WA,Data Scientist,2,Data,115000,3,1,115000,0,0,0,0,0,0,0
+d0260,2020,Amazon,Seattle, WA,Data Scientist,2,Business Intelligence Engineer,153000,5,0,115000,24000,14000,1,0,0,0,0
+d0261,2021,American Express,New York, NY,Data Scientist,2,Enterprise Digital and Analytics,130000,2,2,115000,0,15000,0,0,0,0,0
+d0262,2020,Expedia,Seattle, WA,Data Scientist,2,ML / AI,131000,1,1,115000,3000,14000,0,0,1,0,0
+d0263,2021,Expedia,Austin, TX,Data Scientist,2,General,136000,0,0,115000,6000,15000,0,0,0,0,0
+d0264,2018,Facebook,Menlo Park, CA,Data Scientist,2,Product Analytics,150000,0,0,115000,25000,10000,0,0,0,0,0
+d0265,2020,Facebook,Menlo Park, CA,Data Scientist,2,Data,145000,0,0,115000,20000,10000,0,0,0,0,0
+d0266,2020,Feedzai,Atlanta, GA,Data Scientist,2,ML / AI,145000,4,2,115000,10000,20000,1,0,0,0,0
+d0267,2020,GoDaddy,Redmond, WA,Data Scientist,2,ML / AI,152000,5,1,115000,25000,12000,1,0,0,0,0
+d0268,2020,Google,Sunnyvale, CA,Data Scientist,2,ML / AI,175000,0,0,115000,40000,20000,0,0,0,0,0
+d0269,2020,Google,San Francisco, CA,Data Scientist,2,ML / AI,175000,1,0,115000,40000,20000,0,0,0,0,0
+d0270,2021,IBM,New York, NY,Data Scientist,2,General,125000,1,1,115000,0,10000,0,1,0,0,0
+d0271,2020,JP Morgan Chase,New York, NY,Data Scientist,2,ML / AI,132000,0,0,115000,0,17000,1,0,0,0,0
+d0272,2021,JP Morgan Chase,Jersey City, NJ,Data Scientist,2,"ML, NLP",121000,1,1,115000,0,6000,1,0,0,0,0
+d0273,2020,KPMG,Dallas, TX,Data Scientist,2,ML / AI,115000,2,1,115000,0,0,1,0,0,0,0
+d0274,2019,Medtronic,New York, NY,Data Scientist,2,Networking,150000,2,2,115000,0,0,0,0,0,0,0
+d0275,2020,Microsoft,San Juan Bautista, CA,Data Scientist,2,Security,156000,16,6,115000,21000,20000,1,0,0,0,0
+d0276,2020,Microsoft,San Juan Bautista, CA,Data Scientist,2,Security,156000,16,6,115000,21000,20000,1,0,0,0,0
+d0277,2021,Optiver,Chicago, IL,Data Scientist,2,General,185000,1,1,115000,0,70000,0,1,0,0,0
+d0278,2020,Poshmark,Redwood City, CA,Data Scientist,2,ML / AI,125000,4,1,115000,5000,5000,1,0,0,0,0
+d0279,2020,SAP,Chicago, IL,Data Scientist,2,ML / AI,127000,2,0,115000,0,12000,1,0,0,0,0
+d0280,2020,Shutterstock,New York, NY,Data Scientist,2,ML / AI,125000,1,1,115000,0,10000,0,0,1,0,0
+d0281,2021,Spotify,New York, NY,Data Scientist,2,FP&A,138000,3,0,115000,23000,0,0,1,0,0,0
+d0282,2021,The Hartford,Hartford, CT,Data Scientist,2,General,131000,5,5,115000,0,16000,1,0,0,0,0
+d0283,2020,Uber,San Francisco, CA,Data Scientist,2,ML / AI,160000,4,2,115000,25000,20000,0,0,0,0,0
+d0284,2020,UBS,New York, NY,Data Scientist,2,ML / AI,170000,5,4,115000,0,55000,0,0,0,0,0
+d0285,2021,Walmart,Bentonville, AR,Data Scientist,2,Data Science,213000,8,3,115000,75000,23000,1,0,0,0,0
+d0286,2018,Workday,San Francisco, CA,Data Scientist,2,ML / AI,147000,1,0,115000,23000,0,0,0,0,0,0
+d0287,2021,Everquote,Boston, MA,Data Scientist,2,General,161000,4,4,116000,40000,5000,0,0,0,0,0
+d0288,2021,Amazon,Seattle, WA,Data Scientist,2,Forecasting,205000,6,4,117000,90000,0,0,1,0,0,0
+d0289,2021,Capital One,Richmond, VA,Data Scientist,2,data science,135000,3,0,117000,6000,12000,1,0,0,0,0
+d0290,2020,Deloitte,Boston, MA,Data Scientist,2,ML / AI,127000,2,2,117000,0,10000,1,0,0,0,0
+d0291,2020,Facebook,Menlo Park, CA,Data Scientist,2,Data,167000,1,1,117000,30000,20000,0,1,0,0,0
+d0292,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,192000,0,0.2,117000,38000,37000,0,0,0,0,0
+d0293,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,150000,0,0,117000,25000,8000,0,0,0,0,0
+d0294,2020,Microsoft,Redmond, WA,Data Scientist,2,Data,162000,3,0,117000,25000,20000,0,0,0,0,0
+d0295,2020,Oracle,Redwood City, CA,Data Scientist,2,ML / AI,117000,2,2,117000,1000,0,0,1,0,0,0
+d0296,2019,Oracle,Colorado Springs, CO,Data Scientist,2,ML / AI,117000,7,3,117000,7000,0,0,0,0,0,0
+d0297,2018,Amazon,Seattle, WA,Data Scientist,2,Full Stack,157000,2,1,118000,17000,22000,0,0,0,0,0
+d0298,2020,Intel,Chandler, AZ,Data Scientist,2,ML / AI,143000,4,3,118000,11000,14000,1,0,0,0,0
+d0299,2019,Microsoft,Sunnyvale, CA,Data Scientist,2,ML / AI,158000,1,0,118000,20000,20000,0,0,0,0,0
+d0300,2019,Microsoft,Bellevue, WA,Data Scientist,2,ML / AI,212000,1,0,118000,44000,50000,0,0,0,0,0
+d0301,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,262000,0,0,118000,44000,100000,1,0,0,0,0
+d0302,2019,Microsoft,Bellevue, WA,Data Scientist,2,ML / AI,213000,0,0,118000,45000,50000,1,0,0,0,0
+d0303,2020,PayPal,San Jose, CA,Data Scientist,2,ML / AI,153000,1,1,118000,10000,25000,1,0,0,0,0
+d0304,2021,The Climate Corporation,Chicago, IL,Data Scientist,2,General,130000,2,1,118000,4000,8000,0,0,0,0,0
+d0305,2021,IBM,Raleigh, NC,Data Scientist,2,survey analysis,119000,6,3,119000,0,0,0,0,1,0,0
+d0306,2020,Microsoft,Cambridge, MA,Data Scientist,2,machine learning,132000,15,1,119000,3000,10000,1,0,0,0,0
+d0307,2021,Microsoft,Redmond, WA,Data Scientist,2,Machine Learning,159000,1,0,119000,30000,10000,1,0,0,0,0
+d0308,2021,Zappos,Las Vegas, NV,Data Scientist,2,Machine Learning,119000,3,0,119000,0,0,1,0,0,0,0
+d0309,2019,Acorns,Irvine, CA,Data Scientist,2,ML / AI,125000,1,0,120000,5000,0,0,0,1,0,0
+d0310,2020,Adobe,San Jose, CA,Data Scientist,2,ML / AI,182000,0,0,120000,50000,12000,0,1,0,0,0
+d0311,2021,Aetna,Chicago, IL,Data Scientist,2,data,130000,7,1,120000,0,10000,1,0,0,0,0
+d0312,2019,Amazon,San Francisco, CA,Data Scientist,2,ML / AI,144000,1,0.5,120000,4000,20000,0,0,0,0,0
+d0313,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,154000,0,0,120000,4000,30000,0,0,0,0,0
+d0314,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,158000,6,0,120000,5000,30000,1,0,0,0,0
+d0315,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,140000,2,1,120000,15000,5000,0,0,1,0,0
+d0316,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,154000,0,0,120000,4000,30000,0,0,0,0,0
+d0317,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,155000,1,1,120000,30000,5000,0,0,0,0,0
+d0318,2019,Amazon,Seattle, WA,Data Scientist,2,ML / AI,180000,5,2.7,120000,60000,0,1,0,0,0,0
+d0319,2020,Amazon,Seattle, WA,Data Scientist,2,Data,150000,4,1,120000,30000,0,0,0,0,0,0
+d0320,2019,Amazon,Seattle, WA,Data Scientist,2,Analytics,190000,5,3,120000,70000,0,0,0,0,0,0
+d0321,2018,Amazon,Seattle, WA,Data Scientist,2,Advertising,155000,6,2,120000,35000,0,0,0,0,0,0
+d0322,2019,Apple,Cupertino, CA,Data Scientist,2,ML / AI,150000,4,4,120000,30000,6000,0,0,0,0,0
+d0323,2020,Apple,Austin, TX,Data Scientist,2,Apple Support,150000,5,0,120000,25000,0,0,1,0,0,0
+d0324,2020,BCG,New York, NY,Data Scientist,2,ML / AI,140000,4,1,120000,0,20000,0,0,0,0,0
+d0325,2021,BCG,Boston, MA,Data Scientist,2,Data Science,140000,0,0,120000,0,20000,0,0,0,0,0
+d0326,2020,BlackRock,New York, NY,Data Scientist,2,ML / AI,160000,4,3,120000,0,35000,1,0,0,0,0
+d0327,2018,Booz Allen Hamilton,Washington, DC,Data Scientist,2,ML / AI,120000,1,0,120000,0,0,0,0,0,0,0
+d0328,2021,Booz Allen Hamilton,Arlington, VA,Data Scientist,2,General,120000,5,0,120000,0,0,0,1,0,0,0
+d0329,2021,Capital One,Vienna, VA,Data Scientist,2,Data Scientist,126000,2,1,120000,0,6000,1,0,0,0,0
+d0330,2020,Capital One,McLean, TX,Data Scientist,2,Data,125000,4,3,120000,0,6000,0,0,0,0,0
+d0331,2020,Dropbox,San Francisco, CA,Data Scientist,2,Analytics,147000,3,2,120000,15000,12000,1,0,0,0,0
+d0332,2019,Electronic Arts,Redwood City, CA,Data Scientist,2,ML / AI,160000,2,2,120000,20000,20000,0,0,0,0,0
+d0333,2019,Facebook,Menlo Park, CA,Data Scientist,2,ML / AI,177000,0,0,120000,25000,32000,1,0,0,0,0
+d0334,2020,Facebook,New York, NY,Data Scientist,2,ML / AI,156000,0,0,120000,25000,12000,1,0,0,0,0
+d0335,2020,Facebook,Menlo Park, CA,Data Scientist,2,ML / AI,177000,0,0,120000,25000,32000,1,0,0,0,0
+d0336,2020,Facebook,Menlo Park, CA,Data Scientist,2,Data Science,157000,0,0,120000,25000,12000,1,0,0,0,0
+d0337,2021,Facebook,Menlo Park, CA,Data Scientist,2,Analytics,157000,1,1,120000,25000,12000,1,0,0,0,0
+d0338,2020,Feedzai,Atlanta, GA,Data Scientist,2,ML / AI,140000,6,3,120000,0,20000,0,0,1,0,0
+d0339,2021,Grubhub,Chicago, IL,Data Scientist,2,Experiments,150000,2,1,120000,30000,0,1,0,0,0,0
+d0340,2020,IBM,Armonk, NY,Data Scientist,2,ML / AI,120000,0,0,120000,0,0,1,0,0,0,0
+d0341,2019,Intel,Hillsboro, OR,Data Scientist,2,ML / AI,137000,4,0,120000,2000,15000,0,0,0,0,0
+d0342,2020,JP Morgan Chase,New York, NY,Data Scientist,2,ML / AI,135000,1,0,120000,0,15000,0,0,0,0,0
+d0343,2020,JP Morgan Chase,New York, NY,Data Scientist,2,ML / AI,135000,1,0,120000,0,15000,0,0,0,0,0
+d0344,2020,JP Morgan Chase,New York, NY,Data Scientist,2,ML / AI,128000,2,0,120000,0,8000,1,0,0,0,0
+d0345,2021,Liberty Mutual,Boston, MA,Data Scientist,2,General,150000,4,2,120000,0,30000,0,1,0,0,0
+d0346,2020,LinkedIn,Sunnyvale, CA,Data Scientist,2,Data Scientist,160000,3,0,120000,30000,10000,1,0,0,0,0
+d0347,2021,Microsoft,Redmond, WA,Data Scientist,2,NLP,162000,0,0,120000,30000,12000,1,0,0,0,0
+d0348,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,155000,2,1,120000,23000,12000,0,0,0,0,0
+d0349,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,180000,2,1,120000,45000,15000,1,0,0,0,0
+d0350,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,184000,1,1,120000,50000,14000,1,0,0,0,0
+d0351,2019,Microsoft,Redmond, WA,Data Scientist,2,Machine Learning,150000,0,0,120000,20000,10000,0,0,0,0,0
+d0352,2021,Microsoft,Atlanta, GA,Data Scientist,2,General,160000,15,7,120000,20000,20000,0,1,0,0,0
+d0353,2020,Microsoft,New York, NY,Data Scientist,2,API Development (Back-End),200000,2,2,120000,60000,20000,1,0,0,0,0
+d0354,2021,Nielsen,Chicago, IL,Data Scientist,2,Optimization,132000,0,0,120000,0,12000,0,0,1,0,0
+d0355,2020,Oracle,Denver, CO,Data Scientist,2,ODC,134000,1,1,120000,14000,0,0,0,0,0,0
+d0356,2020,Oracle,Broomfield, CO,Data Scientist,2,ML / AI,163000,5,5,120000,43000,0,1,0,0,0,0
+d0357,2021,Oracle,Denver, CO,Data Scientist,2,General,140000,2,2,120000,20000,0,0,0,0,0,0
+d0358,2021,Oracle,Herndon, VA,Data Scientist,2,data science,120000,3,1,120000,0,0,0,0,0,0,0
+d0359,2020,PayPal,San Jose, CA,Data Scientist,2,ML / AI,146000,3,0,120000,16000,10000,1,0,0,0,0
+d0360,2021,Procter & Gamble,Cincinnati, OH,Data Scientist,2,General,120000,1,0,120000,0,0,0,0,0,0,0
+d0361,2021,Prudential Financial,Sunnyvale, CA,Data Scientist,2,AI/ML,135000,3,0,120000,0,15000,1,0,0,0,0
+d0362,2021,Roche,South San Francisco, CA,Data Scientist,2,Deep learning,128000,1,1,120000,0,8000,1,0,0,0,0
+d0363,2021,SAP,Newport Beach, CA,Data Scientist,2,General,140000,1,1,120000,8000,12000,0,0,0,0,0
+d0364,2018,Tesla,San Francisco, CA,Data Scientist,2,Distributed Systems (Back-End),169000,2,2,120000,37000,12000,0,0,0,0,0
+d0365,2021,Turo,San Francisco, CA,Data Scientist,2,Analytics,120000,3,3,120000,0,0,1,0,0,0,0
+d0366,2019,Uber,San Francisco, CA,Data Scientist,2,ML / AI,177000,2,0.25,120000,37000,20000,0,0,0,0,0
+d0367,2020,Visa,Foster City, CA,Data Scientist,2,Analytics,139000,1,0,120000,7000,12000,1,0,0,0,0
+d0368,2021,Visa,Foster City, CA,Data Scientist,2,Analytics,142000,2,2,120000,10000,12000,0,0,0,0,0
+d0369,2021,Walmart,Bentonville, AR,Data Scientist,2,Machine Learning,180000,8,0,120000,40000,25000,0,0,0,0,0
+d0370,2021,WarnerMedia,New York, NY,Data Scientist,2,General,128000,2,2,120000,0,8000,0,0,0,0,0
+d0371,2019,Wayfair,Boston, MA,Data Scientist,2,ML / AI,150000,1,1,120000,12000,19000,0,0,0,0,0
+d0372,2020,Wayfair,Boston, MA,Data Scientist,2,ML / AI,140000,1,1,120000,8000,12000,0,0,1,0,0
+d0373,2019,Zillow,Seattle, WA,Data Scientist,2,Analytics,170000,3,0,120000,28000,22000,0,0,0,0,0
+d0374,2021,Amazon,Seattle, WA,Data Scientist,2,Business Intelligence Engineer,156000,8,1,121000,24000,11000,1,0,0,0,0
+d0375,2018,Capital One,Washington, DC,Data Scientist,2,ML / AI,125000,1,0,121000,0,4000,0,0,1,0,0
+d0376,2020,Google,Sunnyvale, CA,Data Scientist,2,ML / AI,130000,2,1,121000,0,9000,0,0,0,0,0
+d0377,2021,Google,San Francisco, CA,Data Scientist,2,General,197000,3,2,121000,55000,22000,0,1,0,0,0
+d0378,2020,Indeed,Austin, TX,Data Scientist,2,Data,138000,4,4,121000,0,17000,1,0,0,0,0
+d0379,2020,Intel,Hillsboro, OR,Data Scientist,2,Data analysis tools and productization,147000,1,1,121000,11000,15000,0,0,1,0,0
+d0380,2020,Microsoft,Cambridge, MA,Data Scientist,2,ML / AI,141000,2,2,121000,6000,14000,1,0,0,0,0
+d0381,2021,Microsoft,Redmond, WA,Data Scientist,2,ML,166000,1,1,121000,35000,10000,1,0,0,0,0
+d0382,2021,Spotify,New York, NY,Data Scientist,2,General,150000,2,0,121000,23000,4000,0,0,0,0,0
+d0383,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,162000,1,0,122000,24000,16000,1,0,0,0,0
+d0384,2020,Apple,Austin, TX,Data Scientist,2,Data,160000,6,0,122000,30000,8000,0,0,1,0,0
+d0385,2020,Deloitte,Chicago, IL,Data Scientist,2,Data,122000,5,3,122000,0,0,1,0,0,0,0
+d0386,2021,Facebook,Seattle, WA,Data Scientist,2,Integrity,167000,4,3,122000,30000,15000,0,0,0,0,0
+d0387,2021,Merck,San Francisco, CA,Data Scientist,2,Data Scientist,148000,4,2,122000,0,27000,1,0,0,0,0
+d0388,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,185000,1,1,122000,38000,25000,0,1,0,0,0
+d0389,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,199000,0,0,122000,37000,40000,0,0,0,0,0
+d0390,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,199000,0,0,122000,37000,40000,0,0,0,0,0
+d0391,2020,Uber,San Francisco, CA,Data Scientist,2,DS,162000,1,1,122000,28000,7000,0,0,0,0,0
+d0392,2021,Visa,Foster City, CA,Data Scientist,2,Deep Learning,142000,2,1,122000,8000,12000,1,0,0,0,0
+d0393,2020,Wayfair,Boston, MA,Data Scientist,2,ML / AI,168000,2,1,122000,34000,12000,0,0,1,0,0
+d0394,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,180000,7,4,123000,57000,0,0,0,0,0,0
+d0395,2021,Apple,Cupertino, CA,Data Scientist,2,general,213000,9,4,123000,80000,10000,1,0,0,0,0
+d0396,2021,Booz Allen Hamilton,Washington, DC,Data Scientist,2,Machine learning,125000,5,3,123000,0,2000,1,0,0,0,0
+d0397,2020,Capital One,Richmond, VA,Data Scientist,2,ML / AI,134000,2,2,123000,3000,8000,0,0,1,0,0
+d0398,2021,Convoy,Seattle, WA,Data Scientist,2,Analytics,148000,4,0,123000,25000,0,0,1,0,0,0
+d0399,2021,Google,Mountain View, CA,Data Scientist,2,General,205000,7,3,123000,58000,24000,0,0,0,0,0
+d0400,2021,Hulu,Santa Monica, CA,Data Scientist,2,Product analytics,162000,8,1,123000,15000,24000,1,0,0,0,0
+d0401,2021,IBM,Armonk, NY,Data Scientist,2,General,123000,3,1,123000,0,0,1,0,0,0,0
+d0402,2021,Intel,Portland, OR,Data Scientist,2,RET,152000,3,2,123000,14000,15000,0,0,1,0,0
+d0403,2019,Intel,Hillsboro, OR,Data Scientist,2,ML / AI,140000,2,2,123000,8000,9000,0,0,0,0,0
+d0404,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,162000,3,3,123000,27000,12000,0,0,0,0,0
+d0405,2019,Capital One,San Francisco, CA,Data Scientist,2,Model,132000,1,2,124000,0,8000,0,0,0,0,0
+d0406,2020,Capital One,New York, NY,Data Scientist,2,ML / AI,148000,1,0,124000,0,24000,1,0,0,0,0
+d0407,2020,Facebook,Menlo Park, CA,Data Scientist,2,Data,164000,2,0,124000,28000,12000,0,1,0,0,0
+d0408,2021,JP Morgan Chase,New York, NY,Data Scientist,2,General,137000,3,1,124000,0,14000,1,0,0,0,0
+d0409,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,144000,1,1,124000,7000,13000,0,0,1,0,0
+d0410,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,142000,2,2,124000,6000,12000,0,0,1,0,0
+d0411,2021,Zillow,Seattle, WA,Data Scientist,2,General,159000,2,2,124000,20000,15000,0,1,0,0,0
+d0412,2021,Allstate,Northbrook, IL,Data Scientist,2,ML / AI,138000,8,4,125000,0,13000,0,0,0,0,0
+d0413,2019,Amazon,Seattle, WA,Data Scientist,2,ML / AI,154000,4,1,125000,7000,22000,0,0,0,0,0
+d0414,2018,Amazon,Seattle, WA,Data Scientist,2,ML / AI,185000,7,2,125000,60000,0,0,0,0,0,0
+d0415,2020,Amazon,Seattle, WA,Data Scientist,2,Data,150000,5,1,125000,25000,0,0,0,0,0,0
+d0416,2018,Apple,Cupertino, CA,Data Scientist,2,ML / AI,215000,0,0,125000,38000,52000,0,0,0,0,0
+d0417,2018,Apple,Cupertino, CA,Data Scientist,2,ML / AI,188000,6,1,125000,50000,14000,0,0,0,0,0
+d0418,2021,Bank of America Merrill Lynch,New York, NY,Data Scientist,2,finance,190000,0,0,125000,0,65000,0,0,1,0,0
+d0419,2021,Bayer,New York, NY,Data Scientist,2,General,155000,1,1,125000,0,30000,1,0,0,0,0
+d0420,2021,Capital One,Washington, DC,Data Scientist,2,QA,134000,5,0,125000,0,9000,1,0,0,0,0
+d0421,2020,capital one,Fairfax, VA,Data Scientist,2,ML / AI,140000,3,2,125000,0,15000,1,0,0,0,0
+d0422,2020,Capital One,New York, NY,Data Scientist,2,ML / AI,130000,2,0,125000,0,5000,1,0,0,0,0
+d0423,2020,Citi,New York, NY,Data Scientist,2,Data,125000,20,2,125000,0,1000,1,0,0,0,0
+d0424,2020,Citi,New York, NY,Data Scientist,2,Data,140000,3,3,125000,0,15000,1,0,0,0,0
+d0425,2021,CVS Health,Chicago, IL,Data Scientist,2,Financial Optimization,141000,1,1,125000,0,16000,0,0,1,0,0
+d0426,2020,ebay,Bellevue, WA,Data Scientist,2,ML / AI,195000,2,0,125000,40000,30000,0,0,0,0,0
+d0427,2020,Expedia,Seattle, WA,Data Scientist,2,data,143000,0,0.5,125000,3000,15000,1,0,0,0,0
+d0428,2020,Facebook,New York, NY,Data Scientist,2,Product Analytics,185000,3,1,125000,25000,35000,0,0,0,0,0
+d0429,2020,JP Morgan Chase,New York, NY,Data Scientist,2,ML / AI,140000,3,1,125000,0,15000,1,0,0,0,0
+d0430,2020,JP Morgan Chase,New York, NY,Data Scientist,2,ML / AI,150000,1,1,125000,0,25000,1,0,0,0,0
+d0431,2020,Lockheed Martin,Dallas, TX,Data Scientist,2,Modeling and Simulation,129000,5,2,125000,0,4000,1,0,0,0,0
+d0432,2021,Lowe's,Charlotte, NC,Data Scientist,2,General,140000,0,0,125000,0,15000,0,0,1,0,0
+d0433,2021,McKinsey,Boston, MA,Data Scientist,2,General,140000,2,2,125000,0,15000,1,0,0,0,0
+d0434,2021,Nordstrom,Seattle, WA,Data Scientist,2,Data Analytics,150000,3,3,125000,0,25000,1,0,0,0,0
+d0435,2021,Oracle,Seattle, WA,Data Scientist,2,Data Science,153000,2,2,125000,23000,5000,1,0,0,0,0
+d0436,2020,Samsung,Mountain View, CA,Data Scientist,2,ML / AI,165000,1,0,125000,0,40000,1,0,0,0,0
+d0437,2021,SAP,Newport Beach, CA,Data Scientist,2,Optimization,146000,1,1,125000,8000,13000,1,0,0,0,0
+d0438,2019,Spotify,New York, NY,Data Scientist,2,Data,140000,1,0,125000,5000,10000,0,0,0,0,0
+d0439,2019,Target,Minneapolis, MN,Data Scientist,2,ML / AI,138000,0,0,125000,0,13000,0,0,0,0,0
+d0440,2018,The Climate Corporation,Seattle, WA,Data Scientist,2,ML / AI,145000,5,0,125000,0,20000,0,0,0,0,0
+d0441,2019,Uber,San Francisco, CA,Data Scientist,2,Data Analyst,180000,6,1,125000,40000,13000,1,0,0,0,0
+d0442,2020,Wayfair,Boston, MA,Data Scientist,2,ML / AI,150000,1,1,125000,13000,12000,0,0,1,0,0
+d0443,2021,Wayfair,Boston, MA,Data Scientist,2,ML,168000,2,2,125000,30000,13000,0,0,1,0,0
+d0444,2021,Wayfair,Boston, MA,Data Scientist,2,GENERAL,185000,2,1,125000,45000,15000,0,0,1,0,0
+d0445,2019,Zillow,Seattle, WA,Data Scientist,2,ML / AI,191000,3,0,125000,31000,35000,0,0,0,0,0
+d0446,2021,Amazon,Seattle, WA,Data Scientist,2,Operations research,173000,0,0,126000,30000,18000,0,0,0,0,0
+d0447,2019,Amazon,Seattle, WA,Data Scientist,2,ML / AI,168000,1,1,126000,20000,22000,1,0,0,0,0
+d0448,2021,Amazon,Los Angeles, CA,Data Scientist,2,Consumer Product,172000,7,1,126000,32000,15000,1,0,0,0,0
+d0449,2021,Booz Allen Hamilton,Richmond, VA,Data Scientist,2,Data scientist,133000,15,12,126000,0,7000,0,0,0,0,0
+d0450,2020,Dell Technologies,Round Rock, TX,Data Scientist,2,ML / AI,136000,0,0,126000,0,10000,1,0,0,0,0
+d0451,2021,IBM,Austin, TX,Data Scientist,2,General,134000,3,3,126000,4000,4000,0,1,0,0,0
+d0452,2021,Intel,Portland, OR,Data Scientist,2,RET,159000,3,3,126000,14000,19000,0,0,1,0,0
+d0453,2018,Microsoft,Seattle, WA,Data Scientist,2,ML / AI,145000,2,1,126000,12000,6000,0,0,0,0,0
+d0454,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,178000,3,1.5,126000,45000,7000,0,0,0,0,0
+d0455,2020,PayPal,San Jose, CA,Data Scientist,2,data analytics,170000,2,1,126000,30000,16000,1,0,0,0,0
+d0456,2021,Twitter,Austin, TX,Data Scientist,2,Revenue,176000,2,0,126000,38000,13000,0,0,0,0,0
+d0457,2018,Amazon,Seattle, WA,Data Scientist,2,Data Science,228000,5,5,127000,101000,0,0,0,0,0,0
+d0458,2021,Amazon,Seattle, WA,Data Scientist,2,BIE,163000,5,5,127000,16000,20000,1,0,0,0,0
+d0459,2020,Amazon,Seattle, WA,Data Scientist,2,Analytics,176000,5,1,127000,34000,15000,1,0,0,0,0
+d0460,2021,Capital One,Fairfax, VA,Data Scientist,2,General,133000,4,4,127000,0,6000,0,0,0,0,0
+d0461,2020,CVS Health,Chicago, IL,Data Scientist,2,ML / AI,143000,7,4,127000,0,16000,1,0,0,0,0
+d0462,2020,DoorDash,San Francisco, CA,Data Scientist,2,Data,162000,1,1,127000,35000,0,0,1,0,0,0
+d0463,2020,Intel,Hillsboro, OR,Data Scientist,2,Data Analysis and Trend Prediction,173000,7,7,127000,21000,25000,0,0,1,0,0
+d0464,2019,Microsoft,Bellevue, WA,Data Scientist,2,ML / AI,180000,0,0,127000,33000,20000,0,0,0,0,0
+d0465,2020,Microsoft,Bellevue, WA,Data Scientist,2,ML / AI,173000,0,0,127000,33000,13000,0,0,1,0,0
+d0466,2019,Uber,San Francisco, CA,Data Scientist,2,ML / AI,166000,0,0.3,127000,26000,12000,0,0,0,0,0
+d0467,2020,Uber,Los Angeles, CA,Data Scientist,2,ML / AI,169000,3,1,127000,30000,12000,0,0,0,0,0
+d0468,2020,Workday,Pleasanton, CA,Data Scientist,2,Distributed Systems (Back-End),184000,3,3,127000,57000,0,0,0,0,0,0
+d0469,2020,Workday,Pleasanton, CA,Data Scientist,2,Distributed Systems (Back-End),194000,3,3,127000,57000,10000,0,1,0,0,0
+d0470,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,185000,0,0,128000,17000,40000,1,0,0,0,0
+d0471,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,175000,3,1,128000,35000,12000,1,0,0,0,0
+d0472,2021,Amazon,Seattle, WA,Data Scientist,2,ML,250000,8,5,128000,122000,0,0,1,0,0,0
+d0473,2020,Amazon,Seattle, WA,Data Scientist,2,Internet,140000,3,1,128000,10000,5000,1,0,0,0,0
+d0474,2021,Amazon,Seattle, WA,Data Scientist,2,General,180000,4,2,128000,40000,12000,1,0,0,0,0
+d0475,2020,Booz Allen Hamilton,Arlington, VA,Data Scientist,2,ML / AI,128000,2,1,128000,0,0,0,0,1,0,0
+d0476,2021,Booz Allen Hamilton,Washington, DC,Data Scientist,2,General,128000,5,1,128000,0,0,1,0,0,0,0
+d0477,2021,Facebook,Austin, TX,Data Scientist,2,Data analyst,142000,3,0,128000,14000,0,1,0,0,0,0
+d0478,2020,Google,Seattle, WA,Data Scientist,2,Mobile (iOS + Android),210000,7,2,128000,59000,23000,0,0,0,0,0
+d0479,2021,JP Morgan Chase,Columbus, OH,Data Scientist,2,General,148000,3,2,128000,0,20000,0,0,0,0,0
+d0480,2019,Microsoft,Bellevue, WA,Data Scientist,2,ML / AI,173000,2,1.5,128000,30000,15000,0,0,0,0,0
+d0481,2020,Microsoft,Seattle, WA,Data Scientist,2,ML / AI,155000,2,0,128000,12000,15000,1,0,0,0,0
+d0482,2020,Wells Fargo,Charlotte, NC,Data Scientist,2,ML / AI,154000,1,1,128000,0,26000,0,0,0,0,0
+d0483,2020,Amazon,Seattle, WA,Data Scientist,2,DevOps,160000,10,1,129000,20000,11000,1,0,0,0,0
+d0484,2021,Aetna,Wellesley, MA,Data Scientist,2,ML,140000,4,1,130000,0,10000,1,0,0,0,0
+d0485,2019,Affirm,San Francisco, CA,Data Scientist,2,ML / AI,165000,0,1,130000,35000,0,0,0,0,0,0
+d0486,2020,Amazon,Los Angeles, CA,Data Scientist,2,ML / AI,217000,4,3,130000,87000,0,1,0,0,0,0
+d0487,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,212000,10,3,130000,80000,0,1,0,0,0,0
+d0488,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,250000,10,4,130000,120000,0,0,1,0,0,0
+d0489,2020,Amazon,Seattle, WA,Data Scientist,2,Data,180000,4,0,130000,25000,25000,1,0,0,0,0
+d0490,2020,Amazon,Seattle, WA,Data Scientist,2,Data,212000,12,4,130000,0,82000,0,0,0,0,0
+d0491,2020,Apple,Cupertino, CA,Data Scientist,2,ML / AI,200000,0,0,130000,35000,35000,1,0,0,0,0
+d0492,2020,Boeing,Seattle, WA,Data Scientist,2,ML / AI,143000,10,6,130000,0,13000,1,0,0,0,0
+d0493,2021,Capgemini,New York, NY,Data Scientist,2,General,131000,5,0,130000,1000,0,1,0,0,0,0
+d0494,2020,Capital One,Washington, DC,Data Scientist,2,ML / AI,140000,1,1,130000,0,10000,0,0,0,0,0
+d0495,2021,Capital One,New York, NY,Data Scientist,2,Machine Learning,139000,4,2,130000,0,9000,1,0,0,0,0
+d0496,2021,Chime,San Francisco, CA,Data Scientist,2,Product,130000,3,1,130000,0,0,0,0,0,0,0
+d0497,2021,Cisco,Denver, CO,Data Scientist,2,ML Modeling Research,160000,3,3,130000,15000,15000,1,0,0,0,0
+d0498,2020,Cisco,San Jose, CA,Data Scientist,2,Data,145000,12,0,130000,0,15000,0,0,0,0,0
+d0499,2021,CVS Health,New York, NY,Data Scientist,2,Analytics,143000,5,1,130000,0,13000,0,0,0,0,0
+d0500,2020,Dropbox,San Francisco, CA,Data Scientist,2,Product Analytics,158000,2,1,130000,15000,13000,1,0,0,0,0
+d0501,2019,Expedia,Seattle, WA,Data Scientist,2,ML / AI,149000,12,1,130000,4000,15000,0,0,0,0,0
+d0502,2020,Facebook,San Francisco, CA,Data Scientist,2,Networking,170000,3,2,130000,30000,10000,1,0,0,0,0
+d0503,2020,Facebook,Menlo Park, CA,Data Scientist,2,Data,190000,2,2,130000,50000,10000,1,0,0,0,0
+d0504,2020,Facebook,Menlo Park, CA,Data Scientist,2,Data,180000,2,2,130000,40000,10000,0,0,0,0,0
+d0505,2020,Facebook,Menlo Park, CA,Data Scientist,2,Data,190000,2,2,130000,50000,10000,0,0,0,0,0
+d0506,2020,Facebook,Menlo Park, CA,Data Scientist,2,Data,186000,2,2,130000,46000,10000,0,0,0,0,0
+d0507,2020,Facebook,Menlo Park, CA,Data Scientist,2,Data,180000,2,2,130000,40000,10000,0,0,0,0,0
+d0508,2020,IBM,New York, NY,Data Scientist,2,ML / AI,130000,3,1,130000,0,0,1,0,0,0,0
+d0509,2020,IBM,New York, NY,Data Scientist,2,ML / AI,135000,3,2,130000,5000,0,0,1,0,0,0
+d0510,2021,IBM,Atlanta, GA,Data Scientist,2,Finance,130000,3,0,130000,0,0,0,0,1,0,0
+d0511,2020,IBM,New York, NY,Data Scientist,2,Data,135000,0,0,130000,0,1000,1,0,0,0,0
+d0512,2019,illumina,San Diego, CA,Data Scientist,2,bioinformatics,150000,0,0,130000,17000,13000,0,0,0,0,0
+d0513,2021,Intel,Hillsboro, OR,Data Scientist,2,Manufacturing,174000,5,5,130000,28000,16000,0,1,0,0,0
+d0514,2019,JP Morgan Chase,New York, NY,Data Scientist,2,ML / AI,150000,1,1,130000,0,20000,0,0,0,0,0
+d0515,2021,JP Morgan Chase,New York, NY,Data Scientist,2,Machine Learning,150000,2,2,130000,0,20000,0,0,0,0,0
+d0516,2021,JP Morgan Chase,Dallas, TX,Data Scientist,2,Data Science,150000,4,0,130000,0,20000,1,0,0,0,0
+d0517,2018,Lyft,San Francisco, CA,Data Scientist,2,Product Analytics,250000,0,0,130000,70000,50000,0,0,0,0,0
+d0518,2019,Microsoft,Bellevue, WA,Data Scientist,2,ML / AI,162000,4,4,130000,12000,20000,0,0,0,0,0
+d0519,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,180000,2,2,130000,30000,20000,0,0,0,0,0
+d0520,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,165000,0,0,130000,30000,5000,0,0,0,0,0
+d0521,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,150000,3,3,130000,15000,5000,1,0,0,0,0
+d0522,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,159000,4,1,130000,14000,15000,1,0,0,0,0
+d0523,2021,Microsoft,Boston, MA,Data Scientist,2,ML,205000,3,3,130000,60000,15000,1,0,0,0,0
+d0524,2021,Microsoft,Melbourne, VI,Data Scientist,2,Machine Learning,153000,6,2,130000,11000,12000,0,0,1,0,0
+d0525,2021,Microsoft,Redmond, WA,Data Scientist,2,Data,173000,2,0,130000,13000,30000,1,0,0,0,0
+d0526,2020,Moveworks,Mountain View, CA,Data Scientist,2,Data,130000,2,1,130000,0,0,1,0,0,0,0
+d0527,2020,Nike,Beaverton, OR,Data Scientist,2,Data,150000,3,0,130000,0,20000,1,0,0,0,0
+d0528,2020,Nvidia,Santa Clara, CA,Data Scientist,2,ML / AI,140000,2,2,130000,10000,0,1,0,0,0,0
+d0529,2018,Oath,New York, NY,Data Scientist,2,Data,160000,1,1,130000,10000,20000,0,0,0,0,0
+d0530,2021,Optum,Basking Ridge, NJ,Data Scientist,2,Engineering,140000,4,4,130000,0,10000,0,0,0,0,0
+d0531,2021,PayPal,San Jose, CA,Data Scientist,2,Risk,190000,3,3,130000,45000,15000,1,0,0,0,0
+d0532,2019,Procter & Gamble,Cincinnati, OH,Data Scientist,2,ML / AI,135000,5,1,130000,5000,0,0,0,0,0,0
+d0533,2019,Procter & Gamble,Cincinnati, OH,Data Scientist,2,ML / AI,137000,5,1,130000,7000,0,0,0,0,0,0
+d0534,2020,Salesforce,Bellevue, WA,Data Scientist,2,ML / AI,150000,4,2,130000,7000,13000,1,0,0,0,0
+d0535,2020,ServiceNow,Santa Clara, CA,Data Scientist,2,ML / AI,223000,2,0,130000,80000,13000,1,0,0,0,0
+d0536,2019,Snap,Los Angeles, CA,Data Scientist,2,Data Engineering,187000,0,0,130000,38000,19000,0,0,0,0,0
+d0537,2020,Twitter,San Francisco, CA,Data Scientist,2,ML / AI,168000,1,1,130000,25000,13000,0,0,0,0,0
+d0538,2021,Uber,San Francisco, CA,Data Scientist,2,product,185000,8,5,130000,40000,15000,0,1,0,0,0
+d0539,2019,Uber,San Francisco, CA,Data Scientist,2,ML / AI,195000,3,2,130000,50000,15000,0,0,0,0,0
+d0540,2021,Uber,Sunnyvale, CA,Data Scientist,2,General,190000,4,0,130000,35000,25000,1,0,0,0,0
+d0541,2020,Verizon,Sunnyvale, CA,Data Scientist,2,Data,180000,13,7,130000,30000,20000,0,0,0,0,0
+d0542,2021,Verizon,Los Angeles, CA,Data Scientist,2,Data Science,160000,5,3,130000,15000,15000,0,0,0,0,0
+d0543,2021,Walmart,Hoboken, NJ,Data Scientist,2,ML/AI,157000,0,0,130000,6000,21000,1,0,0,0,0
+d0544,2018,Walmart,Bentonville, AR,Data Scientist,2,ML / AI,195000,10,4,130000,35000,30000,0,0,0,0,0
+d0545,2021,Walmart Labs,Sunnyvale, CA,Data Scientist,2,data science,160000,6,1,130000,10000,20000,0,0,0,0,0
+d0546,2020,Wayfair,Boston, MA,Data Scientist,2,ML / AI,156000,4,1,130000,13000,13000,1,0,0,0,0
+d0547,2020,Yahoo,Sunnyvale, CA,Data Scientist,2,ML / AI,179000,11,6,130000,28000,21000,0,0,0,0,0
+d0548,2021,Zappos,Las Vegas, NV,Data Scientist,2,Machine Learning,130000,3,3,130000,0,0,0,1,0,0,0
+d0549,2019,Zillow,Seattle, WA,Data Scientist,2,ML / AI,180000,2,0,130000,29000,20000,0,0,0,0,0
+d0550,2019,Zillow,New York, NY,Data Scientist,2,ML / AI,144000,3,3,130000,4000,10000,0,0,0,0,0
+d0551,2021,Aetna,New York, NY,Data Scientist,2,General,142000,2,2,131000,0,10000,0,0,0,0,0
+d0552,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,215000,7,7,131000,74000,10000,1,0,0,0,0
+d0553,2021,Dropbox,San Francisco, CA,Data Scientist,2,Product Analytics,154000,5,2,131000,10000,13000,0,0,0,0,0
+d0554,2019,Microsoft,Sunnyvale, CA,Data Scientist,2,ML / AI,225000,0,0,131000,44000,50000,1,0,0,0,0
+d0555,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,191000,0,0,131000,35000,25000,1,0,0,0,0
+d0556,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,191000,1,1,131000,45000,15000,0,0,1,0,0
+d0557,2020,Microsoft,Seattle, WA,Data Scientist,2,ML / AI,151000,5,3,131000,6000,12000,0,0,0,0,0
+d0558,2019,Amazon,Seattle, WA,Data Scientist,2,ML / AI,210000,4,4,132000,38000,40000,0,0,0,0,0
+d0559,2021,Amazon,Seattle, WA,Data Scientist,2,General,212000,5,3,132000,80000,0,1,0,0,0,0
+d0560,2021,Amazon,Seattle, WA,Data Scientist,2,data science,234000,15,4,132000,102000,0,1,0,0,0,0
+d0561,2021,BCG,Chicago, IL,Data Scientist,2,Data Science,158000,2,0,132000,0,26000,1,0,0,0,0
+d0562,2021,BCG,New York, NY,Data Scientist,2,General,158000,0,0,132000,0,26000,0,0,0,0,0
+d0563,2021,CVS Health,New York, NY,Data Scientist,2,general,142000,2,2,132000,0,10000,0,0,0,0,0
+d0564,2021,CVS Health,Woonsocket, RI,Data Scientist,2,Data,167000,7,4,132000,15000,20000,1,0,0,0,0
+d0565,2021,Discover,Chicago Heights, IL,Data Scientist,2,Marketing Analytics,145000,5,2,132000,0,13000,1,0,0,0,0
+d0566,2021,Expedia,Seattle, WA,Data Scientist,2,NLP,182000,2,0,132000,25000,25000,0,0,1,0,0
+d0567,2018,Google,Mountain View, CA,Data Scientist,2,Full Stack,210000,1,1,132000,42000,36000,0,0,0,0,0
+d0568,2018,Google,Mountain View, CA,Data Scientist,2,Full Stack,210000,1,1,132000,42000,36000,0,0,0,0,0
+d0569,2021,IBM,Seattle, WA,Data Scientist,2,General,132000,1,1,132000,0,0,0,0,1,0,0
+d0570,2021,IBM,San Francisco, CA,Data Scientist,2,AI/ML,133000,4,4,132000,0,1000,0,1,0,0,0
+d0571,2021,JP Morgan Chase,New York, NY,Data Scientist,2,Machine learning,149000,3,3,132000,0,17000,1,0,0,0,0
+d0572,2021,Nielsen,Washington, DC,Data Scientist,2,General,152000,8,4,132000,0,20000,0,0,0,0,0
+d0573,2021,Oracle,Denver, CO,Data Scientist,2,General,148000,4,4,132000,16000,0,0,0,0,0,0
+d0574,2021,Square,San Francisco, CA,Data Scientist,2,Data,168000,4,0,132000,36000,0,0,0,0,0,0
+d0575,2018,Uber,San Francisco, CA,Data Scientist,2,ML / AI,235000,2,2,132000,90000,13000,0,0,0,0,0
+d0576,2021,Amazon,Seattle, WA,Data Scientist,2,ML,213000,9,4,133000,70000,10000,1,0,0,0,0
+d0577,2019,Capital One,New York, NY,Data Scientist,2,ML / AI,138000,3,1,133000,0,5000,1,0,0,0,0
+d0578,2021,eBay,San Jose, CA,Data Scientist,2,general,176000,2,0,133000,13000,30000,1,0,0,0,0
+d0579,2020,Facebook,Austin, TX,Data Scientist,2,Data,170000,3,1,133000,25000,13000,1,0,0,0,0
+d0580,2021,GE Aviation,Cincinnati, OH,Data Scientist,2,ML,152000,15,10,133000,0,19000,1,0,0,0,0
+d0581,2020,Microsoft,Seattle, WA,Data Scientist,2,ML / AI,156000,2,2,133000,6000,17000,0,0,1,0,0
+d0582,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,159000,2,2,133000,6000,20000,1,0,0,0,0
+d0583,2021,Microsoft,Redmond, WA,Data Scientist,2,Data science,166000,3,1,133000,20000,13000,0,0,0,0,0
+d0584,2020,Target,Minneapolis, MN,Data Scientist,2,ML / AI,150000,1,1,133000,5000,13000,0,0,0,0,0
+d0585,2021,Ford Motor,Dearborn, MI,Data Scientist,2,Data Engineer,154000,16,16,134000,0,19000,1,0,0,0,0
+d0586,2021,Goldman Sachs,New York, NY,Data Scientist,2,Data,171000,3,3,134000,0,37000,0,1,0,0,0
+d0587,2020,Microsoft,Bellevue, WA,Data Scientist,2,ML / AI,182000,2,0,134000,35000,13000,0,1,0,0,0
+d0588,2019,Uber,San Francisco, CA,Data Scientist,2,ML / AI,225000,0,0,134000,60000,30000,0,0,0,0,0
+d0589,2020,Adobe,San Francisco, CA,Data Scientist,2,General,168000,4,1,135000,20000,13000,0,0,0,0,0
+d0590,2021,Allstate,Northbrook, IL,Data Scientist,2,ML / AI,148000,8,5,135000,0,13000,0,0,0,0,0
+d0591,2021,Amazon,Seattle, WA,Data Scientist,2,ML/AI,157000,0,0,135000,16000,6000,0,0,0,0,0
+d0592,2018,Amazon,Seattle, WA,Data Scientist,2,ML / AI,169000,6,0,135000,20000,14000,0,0,0,0,0
+d0593,2019,Amazon,Seattle, WA,Data Scientist,2,ML / AI,185000,6,4,135000,50000,0,0,0,0,0,0
+d0594,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,200000,8,1,135000,65000,3000,1,0,0,0,0
+d0595,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,240000,7,5,135000,100000,0,0,0,0,0,0
+d0596,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,255000,10,4,135000,120000,0,0,1,0,0,0
+d0597,2021,Amazon,Seattle, WA,Data Scientist,2,General,154000,3,2,135000,3000,16000,0,0,1,0,0
+d0598,2021,Amazon,Cambridge, MA,Data Scientist,2,Business Intelligence,230000,8,4,135000,89000,6000,1,0,0,0,0
+d0599,2021,Apple,Austin, TX,Data Scientist,2,Data science,174000,5,1,135000,25000,14000,0,0,0,0,0
+d0600,2019,Bank of America Merrill Lynch,Boston, MA,Data Scientist,2,ML / AI,135000,5,1,135000,0,5000,1,0,0,0,0
+d0601,2021,Capital One,Chicago, IL,Data Scientist,2,General,144000,3,2,135000,0,8000,1,0,0,0,0
+d0602,2021,CVS Health,New York, NY,Data Scientist,2,ML / AI,150000,4,4,135000,0,15000,0,0,0,0,0
+d0603,2021,Dolby Laboratories,Sunnyvale, CA,Data Scientist,2,Machine Learning,162000,0,0,135000,20000,7000,1,0,0,0,0
+d0604,2021,Facebook,Austin, TX,Data Scientist,2,Product,189000,3,0,135000,40000,14000,0,0,0,0,0
+d0605,2021,Facebook,Menlo Park, CA,Data Scientist,2,ML / AI,201000,3,0,135000,33000,34000,0,1,0,0,0
+d0606,2021,Facebook,San Francisco, CA,Data Scientist,2,Data,185000,4,1,135000,20000,30000,1,0,0,0,0
+d0607,2019,Feedzai,Atlanta, GA,Data Scientist,2,ML / AI,165000,6,0,135000,0,30000,0,0,0,0,0
+d0608,2021,Fidelity Investments,Jersey City, NJ,Data Scientist,2,General,189000,8,8,135000,20000,34000,1,0,0,0,0
+d0609,2018,IBM,San Jose, CA,Data Scientist,2,ML / AI,137000,2,1,135000,0,2000,0,0,0,0,0
+d0610,2018,Illumina,San Diego, CA,Data Scientist,2,Bioinformatics,175000,6,2,135000,29000,11000,0,0,0,0,0
+d0611,2020,JP Morgan Chase,New York, NY,Data Scientist,2,ML / AI,160000,3,1,135000,0,25000,1,0,0,0,0
+d0612,2018,JP Morgan Chase,Dallas, TX,Data Scientist,2,ML / AI,150000,5,5,135000,0,25000,0,0,0,0,0
+d0613,2021,LinkedIn,Sunnyvale, CA,Data Scientist,2,General,186000,1,0,135000,38000,14000,0,0,0,0,0
+d0614,2020,Lyft,San Francisco, CA,Data Scientist,2,Economics,200000,0,0,135000,65000,0,0,1,0,0,0
+d0615,2020,Lyft,San Francisco, CA,Data Scientist,2,Data,200000,0,0,135000,65000,0,0,1,0,0,0
+d0616,2021,McKinsey,San Francisco, CA,Data Scientist,2,General,135000,4,0,135000,0,5000,0,1,0,0,0
+d0617,2021,Micron Technology,Manassas, VA,Data Scientist,2,AI,160000,1,0,135000,12000,13000,0,0,1,0,0
+d0618,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,223000,2,0,135000,50000,38000,0,0,0,0,0
+d0619,2021,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,183000,1,1,135000,35000,13000,0,0,0,0,0
+d0620,2020,Microsoft,Atlanta, GA,Data Scientist,2,ML / AI,172000,0,0,135000,23000,14000,0,0,1,0,0
+d0621,2021,Microsoft,Cambridge, MA,Data Scientist,2,Machine Learning,190000,1,1,135000,40000,15000,0,0,1,0,0
+d0622,2021,Microsoft,Denver, CO,Data Scientist,2,General,180000,2,0,135000,20000,25000,1,0,0,0,0
+d0623,2021,Microsoft,Redmond, WA,Data Scientist,2,General,212000,2,2,135000,58000,19000,1,0,0,0,0
+d0624,2019,Microsoft,Redmond, WA,Data Scientist,2,Data Science,150000,7,1,135000,60000,0,0,0,0,0,0
+d0625,2021,Microsoft,Redmond, WA,Data Scientist,2,Data science,170000,10,2,135000,25000,10000,0,0,0,0,0
+d0626,2020,Oracle,Broomfield, CO,Data Scientist,2,ML / AI,156000,7,3,135000,21000,0,1,0,0,0,0
+d0627,2019,SAP,Newtown Square, PA,Data Scientist,2,DBS,190000,13,13,135000,25000,30000,0,0,0,0,0
+d0628,2019,SAP,Bellevue, WA,Data Scientist,2,Analyst,165000,5,1,135000,0,25000,0,0,0,0,0
+d0629,2019,Shutterstock,New York, NY,Data Scientist,2,ML / AI,159000,2,0,135000,10000,14000,0,0,0,0,0
+d0630,2021,Square,San Francisco, CA,Data Scientist,2,General,190000,1,0,135000,40000,14000,0,1,0,0,0
+d0631,2020,Tesla,Palo Alto, CA,Data Scientist,2,Autopilot,195000,0,0,135000,60000,0,0,0,0,0,0
+d0632,2020,Uber,San Francisco, CA,Data Scientist,2,ML / AI,215000,2,0,135000,65000,15000,1,0,1,0,0
+d0633,2021,UBS,New York, NY,Data Scientist,2,Quant,170000,4,1,135000,0,35000,1,0,0,0,0
+d0634,2021,UBS,New York, NY,Data Scientist,2,Credit Risk,165000,5,3,135000,0,30000,0,0,0,0,0
+d0635,2020,Wayfair,Boston, MA,Data Scientist,2,ML / AI,180000,4,2,135000,35000,10000,0,0,1,0,0
+d0636,2020,Zillow,Seattle, WA,Data Scientist,2,AB testing,165000,9,0,135000,30000,0,1,0,0,0,0
+d0637,2020,Accenture,Chicago, IL,Data Scientist,2,ML / AI,150000,5,1,136000,0,15000,0,1,0,0,0
+d0638,2019,Apple,Cupertino, CA,Data Scientist,2,ML / AI,230000,1,4,136000,80000,16000,0,0,0,0,0
+d0639,2021,Apple,San Jose, CA,Data Scientist,2,ML,166000,1,0,136000,26000,0,0,0,0,0,0
+d0640,2019,Apple,Cupertino, CA,Data Scientist,2,Hardware Technology,212000,4,4,136000,60000,16000,0,0,0,0,0
+d0641,2021,Apple,Cupertino, CA,Data Scientist,2,General,225000,8,8,136000,81000,8000,0,1,0,0,0
+d0642,2020,Boeing,Seattle, WA,Data Scientist,2,Analytics,142000,4,4,136000,0,6000,1,0,0,0,0
+d0643,2020,Capital One,Washington, DC,Data Scientist,2,ML / AI,141000,3,2,136000,0,5000,0,0,1,0,0
+d0644,2020,Capital One,Washington, DC,Data Scientist,2,Data,136000,3,2,136000,0,5000,0,0,0,0,0
+d0645,2020,Huawei,Paris, IL,Data Scientist,2,Networking,171000,20,1,136000,5000,30000,0,0,1,0,0
+d0646,2020,Microsoft,Bellevue, WA,Data Scientist,2,ML / AI,194000,3,3,136000,40000,18000,1,0,0,0,0
+d0647,2018,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,180000,2,2,136000,24000,20000,0,0,0,0,0
+d0648,2021,SquareSpace,New York, NY,Data Scientist,2,Product,155000,2,2,136000,23000,0,0,1,0,0,0
+d0649,2019,Twitter,Boulder, CO,Data Scientist,2,ML / AI,211000,3,2,136000,55000,20000,0,0,0,0,0
+d0650,2019,Amazon,Palo Alto, CA,Data Scientist,2,ML / AI,209000,3,2,137000,57000,15000,0,0,0,0,0
+d0651,2021,Bank of America,Charlotte, NC,Data Scientist,2,General,147000,5,3,137000,0,10000,0,0,1,0,0
+d0652,2019,Google,Sunnyvale, CA,Data Scientist,2,User Experience,207000,0,0,137000,50000,20000,0,0,0,0,0
+d0653,2020,Google,Sunnyvale, CA,Data Scientist,2,Trust safety,208000,7,5,137000,50000,21000,0,1,0,0,0
+d0654,2019,Google,Mountain View, CA,Data Scientist,2,ML / AI,207000,10,1,137000,43000,27000,0,0,0,0,0
+d0655,2019,Google,Mountain View, CA,Data Scientist,2,ML / AI,195000,0,0,137000,21000,35000,0,0,0,0,0
+d0656,2019,Google,Sunnyvale, CA,Data Scientist,2,ML / AI,189000,0,0,137000,30000,22000,0,0,0,0,0
+d0657,2020,IBM,Atlanta, GA,Data Scientist,2,ML / AI,140000,3,3,137000,0,3000,0,0,0,0,0
+d0658,2020,Liberty Mutual,Boston, MA,Data Scientist,2,ML / AI,150000,4,4,137000,0,13000,0,0,0,0,0
+d0659,2018,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,220000,2,2,137000,67000,15000,0,0,0,0,0
+d0660,2020,Microsoft,Bellevue, WA,Data Scientist,2,Data,201000,0,0,137000,38000,27000,0,0,0,0,0
+d0661,2020,Nordstrom,Seattle, WA,Data Scientist,2,Supply Chain,170000,6,2,137000,0,33000,1,0,0,0,0
+d0662,2021,Salesforce,Bellevue, WA,Data Scientist,2,General,178000,5,5,137000,20000,21000,0,0,0,0,0
+d0663,2021,Squarespace,New York, NY,Data Scientist,2,Marketing,143000,6,2,137000,8000,0,0,1,0,0,0
+d0664,2018,Twitter,San Francisco, CA,Data Scientist,2,ML / AI,187000,0,0.5,137000,43000,7000,0,0,0,0,0
+d0665,2021,Walmart,Bentonville, AR,Data Scientist,2,ML,240000,11,2,137000,75000,28000,1,0,0,0,0
+d0666,2021,Walmart Labs,Sunnyvale, CA,Data Scientist,2,ML,185000,9,3,137000,25000,22000,0,0,0,0,0
+d0667,2020,Wells Fargo,Charlotte, NC,Data Scientist,2,ML / AI,180000,5,4,137000,3000,40000,0,0,1,0,0
+d0668,2020,Zillow,Seattle, WA,Data Scientist,2,ML / AI,177000,2,2,137000,40000,0,1,0,0,0,0
+d0669,2020,Capital One,New York, NY,Data Scientist,2,Modeler,150000,4,3,138000,0,12000,1,0,0,0,0
+d0670,2020,Credit Karma,San Francisco, CA,Data Scientist,2,Data,183000,2,2,138000,45000,0,0,0,0,0,0
+d0671,2021,Facebook,Seattle, WA,Data Scientist,2,L5,215000,8,6,138000,77000,0,0,1,0,0,0
+d0672,2019,LinkedIn,Sunnyvale, CA,Data Scientist,2,Data,200000,3,1.5,138000,45000,17000,0,0,0,0,0
+d0673,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,152000,8,4,138000,10000,4000,0,0,0,0,0
+d0674,2021,Microsoft,Redmond, UT,Data Scientist,2,ML,210000,2,2,138000,38000,34000,0,0,0,0,0
+d0675,2020,Microsoft,Redmond, WA,Data Scientist,2,Customer analytics,227000,3,0,138000,35000,54000,0,1,0,0,0
+d0676,2021,Uber,San Francisco, CA,Data Scientist,2,Marketing,182000,2,0,138000,31000,14000,1,0,0,0,0
+d0677,2021,Uber,San Francisco, CA,Data Scientist,2,Driver Experience,192000,0,0,138000,41000,14000,1,0,0,0,0
+d0678,2020,Facebook,Menlo Park, CA,Data Scientist,2,ML / AI,208000,3,2,139000,55000,14000,0,0,0,0,0
+d0679,2021,Intel,Portland, OR,Data Scientist,2,RET Design,183000,0,0,139000,17000,28000,0,0,1,0,0
+d0680,2021,Intel,Portland, OR,Data Scientist,2,General,184000,4,4,139000,28000,17000,0,0,1,0,0
+d0681,2020,JP Morgan Chase,New York, NY,Data Scientist,2,ML / AI,169000,5,4,139000,0,30000,0,1,0,0,0
+d0682,2019,Microsoft,Redmond, WA,Data Scientist,2,Data Science,165000,4,4,139000,12000,14000,0,0,0,0,0
+d0683,2021,Vanguard,Philadelphia, PA,Data Scientist,2,NLP,167000,4,0,139000,0,28000,0,0,0,0,0
+d0684,2021,Walmart Labs,San Bruno, CA,Data Scientist,2,forecasting,180000,2,2,139000,25000,16000,0,0,0,0,0
+d0685,2020,Walmart Labs,Sunnyvale, CA,Data Scientist,2,Data,188000,2,2,139000,25000,24000,1,0,0,0,0
+d0686,2021,Wells Fargo,Charlotte, NC,Data Scientist,2,ML/AI,179000,2,2,139000,10000,30000,0,0,1,0,0
+d0687,2019,Accenture,Arlington, VA,Data Scientist,2,ML / AI,165000,8,0,140000,5000,20000,1,0,1,0,0
+d0688,2021,Aetna,New York, NY,Data Scientist,2,Data science,150000,3,2,140000,0,10000,1,0,0,0,0
+d0689,2021,Amazon,Seattle, WA,Data Scientist,2,Statistics,198000,2,1,140000,35000,25000,0,0,0,0,0
+d0690,2021,Amazon,Seattle, WA,Data Scientist,2,Renewables,165000,3,0,140000,25000,0,0,0,1,0,0
+d0691,2021,Amazon,Seattle, WA,Data Scientist,2,Operations Research Scientist,193000,6,4,140000,36000,18000,0,0,1,0,0
+d0692,2020,Amazon,Sunnyvale, CA,Data Scientist,2,ML / AI,185000,4,0,140000,40000,5000,1,0,0,0,0
+d0693,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,165000,1,0,140000,10000,15000,0,0,1,0,0
+d0694,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,240000,4,4,140000,100000,0,0,0,0,0,0
+d0695,2021,Amazon,Seattle, WA,Data Scientist,2,HR,250000,2,2,140000,110000,0,0,0,1,0,0
+d0696,2021,Amazon,Seattle, WA,Data Scientist,2,General,214000,5,2,140000,43000,31000,1,0,0,0,0
+d0697,2021,Amazon,Seattle, WA,Data Scientist,2,General,185000,3,1,140000,45000,0,0,0,0,0,0
+d0698,2021,Amazon,Seattle, WA,Data Scientist,2,AI/ML,203000,0,0,140000,8000,55000,1,0,0,0,0
+d0699,2019,American Express,New York, NY,Data Scientist,2,ML / AI,147000,3,1,140000,0,7000,0,0,0,0,0
+d0700,2019,American express,New York, NY,Data Scientist,2,ML / AI,155000,3,1,140000,0,15000,0,0,0,0,0
+d0701,2019,American Express,New York, NY,Data Scientist,2,machine learning,155000,3,1,140000,0,14000,0,0,0,0,0
+d0702,2020,Apple,San Jose, CA,Data Scientist,2,AOS,175000,10,5,140000,15000,19000,1,0,0,0,0
+d0703,2021,Bank of America,New York, NY,Data Scientist,2,General,175000,5,3,140000,5000,30000,1,0,0,0,0
+d0704,2019,Blink Health,New York, NY,Data Scientist,2,ML / AI,160000,2,1,140000,20000,0,1,0,0,0,0
+d0705,2020,c3.ai,Redwood City, CA,Data Scientist,2,ML / AI,161000,1,0,140000,0,21000,1,0,0,0,0
+d0706,2021,C3.ai,Redwood City, CA,Data Scientist,2,DS / ML / AI,186000,0,0,140000,25000,21000,1,0,0,0,0
+d0707,2019,Cisco,Ann Arbor, MI,Data Scientist,2,ML / AI,164000,3,3,140000,7000,17000,0,0,0,0,0
+d0708,2020,Deloitte,New York, NY,Data Scientist,2,ML / AI,157000,3,0,140000,0,17000,1,0,0,0,0
+d0709,2019,eBay,San Jose, CA,Data Scientist,2,ML / AI,176000,2,2,140000,20000,14000,0,0,0,0,0
+d0710,2019,Facebook,Menlo Park, CA,Data Scientist,2,Analytics,190000,3,0,140000,35000,15000,0,0,0,0,0
+d0711,2019,Facebook,Menlo Park, CA,Data Scientist,2,Analytics,189000,0,0,140000,35000,14000,0,0,0,0,0
+d0712,2019,General Motors,Warren, MI,Data Scientist,2,ML / AI,158000,5,1.5,140000,0,18000,0,0,0,0,0
+d0713,2020,Google,San Francisco, CA,Data Scientist,2,Security,220000,6,3,140000,55000,25000,0,0,0,0,0
+d0714,2019,Google,Redwood City, CA,Data Scientist,2,ML / AI,220000,1,0,140000,59000,21000,0,0,0,0,0
+d0715,2020,Google,San Francisco, CA,Data Scientist,2,Analytics,220000,4,0,140000,60000,21000,0,0,0,0,0
+d0716,2021,Grammarly,San Francisco, CA,Data Scientist,2,General,195000,0,0,140000,55000,0,0,0,1,0,0
+d0717,2021,Grammarly,San Francisco, CA,Data Scientist,2,"EXPERIMENTATION, PRODUCT ANALYTICS",195000,3,0,140000,55000,0,0,0,1,0,0
+d0718,2021,Grubhub,New York, NY,Data Scientist,2,Data Engineering,172000,4,0,140000,32000,0,1,0,0,0,0
+d0719,2020,IBM,Armonk, NY,Data Scientist,2,ML / AI,144000,2,1,140000,2000,3000,1,0,0,0,0
+d0720,2020,IBM,San Jose, CA,Data Scientist,2,Full Stack,140000,5,2,140000,0,3000,1,0,0,0,0
+d0721,2021,IBM,Armonk, NY,Data Scientist,2,Finance and Operations,140000,2,2,140000,0,0,0,0,0,0,0
+d0722,2021,IBM,New City, NY,Data Scientist,2,Data,145000,6,5,140000,0,5000,0,1,0,0,0
+d0723,2020,JP Morgan Chase,New York, NY,Data Scientist,2,ML / AI,190000,4,1,140000,0,50000,0,0,1,0,0
+d0724,2021,JP Morgan Chase,Wilmington, DE,Data Scientist,2,ML / AI,170000,5,5,140000,0,30000,0,0,1,0,0
+d0725,2020,LinkedIn,Sunnyvale, CA,Data Scientist,2,Data,199000,3,3,140000,45000,14000,0,0,0,0,0
+d0726,2020,LinkedIn,Sunnyvale, CA,Data Scientist,2,Data,190000,2,2,140000,35000,14000,0,0,0,0,0
+d0727,2019,Microsoft,Seattle, WA,Data Scientist,2,Mobile (iOS + Android),170000,10,7,140000,14000,14000,0,0,0,0,0
+d0728,2020,Microsoft,Bellevue, WA,Data Scientist,2,ML / AI,229000,0,0,140000,50000,39000,0,0,1,0,0
+d0729,2019,Microsoft,Seattle, WA,Data Scientist,2,ML / AI,250000,3,1,140000,100000,14000,0,0,0,0,0
+d0730,2019,Microsoft,Seattle, WA,Data Scientist,2,ML / AI,230000,2,1,140000,80000,10000,0,0,0,0,0
+d0731,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,190000,2,2,140000,40000,10000,0,0,1,0,0
+d0732,2021,Microsoft,Redmond, WA,Data Scientist,2,AI / ML,202000,0,0,140000,40000,22000,0,0,1,0,0
+d0733,2021,Nvidia,Santa Clara, CA,Data Scientist,2,General,168000,2,2,140000,30000,0,1,0,0,0,0
+d0734,2021,Oracle,Redwood City, CA,Data Scientist,2,NLP,205000,1,0,140000,50000,15000,0,1,0,0,0
+d0735,2018,PayPal,San Jose, CA,Data Scientist,2,ML / AI,182000,5,2,140000,28000,14000,0,0,0,0,0
+d0736,2020,PayPal,San Jose, CA,Data Scientist,2,ML / AI,181000,6,1,140000,27000,14000,0,0,0,0,0
+d0737,2020,PayPal,San Jose, CA,Data Scientist,2,Data,182000,3,1,140000,22000,20000,0,0,0,0,0
+d0738,2021,Poshmark,Redwood City, CA,Data Scientist,2,"SQL, Python",170000,4,2,140000,30000,0,1,0,0,0,0
+d0739,2021,Red Hat,Raleigh, NC,Data Scientist,2,AI/ML,171000,5,5,140000,10000,21000,1,0,0,0,0
+d0740,2021,roche,San Francisco, CA,Data Scientist,2,machine learning,200000,5,1,140000,20000,40000,0,0,0,0,0
+d0741,2020,SoFi,San Francisco, CA,Data Scientist,2,ML / AI,164000,1,1,140000,10000,14000,1,0,0,0,0
+d0742,2020,Tesla,Palo Alto, CA,Data Scientist,2,ML / AI,205000,3,0,140000,50000,15000,0,0,1,0,0
+d0743,2020,Tesla,Fremont, CA,Data Scientist,2,Data,175000,0,0,140000,35000,0,1,0,0,0,0
+d0744,2020,The Home Depot,Atlanta, GA,Data Scientist,2,ML / AI,160000,4,1,140000,10000,10000,0,0,1,0,0
+d0745,2021,Twitch,San Francisco, CA,Data Scientist,2,Operations,200000,7,3,140000,60000,0,0,1,0,0,0
+d0746,2020,Uber,San Francisco, CA,Data Scientist,2,Security,235000,5,3,140000,80000,15000,1,0,0,0,0
+d0747,2020,Uber,San Francisco, CA,Data Scientist,2,ML / AI,210000,0,0,140000,50000,20000,0,0,1,0,0
+d0748,2018,Uber,San Francisco, CA,Data Scientist,2,data,240000,2,0,140000,60000,40000,0,0,0,0,0
+d0749,2020,Uber,San Francisco, CA,Data Scientist,2,Data,210000,1,1,140000,50000,20000,0,0,0,0,0
+d0750,2020,Walmart Labs,Sunnyvale, CA,Data Scientist,2,ML / AI,175000,1,1,140000,20000,15000,1,0,0,0,0
+d0751,2021,Western Digital,Milpitas, CA,Data Scientist,2,Data analysis,174000,5,3,140000,20000,14000,0,0,0,0,0
+d0752,2020,Yahoo,Sunnyvale, CA,Data Scientist,2,Data scientist,180000,4,0,140000,30000,10000,1,0,0,0,0
+d0753,2020,Zillow,Seattle, WA,Data Scientist,2,Data,185000,4,2,140000,45000,0,0,0,0,0,0
+d0754,2020,Zillow,Seattle, WA,Data Scientist,2,Analytics,185000,3,1,140000,40000,5000,1,0,0,0,0
+d0755,2021,Ernst and Young,San Francisco, CA,Data Scientist,2,Data,146000,3,2,141000,0,5000,0,1,0,0,0
+d0756,2019,IBM,Washington, DC,Data Scientist,2,ML / AI,155000,5,2,141000,0,14000,0,0,0,0,0
+d0757,2019,IBM,Washington, DC,Data Scientist,2,ML / AI,155000,5,2,141000,0,14000,0,0,0,0,0
+d0758,2021,Intel,Hillsboro, OR,Data Scientist,2,Manufacturing,188000,5,5,141000,26000,21000,0,0,1,0,0
+d0759,2021,Microsoft,Seattle, WA,Data Scientist,2,product,181000,3,3,141000,25000,15000,1,0,0,0,0
+d0760,2019,Microsoft,Seattle, WA,Data Scientist,2,ML / AI,232000,0,0,141000,61000,30000,0,0,0,0,0
+d0761,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,205000,0,0,141000,50000,14000,0,0,1,0,0
+d0762,2021,Microsoft,Redmond, WA,Data Scientist,2,Machine Learning and AI,206000,0,0,141000,35000,30000,0,0,1,0,0
+d0763,2021,microsoft,Seattle, WA,Data Scientist,2,Data,176000,7,2,141000,20000,15000,0,1,0,0,0
+d0764,2019,Uber,San Francisco, CA,Data Scientist,2,ML / AI,255000,1,1,141000,99000,15000,0,0,0,0,0
+d0765,2021,Allstate,Chicago, IL,Data Scientist,2,Operations Research,157000,6,2,142000,0,15000,0,0,0,0,0
+d0766,2021,Allstate,Chicago, IL,Data Scientist,2,ML / AI,152000,6,1,142000,0,10000,0,0,1,0,0
+d0767,2021,Capital One,Arlington, VA,Data Scientist,2,Analytics,157000,5,2,142000,0,15000,0,0,0,0,0
+d0768,2020,Google,Sunnyvale, CA,Data Scientist,2,UX,213000,0,0,142000,50000,21000,1,0,1,0,0
+d0769,2020,Google,San Francisco, CA,Data Scientist,2,Cloud,282000,9,1,142000,112000,25000,1,0,0,0,0
+d0770,2019,Microsoft,Bellevue, WA,Data Scientist,2,Statistics,226000,0,0,142000,45000,39000,0,0,0,0,0
+d0771,2020,Microsoft,Seattle, WA,Data Scientist,2,ML / AI,170000,5,1,142000,12000,14000,1,0,0,0,0
+d0772,2021,Microsoft,Redmond, WA,Data Scientist,2,data analysis,194000,3,3,142000,40000,12000,0,0,1,0,0
+d0773,2020,Walmart Labs,Sunnyvale, CA,Data Scientist,2,ML / AI,195000,7,1,142000,25000,28000,1,0,0,0,0
+d0774,2020,Walmart Labs,Sunnyvale, CA,Data Scientist,2,Data,210000,3,1,142000,40000,28000,1,0,0,0,0
+d0775,2021,Capital One,Vienna, VA,Data Scientist,2,Modeling,151000,5,3,143000,0,8000,0,0,1,0,0
+d0776,2020,ExxonMobil,Houston, TX,Data Scientist,2,Data,167000,3,1,143000,0,25000,0,0,1,0,0
+d0777,2020,Google,San Francisco, CA,Data Scientist,2,Data,195000,1,1,143000,30000,22000,0,0,1,0,0
+d0778,2021,Grubhub,New York, NY,Data Scientist,2,General,168000,4,4,143000,25000,0,0,0,0,0,0
+d0779,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,240000,0,0,143000,60000,37000,0,0,0,0,0
+d0780,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,171000,3,3,143000,9000,19000,0,0,0,0,0
+d0781,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,203000,3,2,143000,45000,15000,0,0,1,0,0
+d0782,2020,Microsoft,Seattle, WA,Data Scientist,2,ML / AI,187000,2,2,143000,30000,14000,0,0,1,0,0
+d0783,2020,Microsoft,Redmond, WA,Data Scientist,2,Data,182000,7,7,143000,18000,22000,0,1,0,0,0
+d0784,2020,Microsoft,Redmond, WA,Data Scientist,2,Data,168000,5,5,143000,11000,14000,1,0,0,0,0
+d0785,2021,Microsoft,Seattle, WA,Data Scientist,2,"Customer Analytics, Data Engineering, Product Management",163000,5,5,143000,10000,10000,0,1,0,0,0
+d0786,2021,Microsoft,Seattle, WA,Data Scientist,2,"Customer Analytics, Data Engineering, Product Management",165000,5,5,143000,8000,14000,0,1,0,0,0
+d0787,2020,Nextdoor,San Francisco, CA,Data Scientist,2,ML / AI,203000,1,1,143000,60000,0,1,0,0,0,0
+d0788,2020,Amazon,Palo Alto, CA,Data Scientist,2,ML / AI,191000,4,3,144000,47000,0,1,0,0,0,0
+d0789,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,300000,7,7,144000,156000,0,1,0,0,0,0
+d0790,2021,Amazon,Seattle, WA,Data Scientist,2,General,214000,4,4,144000,60000,10000,0,1,0,0,0
+d0791,2019,Amazon,Seattle, WA,Data Scientist,2,Distributed Systems (Back-End),230000,25,3,144000,86000,0,0,0,0,0,0
+d0792,2020,Apple,Cupertino, CA,Data Scientist,2,Big Data,144000,2,0,144000,0,0,1,0,0,0,0
+d0793,2020,Asana,San Francisco, CA,Data Scientist,2,API Development (Back-End),192000,0,0,144000,48000,0,0,1,0,0,0
+d0794,2020,Facebook,Seattle, WA,Data Scientist,2,Data,198000,4,1,144000,40000,14000,0,0,0,0,0
+d0795,2019,Google,Mountain View, CA,Data Scientist,2,Data science,225000,4,4,144000,58000,23000,0,0,0,0,0
+d0796,2020,Twitter,San Francisco, CA,Data Scientist,2,Analytics,197000,5,2.5,144000,35000,20000,0,0,0,0,0
+d0797,2020,Walmart,San Bruno, CA,Data Scientist,2,ML / AI,189000,3,2,144000,20000,25000,1,0,0,0,0
+d0798,2020,Adobe,Emeryville, CA,Data Scientist,2,ML / AI,250000,4,3,145000,90000,15000,1,0,0,0,0
+d0799,2021,Affirm,San Francisco, CA,Data Scientist,2,product analytics,158000,7,2,145000,13000,0,0,0,0,0,0
+d0800,2020,Airbnb,San Francisco, CA,Data Scientist,2,Analytics,210000,2,0,145000,45000,20000,1,0,0,0,0
+d0801,2020,Amazon,New York, NY,Data Scientist,2,SCOT,191000,3,3,145000,46000,0,1,0,0,0,0
+d0802,2019,Amazon,Palo Alto, CA,Data Scientist,2,ML / AI,181000,4,1,145000,6000,30000,0,0,0,0,0
+d0803,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,210000,2,0,145000,36000,26000,0,0,1,0,0
+d0804,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,250000,8,4,145000,105000,0,1,0,0,0,0
+d0805,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,270000,5,4,145000,125000,0,1,0,0,0,0
+d0806,2021,Amazon,Atlanta, GA,Data Scientist,2,ML,225000,7,2,145000,50000,30000,1,0,0,0,0
+d0807,2021,Amazon,Seattle, WA,Data Scientist,2,ML,363000,5,0,145000,118000,99000,1,0,0,0,0
+d0808,2021,Amazon,Seattle, WA,Data Scientist,2,ML,270000,5,4,145000,125000,0,1,0,0,0,0
+d0809,2020,Amazon,Los Angeles, CA,Data Scientist,2,Data,220000,2,2,145000,75000,0,0,0,1,0,0
+d0810,2020,Amazon,Seattle, WA,Data Scientist,2,Data,240000,6,4,145000,95000,0,1,0,0,0,0
+d0811,2020,Apple,Cupertino, CA,Data Scientist,2,Research,240000,4,4,145000,75000,20000,0,0,0,0,0
+d0812,2020,Apple,Sunnyvale, CA,Data Scientist,2,ML / AI,197000,2,0,145000,38000,15000,1,0,0,0,0
+d0813,2020,Apple,Sunnyvale, CA,Data Scientist,2,Insights,220000,7,1,145000,60000,15000,0,0,1,0,0
+d0814,2021,Apple,San Francisco, CA,Data Scientist,2,Fraud,152000,9,3,145000,5000,0,1,0,0,0,0
+d0815,2020,BuzzFeed,New York, NY,Data Scientist,2,ML / AI,161000,4,2,145000,5000,11000,0,1,0,0,0
+d0816,2021,Chime,San Francisco, CA,Data Scientist,2,General,222000,4,0,145000,63000,15000,0,1,0,0,0
+d0817,2021,Cisco,San Jose, CA,Data Scientist,2,ML/DS,177000,11,4,145000,14000,18000,1,0,0,0,0
+d0818,2021,Facebook,New York, NY,Data Scientist,2,People analytics,200000,6,2,145000,40000,15000,0,0,0,0,0
+d0819,2019,Facebook,San Francisco, CA,Data Scientist,2,Data Science,220000,6,1.5,145000,50000,15000,0,0,0,0,0
+d0820,2019,Facebook,Menlo Park, CA,Data Scientist,2,Data Science,195000,9,1,145000,35000,15000,0,0,0,0,0
+d0821,2019,Facebook,Menlo Park, CA,Data Scientist,2,Analytics,190000,2,1,145000,16000,29000,0,0,0,0,0
+d0822,2021,Fidelity Investments,Boston, MA,Data Scientist,2,general,181000,5,1,145000,0,36000,0,0,0,0,0
+d0823,2021,Fidelity Investments,Boston, MA,Data Scientist,2,data scient,176000,2,0,145000,0,31000,0,0,1,0,0
+d0824,2021,Goldman Sachs,New York, NY,Data Scientist,2,Credit,195000,6,2,145000,0,50000,1,0,0,0,0
+d0825,2021,IBM,Raleigh, NC,Data Scientist,2,survey analysis,145000,6,3,145000,0,0,0,0,1,0,0
+d0826,2020,IBM,Armonk, NY,Data Scientist,2,ML / AI,145000,5,0,145000,0,0,1,0,0,0,0
+d0827,2020,JP Morgan Chase,Jersey City, NJ,Data Scientist,2,Data,160000,20,5,145000,0,15000,0,0,0,0,0
+d0828,2021,Liberty Mutual,Seattle, WA,Data Scientist,2,ML / AI,163000,5,1,145000,0,18000,0,0,0,0,0
+d0829,2021,LinkedIn,Sunnyvale, CA,Data Scientist,2,General,201000,3,0,145000,41000,15000,1,0,0,0,0
+d0830,2018,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,180000,9,3,145000,15000,22000,0,0,0,0,0
+d0831,2018,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,180000,9,3,145000,15000,22000,0,0,0,0,0
+d0832,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,185000,10,2,145000,20000,20000,0,0,0,0,0
+d0833,2020,Microsoft,Seattle, WA,Data Scientist,2,ML / AI,215000,2,0,145000,19000,51000,1,0,0,0,0
+d0834,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,194000,2,0,145000,23000,26000,1,0,0,0,0
+d0835,2019,Microsoft,Redmond, WA,Data Scientist,2,DevOps,175000,5,2,145000,15000,15000,0,0,0,0,0
+d0836,2019,Oracle,Reston, VA,Data Scientist,2,ML / AI,152000,4,1,145000,15000,0,0,0,0,0,0
+d0837,2021,Pinterest,San Francisco, CA,Data Scientist,2,Analytics,190000,2,2,145000,45000,0,0,0,0,0,0
+d0838,2020,Spotify,New York, NY,Data Scientist,2,Data science,173000,5,1,145000,28000,0,0,0,0,0,0
+d0839,2021,Squarespace,New York, NY,Data Scientist,2,Analytics,165000,5,1,145000,20000,0,0,0,0,0,0
+d0840,2021,Starbucks,Seattle, WA,Data Scientist,2,General,172000,3,3,145000,12000,15000,0,0,1,0,0
+d0841,2019,T-Mobile,Bellevue, WA,Data Scientist,2,ML / AI,190000,4,1,145000,15000,30000,0,0,0,0,0
+d0842,2020,Twitter,San Francisco, CA,Data Scientist,2,ML / AI,192000,2,2,145000,25000,22000,0,0,0,0,0
+d0843,2021,Visa,Foster City, CA,Data Scientist,2,Data Scientist,173000,1,1,145000,8000,20000,0,0,1,0,0
+d0844,2021,Walmart,San Bruno, CA,Data Scientist,2,General,188000,5,1,145000,20000,23000,0,0,0,0,0
+d0845,2021,Walmart,Dallas, TX,Data Scientist,2,General,209000,6,6,145000,35000,29000,0,0,0,0,0
+d0846,2019,Walmart Labs,Sunnyvale, CA,Data Scientist,2,ML / AI,188000,0,0,145000,20000,23000,0,0,0,0,0
+d0847,2021,Walmart Labs,Seattle, WA,Data Scientist,2,ML,193000,2,0,145000,25000,23000,1,0,0,0,0
+d0848,2020,Wayfair,Boston, MA,Data Scientist,2,ML / AI,207000,4,1,145000,48000,14000,1,0,0,0,0
+d0849,2018,Airbnb,San Francisco, CA,Data Scientist,2,ML / AI,233000,3,0,146000,50000,22000,0,0,0,0,0
+d0850,2020,eBay,San Jose, CA,Data Scientist,2,ML / AI,181000,1,1,146000,20000,15000,1,0,0,0,0
+d0851,2019,Intel,Phoenix, AZ,Data Scientist,2,ML / AI,193000,6,6,146000,17000,30000,0,0,0,0,0
+d0852,2019,Microsoft,Sunnyvale, CA,Data Scientist,2,ML / AI,171000,7,6,146000,14000,11000,0,0,0,0,0
+d0853,2021,Nike,Beaverton, OR,Data Scientist,2,Computer Vision,146000,3,2,146000,0,0,1,0,0,0,0
+d0854,2021,Uber,Seattle, WA,Data Scientist,2,General,187000,5,0,146000,26000,15000,0,0,0,0,0
+d0855,2019,Amazon,Seattle, WA,Data Scientist,2,ML / AI,204000,3,2.5,147000,57000,0,0,0,0,0,0
+d0856,2019,Amazon,Pittsburgh, PA,Data Scientist,2,ML / AI,197000,5,1,147000,5000,42000,0,0,0,0,0
+d0857,2021,Amazon,Boston, MA,Data Scientist,2,AWS,200000,3,1,147000,43000,10000,1,0,0,0,0
+d0858,2020,Asana,San Francisco, CA,Data Scientist,2,ML / AI,170000,4,0,147000,23000,0,0,0,0,0,0
+d0859,2020,AT&T,Atlanta, GA,Data Scientist,2,ML / AI,166000,10,6,147000,0,19000,0,0,1,0,0
+d0860,2020,Facebook,Menlo Park, CA,Data Scientist,2,Data,217000,5,1,147000,55000,15000,0,0,0,0,0
+d0861,2021,GE Digital,San Ramon, CA,Data Scientist,2,ML / AI,162000,5,3,147000,15000,5000,0,0,0,0,0
+d0862,2021,Google,Mountain View, CA,Data Scientist,2,General,266000,0,0,147000,97000,22000,0,0,1,0,0
+d0863,2021,Google,Mountain View, CA,Data Scientist,2,Ads,199000,0,0,147000,30000,22000,0,0,1,0,0
+d0864,2019,Instacart,San Francisco, CA,Data Scientist,2,DS,242000,6,1,147000,95000,0,0,0,0,0,0
+d0865,2019,Microsoft,Seattle, WA,Data Scientist,2,ML / AI,170000,6,2,147000,8000,15000,1,0,0,0,0
+d0866,2021,Verily Life Sciences,South San Francisco, CA,Data Scientist,2,ML/AI,210000,0,0,147000,41000,22000,0,0,1,0,0
+d0867,2021,Amazon,Seattle, WA,Data Scientist,2,AWS,230000,5,1,148000,58000,25000,1,0,0,0,0
+d0868,2020,Apple,San Francisco, CA,Data Scientist,2,iOS,198000,2,1,148000,41000,10000,1,0,0,0,0
+d0869,2020,Facebook,Menlo Park, CA,Data Scientist,2,Data,220000,5,2,148000,50000,20000,0,0,0,0,0
+d0870,2021,Microsoft,Redmond, WA,Data Scientist,2,General,182000,7,7,148000,17000,17000,0,0,1,0,0
+d0871,2020,Nvidia,Santa Clara, CA,Data Scientist,2,ML / AI,200000,2,2,148000,52000,0,0,0,0,0,0
+d0872,2019,Uber,New York, NY,Data Scientist,2,ML / AI,268000,2,2,148000,100000,20000,0,0,0,0,0
+d0873,2021,Facebook,Seattle, WA,Data Scientist,2,General,250000,2,2,149000,72000,30000,1,0,0,0,0
+d0874,2020,Ibm,Raleigh, NC,Data Scientist,2,ML / AI,151000,13,7,149000,1000,1000,1,0,0,0,0
+d0875,2021,IBM,Colorado Springs, CO,Data Scientist,2,General,149000,20,19,149000,0,4000,0,0,0,0,0
+d0876,2021,Wells Fargo,Charlotte, NC,Data Scientist,2,ML,191000,2,2,149000,0,45000,0,0,1,0,0
+d0877,2020,Accenture,San Francisco, CA,Data Scientist,2,ML / AI,150000,4,1,150000,0,0,1,0,0,0,0
+d0878,2020,Adobe,San Francisco, CA,Data Scientist,2,ML / AI,262000,2,2,150000,90000,22000,1,0,0,0,0
+d0879,2021,Adobe,San Jose, CA,Data Scientist,2,Data Science,272000,8,3,150000,100000,23000,0,0,0,0,0
+d0880,2021,Adobe,San Jose, CA,Data Scientist,2,Data Science,250000,5,4,150000,100000,0,1,0,0,0,0
+d0881,2021,Amazon,Seattle, WA,Data Scientist,2,NLP,179000,2,1,150000,0,29000,1,0,0,0,0
+d0882,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,167000,2,0,150000,12000,7000,1,0,0,0,0
+d0883,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,167000,2,0,150000,10000,7000,1,0,0,0,0
+d0884,2020,Amazon,Palo Alto, CA,Data Scientist,2,ML / AI,210000,4,1,150000,30000,30000,1,0,0,0,0
+d0885,2018,Amazon,Seattle, WA,Data Scientist,2,ML / AI,200000,3,0,150000,105000,81000,0,0,0,0,0
+d0886,2019,Amazon,Pittsburgh, PA,Data Scientist,2,ML / AI,210000,3,0,150000,5000,55000,0,0,0,0,0
+d0887,2020,Amazon,Boston, MA,Data Scientist,2,ML / AI,210000,3,0.5,150000,60000,0,0,0,1,0,0
+d0888,2020,Amazon,Charlotte, NC,Data Scientist,2,ML / AI,222000,2,0,150000,10000,62000,0,0,1,0,0
+d0889,2020,Amazon,New York, NY,Data Scientist,2,ML / AI,220000,3,1,150000,50000,20000,1,0,0,0,0
+d0890,2020,Amazon,San Diego, CA,Data Scientist,2,ML / AI,250000,5,1,150000,30000,70000,0,0,0,0,0
+d0891,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,280000,7,7,150000,130000,0,0,0,0,0,0
+d0892,2018,Amazon,Seattle, WA,Data Scientist,2,ML / AI,230000,5,3,150000,80000,0,0,0,0,0,0
+d0893,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,250000,6,3,150000,90000,10000,1,0,0,0,0
+d0894,2019,Amazon,San Francisco, CA,Data Scientist,2,ML / AI,300000,2,2,150000,120000,30000,0,0,0,0,0
+d0895,2021,Amazon,Seattle, WA,Data Scientist,2,Machine Learning,190000,5,2,150000,40000,0,0,0,0,0,0
+d0896,2021,Amazon,Arlington, VA,Data Scientist,2,Data Engineer,205000,12,0,150000,35000,20000,0,1,0,0,0
+d0897,2020,Amazon,Seattle, WA,Data Scientist,2,data,215000,12,0,150000,50000,15000,0,0,0,0,0
+d0898,2020,Amazon,Seattle, WA,Data Scientist,2,Data,213000,10,10,150000,50000,13000,0,1,0,0,0
+d0899,2020,Amazon,Seattle, WA,Data Scientist,2,Data,215000,10,10,150000,45000,20000,0,1,0,0,0
+d0900,2021,Amazon,Seattle, WA,Data Scientist,2,AWS,192000,7,1,150000,23000,20000,0,0,0,0,0
+d0901,2019,Amazon,Seattle, WA,Data Scientist,2,Analytics,192000,10,1,150000,25000,17000,0,0,0,0,0
+d0902,2021,Amazon,Cambridge, MA,Data Scientist,2,AI/NLP,237000,2,1,150000,62000,25000,0,0,1,0,0
+d0903,2019,Amazon,Seattle, WA,Data Scientist,2,ML / AI,300000,4,1,150000,50000,100000,0,0,0,0,0
+d0904,2020,Apple,Cupertino, CA,Data Scientist,2,ML / AI,208000,0,0,150000,35000,23000,0,0,1,0,0
+d0905,2020,Apple,Cupertino, CA,Data Scientist,2,ML / AI,220000,1,1,150000,50000,20000,1,0,0,0,0
+d0906,2021,Apple,Cupertino, CA,Data Scientist,2,ML / AI,185000,2,2,150000,25000,10000,1,0,0,0,0
+d0907,2020,Apple,Cupertino, CA,Data Scientist,2,Data,185000,5,0,150000,25000,10000,0,0,0,0,0
+d0908,2021,Apple,Cupertino, CA,Data Scientist,2,Data,265000,6,3,150000,100000,15000,1,0,0,0,0
+d0909,2019,AT&T,New York, NY,Data Scientist,2,ML / AI,165000,3,2,150000,0,15000,0,0,0,0,0
+d0910,2020,BuzzFeed,New York, NY,Data Scientist,2,Data,150000,5,4,150000,0,0,1,0,0,0,0
+d0911,2021,Chime,San Francisco, CA,Data Scientist,2,Risk,295000,2,0,150000,130000,15000,1,0,0,0,0
+d0912,2019,Citi,New York, NY,Data Scientist,2,ML / AI,190000,10,5,150000,0,40000,0,0,0,0,0
+d0913,2020,Convoy,Seattle, WA,Data Scientist,2,Distributed Systems (Back-End),190000,15,0,150000,30000,10000,1,0,0,0,0
+d0914,2020,Convoy,Seattle, WA,Data Scientist,2,Data,169000,7,1,150000,19000,0,1,0,0,0,0
+d0915,2021,Dell Technologies,Austin, TX,Data Scientist,2,ML,200000,6,2,150000,10000,40000,0,0,0,0,0
+d0916,2020,Expedia,Seattle, WA,Data Scientist,2,ML / AI,220000,4,4,150000,44000,26000,0,0,0,0,0
+d0917,2020,Facebook,Menlo Park, CA,Data Scientist,2,Product analytics,205000,0,0,150000,40000,15000,0,0,1,0,0
+d0918,2020,Facebook,Menlo Park, CA,Data Scientist,2,product,235000,5,3,150000,60000,25000,0,0,0,0,0
+d0919,2021,Facebook,New York, NY,Data Scientist,2,Product,200000,6,1,150000,40000,10000,1,0,0,0,0
+d0920,2019,Facebook,Menlo Park, CA,Data Scientist,2,Other,203000,0,0,150000,38000,15000,0,0,1,0,0
+d0921,2019,Facebook,Menlo Park, CA,Data Scientist,2,ML / AI,240000,3,0,150000,75000,15000,0,0,0,0,0
+d0922,2020,Facebook,San Francisco, CA,Data Scientist,2,ML / AI,200000,2,2,150000,40000,10000,1,0,0,0,0
+d0923,2020,Facebook,Menlo Park, CA,Data Scientist,2,ML / AI,220000,5,0,150000,50000,20000,1,0,0,0,0
+d0924,2018,Facebook,Menlo Park, CA,Data Scientist,2,Infrastructure,200000,5,0.25,150000,35000,15000,0,0,0,0,0
+d0925,2019,Facebook,Menlo Park, CA,Data Scientist,2,Infra,202000,0,0.25,150000,37000,15000,0,0,0,0,0
+d0926,2020,Facebook,Menlo Park, CA,Data Scientist,2,Infra,210000,0,0,150000,35000,25000,0,0,1,0,0
+d0927,2021,Facebook,Chicago, IL,Data Scientist,2,General,165000,4,1,150000,5000,10000,0,0,0,0,0
+d0928,2021,Facebook,Seattle, WA,Data Scientist,2,General,210000,2,0,150000,45000,15000,1,0,0,0,0
+d0929,2020,Facebook,Menlo Park, CA,Data Scientist,2,Data scientist,200000,3,0,150000,37000,10000,1,0,0,0,0
+d0930,2019,Facebook,Menlo Park, CA,Data Scientist,2,Data Exploration,190000,1,0,150000,40000,0,0,0,0,0,0
+d0931,2020,Facebook,New York, NY,Data Scientist,2,Data Engineering,205000,2,1,150000,40000,15000,1,0,0,0,0
+d0932,2020,Facebook,Menlo Park, CA,Data Scientist,2,Data,290000,4,1,150000,100000,40000,0,1,0,0,0
+d0933,2020,Facebook,San Francisco, CA,Data Scientist,2,Data,225000,7,3,150000,55000,20000,0,1,0,0,0
+d0934,2019,Facebook,Menlo Park, CA,Data Scientist,2,Core Data Science,225000,0,0,150000,60000,15000,0,0,0,0,0
+d0935,2019,Facebook,Menlo Park, CA,Data Scientist,2,Analytics,206000,4,1,150000,41000,15000,0,0,0,0,0
+d0936,2019,Facebook,Menlo Park, CA,Data Scientist,2,Analytics,210000,4,1,150000,30000,30000,0,0,0,0,0
+d0937,2021,Facebook,Seattle, WA,Data Scientist,2,Analytics,210000,2,0,150000,45000,15000,0,1,0,0,0
+d0938,2021,Fidelity Investments,Boston, MA,Data Scientist,2,Data scientist,200000,8,2,150000,10000,40000,0,0,0,0,0
+d0939,2019,Genentech,South San Francisco, CA,Data Scientist,2,ML / AI,180000,2,2,150000,5000,25000,0,0,0,0,0
+d0940,2020,Genentech,San Francisco, CA,Data Scientist,2,ML / AI,189000,5,0,150000,18000,21000,0,0,1,0,0
+d0941,2020,Genentech,South San Francisco, CA,Data Scientist,2,Full Stack,183000,2,2,150000,15000,18000,0,0,0,0,0
+d0942,2021,Genentech,San Francisco, CA,Data Scientist,2,Bioinformatics,192000,10,7,150000,21000,21000,0,0,0,0,0
+d0943,2021,GoDaddy,Seattle, WA,Data Scientist,2,modeling,198000,11,4,150000,25000,23000,0,0,0,0,0
+d0944,2020,Google,Mountain View, CA,Data Scientist,2,Production,250000,2,2,150000,75000,25000,0,0,1,0,0
+d0945,2021,Google,Seattle, WA,Data Scientist,2,Product,455000,8,3,150000,280000,25000,0,1,0,0,0
+d0946,2020,Google,San Francisco, CA,Data Scientist,2,ML / AI,220000,5,1,150000,55000,15000,1,0,0,0,0
+d0947,2019,Google,Sunnyvale, CA,Data Scientist,2,iOS,270000,5,1,150000,100000,20000,0,0,0,0,0
+d0948,2021,Google,San Francisco, CA,Data Scientist,2,data analyst,175000,2,1,150000,20000,5000,0,0,0,0,0
+d0949,2018,GrubHub,New York, NY,Data Scientist,2,ML / AI,187000,4,1,150000,145000,10000,0,0,0,0,0
+d0950,2021,Indeed,Seattle, WA,Data Scientist,2,Data,190000,5,0,150000,20000,20000,0,0,0,0,0
+d0951,2020,Intel,Hillsboro, OR,Data Scientist,2,Full Stack,200000,9,9,150000,40000,10000,0,0,0,0,0
+d0952,2020,Intuit,Mountain View, CA,Data Scientist,2,Analytics,198000,6,2,150000,30000,18000,1,0,0,0,0
+d0953,2019,Iterable,San Francisco, CA,Data Scientist,2,ML / AI,150000,0,0,150000,0,0,1,0,0,0,0
+d0954,2020,LinkedIn,Sunnyvale, CA,Data Scientist,2,Data,250000,8,6,150000,85000,15000,0,0,0,0,0
+d0955,2020,Lowe's,Charlotte, NC,Data Scientist,2,Security,250000,10,5,150000,50000,50000,0,0,0,0,0
+d0956,2021,Lyft,San Francisco, CA,Data Scientist,2,Decisions,260000,4,1,150000,110000,0,0,0,0,0,0
+d0957,2019,Lyft,San Francisco, CA,Data Scientist,2,Data Science,280000,4,2,150000,130000,0,0,0,0,0,0
+d0958,2020,Lyft,San Francisco, CA,Data Scientist,2,Analytics,302000,3,1,150000,152000,0,0,0,0,0,0
+d0959,2020,McKinsey,New York, NY,Data Scientist,2,Data,200000,6,2,150000,25000,25000,0,0,0,0,0
+d0960,2018,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,190000,4,3,150000,22000,18000,0,0,0,0,0
+d0961,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,230000,4,0,150000,38000,42000,1,0,0,0,0
+d0962,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,260000,5,5,150000,90000,20000,0,0,0,0,0
+d0963,2021,Microsoft,Seattle, WA,Data Scientist,2,E + D,200000,4,4,150000,30000,20000,0,0,0,0,0
+d0964,2020,Microsoft,Bellevue, WA,Data Scientist,2,Data science,220000,4,2,150000,60000,10000,0,0,1,0,0
+d0965,2020,Morgan Stanley,New York, NY,Data Scientist,2,Web Development (Front-End),190000,4,4,150000,0,40000,0,0,0,0,0
+d0966,2020,Nvidia,Santa Clara, CA,Data Scientist,2,ML / AI,175000,2,2,150000,25000,0,1,0,0,0,0
+d0967,2021,Oracle,Los Angeles, CA,Data Scientist,2,Machine Learning,205000,3,3,150000,45000,10000,0,0,0,0,0
+d0968,2020,PayPal,San Jose, CA,Data Scientist,2,Data Scientist,230000,10,3,150000,65000,15000,1,0,0,0,0
+d0969,2018,PayPal,San Jose, CA,Data Scientist,2,data,220000,7,2.5,150000,50000,20000,0,0,0,0,0
+d0970,2021,Sophos,Portland, OR,Data Scientist,2,Deep Learning,165000,7,4,150000,0,15000,0,1,0,0,0
+d0971,2020,Sophos,Portland, OR,Data Scientist,2,Data,165000,7,4,150000,0,15000,0,1,0,0,0
+d0972,2020,Spotify,New York, NY,Data Scientist,2,Data,188000,6,1,150000,38000,0,1,0,0,0,0
+d0973,2019,Spotify,New York, NY,Data Scientist,2,Analytics,160000,3,1,150000,10000,0,0,0,0,0,0
+d0974,2020,Square,San Francisco, CA,Data Scientist,2,Data,200000,4,0,150000,50000,0,0,0,0,0,0
+d0975,2020,Turo,San Francisco, CA,Data Scientist,2,ML / AI,150000,2,2,150000,0,0,1,0,0,0,0
+d0976,2019,Twitter,San Francisco, CA,Data Scientist,2,ML / AI,232000,2,1,150000,60000,22000,0,0,0,0,0
+d0977,2019,Uber,San Francisco, CA,Data Scientist,2,ML / AI,220000,1,1,150000,60000,10000,0,0,0,0,0
+d0978,2019,Uber,San Francisco, CA,Data Scientist,2,ML / AI,265000,3,3,150000,100000,15000,0,0,0,0,0
+d0979,2021,Uber,San Francisco, CA,Data Scientist,2,General,260000,5,4,150000,100000,10000,0,0,0,0,0
+d0980,2021,Uber,San Francisco, CA,Data Scientist,2,General,245000,1,1,150000,70000,25000,0,0,1,0,0
+d0981,2021,Uber,San Francisco, CA,Data Scientist,2,General,259000,2,2,150000,79000,30000,0,0,0,0,0
+d0982,2021,Uber,San Francisco, CA,Data Scientist,2,Economics,280000,4,3,150000,110000,15000,0,0,0,0,0
+d0983,2020,Verily Life Sciences,Sunnyvale, CA,Data Scientist,2,ML / AI,220000,8,4,150000,50000,20000,0,1,0,0,0
+d0984,2021,Walmart Labs,Sunnyvale, CA,Data Scientist,2,Data,215000,2,2,150000,40000,25000,1,0,0,0,0
+d0985,2021,Wayfair,Boston, MA,Data Scientist,2,General,240000,6,0,150000,60000,30000,1,0,0,0,0
+d0986,2020,Wells Fargo,San Francisco, CA,Data Scientist,2,ML / AI,165000,0,0,150000,0,15000,0,0,1,0,0
+d0987,2019,Wells Fargo,San Francisco, CA,Data Scientist,2,ML / AI,180000,0,0,150000,0,30000,0,0,0,0,0
+d0988,2021,Wells Fargo,San Francisco, CA,Data Scientist,2,ML,185000,2,2,150000,0,35000,0,0,0,0,0
+d0989,2020,Wells Fargo,Sacramento, CA,Data Scientist,2,Data,170000,3,1,150000,0,20000,0,0,0,0,0
+d0990,2020,Wish,San Francisco, CA,Data Scientist,2,Data,205000,2,1,150000,55000,0,1,0,0,0,0
+d0991,2020,Amazon,Seattle, WA,Data Scientist,2,Others,215000,0,0,151000,38000,27000,0,0,1,0,0
+d0992,2019,Amazon,Seattle, WA,Data Scientist,2,ML / AI,220000,5,3,151000,70000,0,0,0,0,0,0
+d0993,2019,Amazon,New York, NY,Data Scientist,2,ML / AI,181000,4,2,151000,21000,9000,0,0,0,0,0
+d0994,2021,Amazon,Seattle, WA,Data Scientist,2,General,201000,5,2,151000,30000,20000,1,0,0,0,0
+d0995,2021,Facebook,Menlo Park, CA,Data Scientist,2,data science,230000,1,1,151000,65000,15000,0,0,0,0,0
+d0996,2019,Facebook,Seattle, WA,Data Scientist,2,Analytics,201000,2,1,151000,35000,15000,0,0,0,0,0
+d0997,2020,Twitter,Boulder, CO,Data Scientist,2,data science,266000,4,3,151000,85000,30000,1,0,0,0,0
+d0998,2020,Adobe,San Jose, CA,Data Scientist,2,Marketing,222000,2,0,152000,47000,23000,0,1,0,0,0
+d0999,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,250000,4,0,152000,48000,50000,1,0,0,0,0
+d1000,2019,Amazon,Palo Alto, CA,Data Scientist,2,ML / AI,185000,4,2,152000,20000,13000,0,0,0,0,0
+d1001,2019,Amazon,New York, NY,Data Scientist,2,ML / AI,204000,4,2,152000,13000,29000,0,0,0,0,0
+d1002,2021,Amazon,Seattle, WA,Data Scientist,2,Ml,238000,3,0,152000,46000,39000,1,0,0,0,0
+d1003,2021,Amazon,Atlanta, GA,Data Scientist,2,ML,204000,2,0,152000,30000,22000,0,0,0,0,0
+d1004,2020,Amazon,Seattle, WA,Data Scientist,2,Data,260000,5,0,152000,70000,38000,0,0,1,0,0
+d1005,2021,Amazon,Seattle, WA,Data Scientist,2,AWS,232000,1,0,152000,44000,36000,0,0,1,0,0
+d1006,2021,Amazon,Santa Monica, CA,Data Scientist,2,Analytics,274000,1,1,152000,77000,45000,0,0,1,0,0
+d1007,2020,Apple,Cupertino, CA,Data Scientist,2,Services,231000,10,10,152000,55000,24000,1,0,0,0,0
+d1008,2020,Facebook,Seattle, WA,Data Scientist,2,Data,220000,7,4,152000,52000,16000,0,1,0,0,0
+d1009,2020,Google,New York, NY,Data Scientist,2,Data,250000,3,2,152000,65000,33000,0,0,0,0,0
+d1010,2020,Intel,Portland, OR,Data Scientist,2,ML / AI,230000,10,10,152000,32000,46000,0,0,1,0,0
+d1011,2020,LinkedIn,San Francisco, CA,Data Scientist,2,Data,190000,8,3,152000,30000,10000,0,0,0,0,0
+d1012,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,209000,2,2,152000,44000,13000,0,0,1,0,0
+d1013,2019,Microsoft,Bellevue, WA,Data Scientist,2,ML / AI,216000,5,0,152000,51000,13000,0,0,0,0,0
+d1014,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,185000,8,4,152000,13000,19000,0,0,0,0,0
+d1015,2021,ResMed,San Diego, CA,Data Scientist,2,Data Science,152000,4,0,152000,0,0,0,0,1,0,0
+d1016,2021,Salesforce,New York, NY,Data Scientist,2,Sales Analytics,185000,5,3,152000,10000,23000,1,0,0,0,0
+d1017,2021,Square,New York, NY,Data Scientist,2,General,227000,3,0,152000,65000,10000,1,0,0,0,0
+d1018,2020,Ticketmaster,Los Angeles, CA,Data Scientist,2,ML / AI,152000,3,1,152000,0,0,1,0,0,0,0
+d1019,2020,Zillow,Seattle, WA,Data Scientist,2,Data,272000,5,2,152000,120000,0,0,1,0,0,0
+d1020,2021,Amazon,Seattle, WA,Data Scientist,2,General,193000,9,2,153000,40000,0,1,0,0,0,0
+d1021,2021,Google,Mountain View, CA,Data Scientist,2,product analytics,219000,9,3,153000,40000,26000,1,0,0,0,0
+d1022,2020,Microsoft,Sunnyvale, CA,Data Scientist,2,ML / AI,238000,2,2,153000,70000,15000,0,0,0,0,0
+d1023,2021,Microsoft,Redmond, WA,Data Scientist,2,General,198000,5,1,153000,30000,15000,0,0,0,0,0
+d1024,2021,Amazon,Seattle, WA,Data Scientist,2,General,260000,6,1,154000,77000,29000,1,0,0,0,0
+d1025,2021,Facebook,Seattle, WA,Data Scientist,2,Analytics,214000,4,0,154000,45000,15000,1,0,0,0,0
+d1026,2020,IBM,Sunnyvale, CA,Data Scientist,2,ML / AI,154000,6,2,154000,0,0,1,0,0,0,0
+d1027,2020,Microsoft,Sunnyvale, CA,Data Scientist,2,ML / AI,211000,0,0,154000,45000,15000,0,0,1,0,0
+d1028,2018,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,243000,2,1,154000,78000,11000,0,0,0,0,0
+d1029,2020,Microsoft,Sunnyvale, CA,Data Scientist,2,Applied Scientist,211000,0,0,154000,45000,12000,0,0,1,0,0
+d1030,2021,Uber,San Francisco, CA,Data Scientist,2,Product Analyst,251000,4,4,154000,77000,20000,0,1,0,0,0
+d1031,2020,Workday,Boulder, CO,Data Scientist,2,ML / AI,244000,5,1,154000,60000,30000,1,0,0,0,0
+d1032,2021,Amazon,Seattle, WA,Data Scientist,2,Search,337000,4,0,155000,112000,70000,1,0,0,0,0
+d1033,2020,Amazon,New York, NY,Data Scientist,2,ML / AI,220000,4,1,155000,50000,20000,0,0,0,0,0
+d1034,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,225000,1,1,155000,70000,0,1,0,0,0,0
+d1035,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,206000,0,0,155000,33000,21000,1,0,0,0,0
+d1036,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,300000,3,1,155000,75000,70000,0,0,1,0,0
+d1037,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,210000,6,0,155000,30000,25000,1,0,0,0,0
+d1038,2021,Amazon,Seattle, WA,Data Scientist,2,General,432000,9,1,155000,180000,97000,0,0,0,0,0
+d1039,2019,Amazon,Palo Alto, CA,Data Scientist,2,Full Stack,260000,10,3,155000,105000,0,0,0,0,0,0
+d1040,2020,Amazon,New York, NY,Data Scientist,2,DS,220000,4,0,155000,45000,20000,0,0,0,0,0
+d1041,2021,Amazon,Dallas, TX,Data Scientist,2,Data Scientist,215000,8,0,155000,35000,25000,0,0,0,0,0
+d1042,2021,Asana,San Francisco, CA,Data Scientist,2,General,205000,2,2,155000,50000,0,0,0,0,0,0
+d1043,2021,Cisco,Milpitas, CA,Data Scientist,2,Big data,200000,4,0,155000,25000,20000,1,0,0,0,0
+d1044,2021,eBay,San Jose, CA,Data Scientist,2,Risk management,215000,8,1,155000,35000,25000,1,0,0,0,0
+d1045,2021,eBay,Seattle, WA,Data Scientist,2,Machine Learning,190000,2,1,155000,25000,10000,1,0,0,0,0
+d1046,2021,eBay,Bellevue, WA,Data Scientist,2,General,205000,4,1,155000,35000,15000,0,0,1,0,0
+d1047,2020,Facebook,Menlo Park, CA,Data Scientist,2,Production,210000,1,1,155000,40000,15000,0,0,1,0,0
+d1048,2021,Facebook,Menlo Park, CA,Data Scientist,2,Product,242000,0,0,155000,48000,40000,0,0,1,0,0
+d1049,2021,Facebook,Menlo Park, CA,Data Scientist,2,Product,270000,1,1,155000,100000,15000,0,0,1,0,0
+d1050,2020,Facebook,Seattle, WA,Data Scientist,2,ML / AI,220000,1,0,155000,50000,16000,0,0,0,0,0
+d1051,2020,Facebook,Menlo Park, CA,Data Scientist,2,ML / AI,210000,3,1,155000,40000,15000,0,0,0,0,0
+d1052,2021,Facebook,San Francisco, CA,Data Scientist,2,General,211000,5,0,155000,40000,16000,1,0,0,0,0
+d1053,2021,Facebook,New York, NY,Data Scientist,2,Data,225000,4,0,155000,50000,20000,1,0,0,0,0
+d1054,2021,Facebook,Seattle, WA,Data Scientist,2,Analytics,211000,5,0,155000,40000,16000,1,0,0,0,0
+d1055,2019,Facebook,Menlo Park, CA,Data Scientist,2,Analytics,211000,2,0,155000,41000,15000,1,0,0,0,0
+d1056,2020,Facebook,Menlo Park, CA,Data Scientist,2,Analytics,212000,3,0,155000,41000,16000,0,0,0,0,0
+d1057,2021,Google,Reston, VA,Data Scientist,2,ML / AI,216000,5,0,155000,38000,23000,1,0,0,0,0
+d1058,2019,IBM,San Jose, CA,Data Scientist,2,ML / AI,157000,2,2,155000,0,2000,0,0,0,0,0
+d1059,2019,IBM,San Jose, CA,Data Scientist,2,ML / AI,156000,2,2,155000,0,1000,0,0,0,0,0
+d1060,2019,LinkedIn,Sunnyvale, CA,Data Scientist,2,ML / AI,242000,1,0,155000,37000,50000,0,0,0,0,0
+d1061,2019,LinkedIn,Sunnyvale, CA,Data Scientist,2,data science,210000,3,0,155000,40000,15000,0,0,0,0,0
+d1062,2019,Lyft,San Francisco, CA,Data Scientist,2,DATA SCIENCE,230000,3,0,155000,75000,0,0,0,0,0,0
+d1063,2019,Microsoft,Redmond, WA,Data Scientist,2,Product DS/ML,285000,7,3,155000,100000,30000,0,0,0,0,0
+d1064,2021,Microsoft,Redmond, WA,Data Scientist,2,Product Analytics,210000,5,1,155000,30000,25000,0,0,0,0,0
+d1065,2021,Microsoft,Seattle, WA,Data Scientist,2,ML / AI,240000,0,0,155000,64000,22000,0,0,1,0,0
+d1066,2018,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,225000,2,1,155000,55000,15000,0,0,0,0,0
+d1067,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,232000,3,2,155000,55000,22000,0,0,0,0,0
+d1068,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,195000,5,1,155000,20000,15000,1,0,0,0,0
+d1069,2019,Microsoft,Sunnyvale, CA,Data Scientist,2,ML / AI,280000,0,0,155000,65000,60000,0,0,0,0,0
+d1070,2021,Microsoft,Seattle, WA,Data Scientist,2,machine learning,225000,2,2,155000,50000,20000,0,0,0,0,0
+d1071,2019,Microsoft,Seattle, WA,Data Scientist,2,DS,186000,6,6,155000,18000,13000,0,0,0,0,0
+d1072,2021,Northrop Grumman,Huntsville, AL,Data Scientist,2,Design,156000,13,1,155000,0,0,0,0,1,0,0
+d1073,2021,Northrop Grumman,Huntsville, AL,Data Scientist,2,Data Analytics,187000,13,1,155000,30000,1000,0,0,1,0,0
+d1074,2021,Oracle,Austin, TX,Data Scientist,2,General,205000,5,0,155000,35000,10000,1,0,0,0,0
+d1075,2021,Oracle,Austin, TX,Data Scientist,2,General,210000,6,0,155000,42000,13000,1,0,0,0,0
+d1076,2021,Oracle,Austin, TX,Data Scientist,2,General,215000,5,1,155000,47000,13000,1,0,0,0,0
+d1077,2020,PayPal,Chicago, IL,Data Scientist,2,ML / AI,190000,5,1,155000,35000,0,1,0,0,0,0
+d1078,2021,Snap,Los Angeles, CA,Data Scientist,2,Data Science and Research,385000,0,0,155000,215000,15000,0,0,1,0,0
+d1079,2021,Snap,Los Angeles, CA,Data Scientist,2,Applied Econometrics,385000,0,0,155000,215000,16000,0,0,1,0,0
+d1080,2021,Spotify,New York, NY,Data Scientist,2,General,215000,5,2,155000,60000,0,1,0,0,0,0
+d1081,2021,Square,San Francisco, CA,Data Scientist,2,Product,235000,4,0,155000,70000,10000,1,0,0,0,0
+d1082,2020,Square,San Francisco, CA,Data Scientist,2,ML / AI,200000,1,1,155000,45000,0,1,0,1,0,0
+d1083,2020,Starbucks,Seattle, WA,Data Scientist,2,Data,186000,5,2,155000,16000,16000,0,0,0,0,0
+d1084,2020,T-Mobile,Seattle, WA,Data Scientist,2,ML / AI,195000,4,2,155000,10000,30000,0,0,1,0,0
+d1085,2021,T-Mobile,Bellevue, WA,Data Scientist,2,ML / AI,188000,5,2,155000,10000,23000,1,0,0,0,0
+d1086,2019,Uber,San Francisco, CA,Data Scientist,2,ML / AI,312000,4,2.5,155000,0,17000,0,0,0,0,0
+d1087,2019,Uber,San Francisco, CA,Data Scientist,2,ML / AI,253000,3,1,155000,66000,32000,0,0,0,0,0
+d1088,2020,Uber,San Francisco, CA,Data Scientist,2,ML / AI,256000,5,0,155000,86000,16000,0,0,0,0,0
+d1089,2020,Walmart,Bentonville, AR,Data Scientist,2,ML / AI,265000,12,9,155000,65000,50000,0,0,0,0,0
+d1090,2021,Walmart Labs,San Francisco, CA,Data Scientist,2,SCM,209000,6,0,155000,13000,41000,1,0,0,0,0
+d1091,2019,Walmart Labs,Bentonville, AR,Data Scientist,2,ML / AI,265000,10,5,155000,65000,45000,1,0,0,0,0
+d1092,2020,Walmart Labs,Bentonville, AR,Data Scientist,2,ML / AI,263000,11,5,155000,65000,43000,1,0,0,0,0
+d1093,2020,Walmart Labs,Bentonville, AR,Data Scientist,2,ML / AI,325000,12,5,155000,125000,46000,0,1,0,0,0
+d1094,2020,Wells Fargo,San Francisco, CA,Data Scientist,2,ML / AI,185000,10,10,155000,0,30000,0,0,0,0,0
+d1095,2021,Wells Fargo,Charlotte, NC,Data Scientist,2,Master Data,196000,10,7,155000,0,41000,1,0,0,0,0
+d1096,2020,Amazon,Palo Alto, CA,Data Scientist,2,ML / AI,216000,4,3,156000,60000,0,0,0,1,0,0
+d1097,2021,Bank of America,Raleigh, NC,Data Scientist,2,General,156000,6,1,156000,0,0,1,0,0,0,0
+d1098,2018,Cisco,Bellevue, WA,Data Scientist,2,ML / AI,200000,8,3,156000,30000,18000,0,0,0,0,0
+d1099,2020,Facebook,Menlo Park, CA,Data Scientist,2,Data,228000,3,3,156000,56000,16000,0,1,0,0,0
+d1100,2021,General Motors,Detroit, MI,Data Scientist,2,AI/ML,184000,3,3,156000,0,28000,0,0,1,0,0
+d1101,2020,Google,Sunnyvale, CA,Data Scientist,2,Security,246000,10,2,156000,65000,25000,0,0,1,0,0
+d1102,2019,Google,Mountain View, CA,Data Scientist,2,Product Analytics,257000,12,11,156000,66000,35000,0,0,0,0,0
+d1103,2020,IBM,San Jose, CA,Data Scientist,2,ML / AI,156000,3,3,156000,0,0,1,0,0,0,0
+d1104,2021,IBM,New York, NY,Data Scientist,2,ibm,156000,10,2,156000,0,0,1,0,0,0,0
+d1105,2019,IBM,San Jose, CA,Data Scientist,2,Full Stack,158000,3,3,156000,0,2000,0,0,0,0,0
+d1106,2020,Lyft,San Francisco, CA,Data Scientist,2,Data Science,256000,4,2,156000,100000,0,1,0,0,0,0
+d1107,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,209000,5,5,156000,39000,14000,1,0,0,0,0
+d1108,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,208000,8,4,156000,30000,22000,0,0,0,0,0
+d1109,2020,Microsoft,Bellevue, WA,Data Scientist,2,ML / AI,194000,5,5,156000,17000,22000,0,0,1,0,0
+d1110,2020,Twitter,San Francisco, CA,Data Scientist,2,data science,180000,1,1,156000,14000,11000,0,0,1,0,0
+d1111,2021,Amazon,Seattle, WA,Data Scientist,2,SCOT,231000,4,0,157000,42000,32000,1,0,0,0,0
+d1112,2021,Amazon,Atlanta, GA,Data Scientist,2,ML,230000,5,1,157000,60000,15000,0,0,0,0,0
+d1113,2021,Amazon,Seattle, WA,Data Scientist,2,General,267000,10,2,157000,75000,35000,0,0,0,0,0
+d1114,2019,Amazon,Palo Alto, CA,Data Scientist,2,Full Stack,257000,10,4,157000,100000,0,0,0,0,0,0
+d1115,2021,Apple,Austin, TX,Data Scientist,2,ML / AI,263000,3,3,157000,80000,25000,0,0,1,0,0
+d1116,2019,Facebook,Menlo Park, CA,Data Scientist,2,ML / AI,253000,5,3,157000,80000,16000,0,0,0,0,0
+d1117,2021,Facebook,Menlo Park, CA,Data Scientist,2,Data Engineering,233000,2,2,157000,60000,16000,0,1,0,0,0
+d1118,2021,Facebook,Menlo Park, CA,Data Scientist,2,Analytics,217000,3,0,157000,45000,15000,0,0,0,0,0
+d1119,2020,Google,Irvine, CA,Data Scientist,2,Data,274000,20,5,157000,91000,26000,0,0,1,0,0
+d1120,2018,Microsoft,Boston, MA,Data Scientist,2,ML / AI,182000,10,3,157000,10000,16000,0,0,0,0,0
+d1121,2018,Microsoft,Cambridge, MA,Data Scientist,2,Machine Learning,183000,8,3,157000,11000,15000,0,0,0,0,0
+d1122,2019,Stripe,San Francisco, CA,Data Scientist,2,iOS,246000,3,1,157000,73000,16000,1,0,0,0,0
+d1123,2021,Adobe,San Jose, CA,Data Scientist,2,General,294000,1,1,158000,114000,22000,1,0,0,0,0
+d1124,2020,Airbnb,San Francisco, CA,Data Scientist,2,iOS,223000,7,1,158000,40000,25000,1,0,0,0,0
+d1125,2021,Amazon,Seattle, WA,Data Scientist,2,scot,228000,2,1,158000,47000,23000,0,0,1,0,0
+d1126,2019,Apple,Cupertino, CA,Data Scientist,2,Sensing,258000,4,4,158000,80000,20000,0,0,0,0,0
+d1127,2021,Apple,Austin, TX,Data Scientist,2,Operations,223000,8,5,158000,45000,20000,0,1,0,0,0
+d1128,2021,Google,Mountain View, CA,Data Scientist,2,Data,235000,0,0,158000,53000,24000,0,0,0,0,0
+d1129,2021,Google,Mountain View, CA,Data Scientist,2,Ads,252000,2,2,158000,68000,26000,0,0,1,0,0
+d1130,2020,Mastercard,San Francisco, CA,Data Scientist,2,ML / AI,220000,6,3,158000,15000,43000,0,0,0,0,0
+d1131,2019,Stripe,San Francisco, CA,Data Scientist,2,ML / AI,250000,4,1.5,158000,77000,15000,1,0,0,0,0
+d1132,2021,Zillow,Seattle, WA,Data Scientist,2,Growth,305000,5,2,158000,147000,0,0,1,0,0,0
+d1133,2020,Apple,San Francisco, CA,Data Scientist,2,Data,232000,10,2,159000,15000,58000,0,0,1,0,0
+d1134,2020,Facebook,Menlo Park, CA,Data Scientist,2,ML / AI,228000,4,2,159000,52000,16000,1,0,0,0,0
+d1135,2021,IBM,Colorado Springs, CO,Data Scientist,2,General,163000,20,20,159000,0,4000,0,0,0,0,0
+d1136,2021,Lyft,San Francisco, CA,Data Scientist,2,Product,309000,5,1,159000,150000,0,0,0,0,0,0
+d1137,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,205000,10,3,159000,20000,26000,0,0,0,0,0
+d1138,2021,Adobe,San Jose, CA,Data Scientist,2,ML/AI,283000,3,1,160000,100000,23000,0,0,0,0,0
+d1139,2021,Adobe,San Francisco, CA,Data Scientist,2,General,350000,7,4,160000,150000,40000,1,0,0,0,0
+d1140,2020,Aetna,San Francisco, CA,Data Scientist,2,Data,176000,4,3,160000,0,16000,0,0,0,0,0
+d1141,2021,Amazon,Seattle, WA,Data Scientist,2,Research science,360000,10,4,160000,170000,30000,0,0,1,0,0
+d1142,2021,Amazon,Seattle, WA,Data Scientist,2,ML/AI,283000,7,4,160000,123000,0,0,0,1,0,0
+d1143,2018,Amazon,Palo Alto, CA,Data Scientist,2,ML / AI,260000,3,1,160000,100000,0,0,0,0,0,0
+d1144,2019,Amazon,Seattle, WA,Data Scientist,2,ML / AI,294000,1,0,160000,87000,47000,0,0,0,0,0
+d1145,2019,Amazon,Seattle, WA,Data Scientist,2,ML / AI,294000,1,0,160000,87000,47000,0,0,0,0,0
+d1146,2019,Amazon,Seattle, WA,Data Scientist,2,ML / AI,294000,1,0,160000,87000,47000,0,0,0,0,0
+d1147,2019,Amazon,Seattle, WA,Data Scientist,2,ML / AI,300000,1,0,160000,93000,47000,0,0,0,0,0
+d1148,2019,Amazon,Seattle, WA,Data Scientist,2,ML / AI,294000,1,0,160000,87000,47000,0,0,0,0,0
+d1149,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,340000,12,0,160000,110000,70000,0,0,0,0,0
+d1150,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,320000,8,3,160000,160000,0,0,0,1,0,0
+d1151,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,400000,6,6,160000,240000,0,0,0,0,0,0
+d1152,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,540000,10,3,160000,380000,0,0,0,1,0,0
+d1153,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,710000,13,1,160000,375000,175000,0,0,0,0,0
+d1154,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,535000,15,2,160000,375000,0,0,0,0,0,0
+d1155,2019,Amazon,Seattle, WA,Data Scientist,2,ML / AI,740000,12,7,160000,430000,0,0,0,0,0,0
+d1156,2021,Amazon,Seattle, WA,Data Scientist,2,ML,317000,1,1,160000,110000,47000,0,0,0,0,0
+d1157,2021,Amazon,Seattle, WA,Data Scientist,2,ML,400000,9,5,160000,240000,0,0,0,0,0,0
+d1158,2021,Amazon,Seattle, WA,Data Scientist,2,Machine Learning,431000,3,3,160000,226000,45000,0,0,1,0,0
+d1159,2021,Amazon,Seattle, WA,Data Scientist,2,Machine learning,400000,10,5,160000,240000,0,0,0,0,0,0
+d1160,2021,Amazon,Seattle, WA,Data Scientist,2,General,232000,6,3,160000,72000,0,0,0,1,0,0
+d1161,2021,Amazon,Seattle, WA,Data Scientist,2,General,330000,5,5,160000,170000,0,0,0,0,0,0
+d1162,2019,Amazon,San Francisco, CA,Data Scientist,2,Data science,274000,7,2,160000,110000,0,0,0,0,0,0
+d1163,2020,Amazon,Seattle, WA,Data Scientist,2,Data,300000,5,5,160000,140000,0,0,0,0,0,0
+d1164,2021,Amazon,Seattle, WA,Data Scientist,2,AWS,235000,3,0,160000,42000,33000,1,0,0,0,0
+d1165,2018,Amazon,Palo Alto, CA,Data Scientist,2,Analytics,250000,8,5,160000,90000,0,0,0,0,0,0
+d1166,2021,Amazon,Seattle, WA,Data Scientist,2,AI/ML,246000,5,2,160000,40000,46000,0,0,1,0,0
+d1167,2020,Apple,Cupertino, CA,Data Scientist,2,iOS,264000,4,4,160000,90000,14000,0,0,0,0,0
+d1168,2020,Apple,Cupertino, CA,Data Scientist,2,Full Stack,210000,6,0.5,160000,32000,18000,1,0,0,0,0
+d1169,2021,Apple,Cupertino, CA,Data Scientist,2,Analytics,225000,4,1,160000,50000,15000,0,0,0,0,0
+d1170,2021,AT&T,New York, NY,Data Scientist,2,Research,185000,2,2,160000,0,25000,0,0,1,0,0
+d1171,2019,Boeing,Seattle, WA,Data Scientist,2,ML / AI,170000,15,3,160000,0,10000,0,0,0,0,0
+d1172,2021,Capital Group,Los Angeles, CA,Data Scientist,2,AI,220000,2,2,160000,20000,40000,0,0,0,0,0
+d1173,2021,Charles Schwab,Phoenix, AZ,Data Scientist,2,General,180000,5,0,160000,0,20000,1,0,0,0,0
+d1174,2021,DoorDash,San Francisco, CA,Data Scientist,2,Product Analytics,198000,1,1,160000,38000,0,1,0,0,0,0
+d1175,2020,DoorDash,San Francisco, CA,Data Scientist,2,Data,216000,3,0,160000,56000,0,0,0,0,0,0
+d1176,2021,eBay,San Jose, CA,Data Scientist,2,AI,205000,2,0,160000,29000,16000,1,0,0,0,0
+d1177,2021,eBay,San Jose, CA,Data Scientist,2,AI,205000,2,0,160000,29000,16000,1,0,0,0,0
+d1178,2020,Facebook,Menlo Park, CA,Data Scientist,2,ML / AI,225000,2,1,160000,45000,20000,1,0,0,0,0
+d1179,2020,Facebook,Menlo Park, CA,Data Scientist,2,iOS,221000,10,2,160000,45000,16000,1,0,0,0,0
+d1180,2021,Facebook,Fremont, CA,Data Scientist,2,Infra,226000,10,2,160000,50000,16000,1,0,0,0,0
+d1181,2021,facebook,Menlo Park, CA,Data Scientist,2,ds,226000,1,1,160000,50000,16000,0,0,0,0,0
+d1182,2020,Facebook,New York, NY,Data Scientist,2,Data Science,260000,8,3,160000,90000,10000,0,0,1,0,0
+d1183,2020,Facebook,San Francisco, CA,Data Scientist,2,Data,221000,3,0,160000,45000,16000,0,0,1,0,0
+d1184,2020,Facebook,San Francisco, CA,Data Scientist,2,Data,236000,5,0,160000,60000,16000,0,1,0,0,0
+d1185,2020,Facebook,Menlo Park, CA,Data Scientist,2,Data,235000,4,4,160000,50000,25000,1,0,0,0,0
+d1186,2020,Facebook,Menlo Park, CA,Data Scientist,2,Data,236000,4,1,160000,60000,16000,0,1,0,0,0
+d1187,2021,Facebook,Menlo Park, CA,Data Scientist,2,Data,230000,6,2,160000,54000,16000,0,0,0,0,0
+d1188,2021,Facebook,Menlo Park, CA,Data Scientist,2,analytics,246000,2,2,160000,70000,16000,0,0,1,0,0
+d1189,2019,Genentech,South San Francisco, CA,Data Scientist,2,Marketing Analytics,190000,6,2,160000,15000,15000,1,0,0,0,0
+d1190,2020,Genentech,South San Francisco, CA,Data Scientist,2,Marketing Analytics,200000,7,2,160000,20000,25000,1,0,0,0,0
+d1191,2021,Google,Redwood City, CA,Data Scientist,2,Strategy and Operations,283000,3,2,160000,85000,38000,0,0,1,0,0
+d1192,2020,Google,Sunnyvale, CA,Data Scientist,2,ML / AI,270000,4,2,160000,80000,30000,0,0,1,0,0
+d1193,2020,Google,Mountain View, CA,Data Scientist,2,Data Science,284000,11,1,160000,100000,24000,1,0,0,0,0
+d1194,2021,Google,New York, NY,Data Scientist,2,Data,282000,3,2,160000,90000,32000,0,0,1,0,0
+d1195,2019,Google,Mountain View, CA,Data Scientist,2,Ads,265000,10,7,160000,73000,32000,0,0,0,0,0
+d1196,2019,Grab,Bellevue, WA,Data Scientist,2,ML / AI,226000,3,1,160000,42000,24000,0,0,0,0,0
+d1197,2019,Grab,Seattle, WA,Data Scientist,2,ML / AI,224000,3,1,160000,40000,24000,0,0,0,0,0
+d1198,2019,Groupon,Santa Clara, CA,Data Scientist,2,ML / AI,230000,8,6,160000,40000,30000,1,0,0,0,0
+d1199,2021,Grubhub,Raleigh, NC,Data Scientist,2,machine learning,210000,9,2,160000,50000,0,0,0,1,0,0
+d1200,2021,IBM,New York, NY,Data Scientist,2,ML Product,160000,6,6,160000,0,0,1,0,0,0,0
+d1201,2021,Intel,Hillsboro, OR,Data Scientist,2,General,236000,8,8,160000,47000,30000,0,0,1,0,0
+d1202,2020,Intuit,Sunnyvale, CA,Data Scientist,2,Mobile (iOS + Android),300000,10,10,160000,100000,40000,0,0,1,0,0
+d1203,2021,JP Morgan Chase,Wilmington, DE,Data Scientist,2,Machine Learning,190000,7,1,160000,0,30000,0,0,0,0,0
+d1204,2019,Liberty Mutual,Seattle, WA,Data Scientist,2,ML / AI,184000,7,6,160000,0,24000,1,0,0,0,0
+d1205,2021,Lyft,San Francisco, CA,Data Scientist,2,Decisions,310000,5,1,160000,150000,0,1,0,0,0,0
+d1206,2019,McKinsey,San Francisco, CA,Data Scientist,2,ML / AI,200000,4,2,160000,0,40000,0,0,0,0,0
+d1207,2021,Microsoft,Redmond, WA,Data Scientist,2,NLP,193000,5,5,160000,15000,18000,1,0,0,0,0
+d1208,2021,Microsoft,San Francisco, CA,Data Scientist,2,ML/AI,256000,4,0,160000,56000,40000,0,0,0,0,0
+d1209,2019,Microsoft,Berkeley, CA,Data Scientist,2,ML / AI,245000,3,1,160000,69000,16000,0,0,0,0,0
+d1210,2018,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,215000,10,10,160000,35000,20000,0,0,0,0,0
+d1211,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,250000,5,5,160000,65000,25000,0,0,0,0,0
+d1212,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,228000,5,5,160000,40000,28000,0,0,0,0,0
+d1213,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,209000,10,3,160000,25000,24000,0,0,0,0,0
+d1214,2020,Microsoft,Redmond, WA,Data Scientist,2,Data,207000,11,11,160000,20000,27000,0,0,0,0,0
+d1215,2020,Nike,Portland, OR,Data Scientist,2,Data,184000,3,0,160000,0,24000,0,0,1,0,0
+d1216,2020,PayPal,San Jose, CA,Data Scientist,2,ML / AI,216000,2,0,160000,40000,16000,1,0,0,0,0
+d1217,2021,Pinterest,San Francisco, CA,Data Scientist,2,Product Analytics,400000,2,2,160000,240000,0,0,0,1,0,0
+d1218,2019,Pinterest,San Francisco, CA,Data Scientist,2,ML / AI,310000,2,1,160000,135000,15000,0,0,0,0,0
+d1219,2020,Point72,New York, NY,Data Scientist,2,ML / AI,170000,1,1,160000,0,10000,0,0,0,0,0
+d1220,2020,Qualtrics,Seattle, WA,Data Scientist,2,ML / AI,220000,8,1,160000,35000,25000,0,0,0,0,0
+d1221,2021,ResMed,San Diego, CA,Data Scientist,2,Machine Learning,176000,5,1,160000,0,16000,1,0,0,0,0
+d1222,2020,Robinhood,Menlo Park, CA,Data Scientist,2,Data,243000,2,0,160000,44000,40000,1,0,0,0,0
+d1223,2021,Shopify,Charlotte, NC,Data Scientist,2,Machine Learning,200000,5,0,160000,40000,0,0,0,0,0,0
+d1224,2021,Shopify,New York, NY,Data Scientist,2,Data Science,185000,6,0,160000,25000,0,1,0,0,0,0
+d1225,2020,Snap,Santa Monica, CA,Data Scientist,2,ML / AI,380000,2,2,160000,220000,0,1,0,1,0,0
+d1226,2020,Tesla,Fremont, CA,Data Scientist,2,Production,210000,2,2,160000,45000,5000,1,0,0,0,0
+d1227,2021,The Climate Corporation,San Francisco, CA,Data Scientist,2,General,160000,0,0,160000,0,0,1,0,0,0,0
+d1228,2019,Twitch,San Francisco, CA,Data Scientist,2,Data Science,297000,8,2,160000,137000,0,0,0,0,0,0
+d1229,2021,Twitter,San Francisco, CA,Data Scientist,2,DS,225000,2,0,160000,50000,15000,0,0,0,0,0
+d1230,2019,Uber,San Francisco, CA,Data Scientist,2,ML / AI,310000,4,0,160000,120000,30000,0,0,0,0,0
+d1231,2021,Walmart Labs,San Francisco, CA,Data Scientist,2,ML / AI,220000,2,2,160000,30000,30000,0,0,0,0,0
+d1232,2019,Zillow,Seattle, WA,Data Scientist,2,ML / AI,200000,5,1,160000,30000,10000,0,0,0,0,0
+d1233,2021,Facebook,Menlo Park, CA,Data Scientist,2,Data Engineering,302000,9,3,161000,125000,16000,0,1,0,0,0
+d1234,2021,Facebook,Menlo Park, CA,Data Scientist,2,Data Engineering,304000,9,3,161000,125000,18000,0,1,0,0,0
+d1235,2020,Intuit,San Diego, CA,Data Scientist,2,ML / AI,213000,3,3,161000,20000,32000,0,0,1,0,0
+d1236,2019,Cruise,San Francisco, CA,Data Scientist,2,ML / AI,210000,1,1,162000,25000,22000,0,0,1,0,0
+d1237,2021,eBay,Seattle, WA,Data Scientist,2,Analytics,260000,7,7,162000,81000,17000,0,0,0,0,0
+d1238,2021,Facebook,Menlo Park, CA,Data Scientist,2,General,238000,3,0,162000,60000,16000,0,0,0,0,0
+d1239,2021,Facebook,New York, NY,Data Scientist,2,Data,233000,2,2,162000,55000,16000,0,1,0,0,0
+d1240,2021,Instacart,San Francisco, CA,Data Scientist,2,General,312000,2,0,162000,150000,0,0,1,0,0,0
+d1241,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,220000,8,2,162000,40000,18000,0,0,0,0,0
+d1242,2020,Airbnb,San Francisco, CA,Data Scientist,2,Inference,213000,2,2,163000,50000,0,0,0,1,0,0
+d1243,2021,Indeed,New York, NY,Data Scientist,2,experiments; statistics; forecasting,210000,3,2,163000,20000,27000,1,0,0,0,0
+d1244,2021,Intel,Hillsboro, OR,Data Scientist,2,Semiconductor,239000,11,11,163000,47000,30000,0,0,1,0,0
+d1245,2021,Microsoft,Seattle, WA,Data Scientist,2,Engineering,209000,13,3,163000,20000,25000,0,1,0,0,0
+d1246,2021,Zillow,Seattle, WA,Data Scientist,2,General,233000,6,3,163000,70000,0,0,1,0,0,0
+d1247,2021,Airbnb,San Francisco, CA,Data Scientist,2,Analytics,254000,2,2,164000,79000,12000,1,0,0,0,0
+d1248,2020,Ebay,New York, NY,Data Scientist,2,ML / AI,188000,5,5,164000,13000,12000,0,0,0,0,0
+d1249,2020,Facebook,Menlo Park, CA,Data Scientist,2,Data,220000,3,2,164000,45000,16000,1,0,0,0,0
+d1250,2020,Microsoft,Seattle, WA,Data Scientist,2,Data,212000,7,4,164000,20000,28000,0,0,0,0,0
+d1251,2021,Shutterstock,New York, NY,Data Scientist,2,Analytics,195000,7,1,164000,15000,16000,1,0,0,0,0
+d1252,2020,Twitter,San Francisco, CA,Data Scientist,2,ML / AI,279000,4,2,164000,90000,25000,1,0,0,0,0
+d1253,2018,Airbnb,San Francisco, CA,Data Scientist,2,Analytics,284000,3,0,165000,68000,50000,0,0,0,0,0
+d1254,2019,Airbnb,San Francisco, CA,Data Scientist,2,Analytics,283000,4,0,165000,93000,25000,0,0,0,0,0
+d1255,2020,Amazon,Seattle, WA,Data Scientist,2,ML / AI,230000,5,0,165000,38000,27000,1,0,0,0,0
+d1256,2020,Amazon,Seattle, WA,Data Scientist,2,Data,600000,20,0,165000,435000,0,0,0,0,0,0
+d1257,2020,Apple,Sunnyvale, CA,Data Scientist,2,Data,228000,0,0,165000,50000,13000,0,0,1,0,0
+d1258,2020,Atlassian,Mountain View, CA,Data Scientist,2,analytics,230000,4,0,165000,37000,25000,1,0,0,0,0
+d1259,2020,Atlassian,San Francisco, CA,Data Scientist,2,Analytics,237000,4,1,165000,47000,25000,1,0,0,0,0
+d1260,2021,Bayer,Berkeley, CA,Data Scientist,2,General,205000,6,0,165000,0,40000,0,0,1,0,0
+d1261,2020,BCG,Boston, MA,Data Scientist,2,Data,200000,6,1,165000,0,35000,0,0,0,0,0
+d1262,2021,Capital One,New York, NY,Data Scientist,2,General,188000,5,3,165000,3000,20000,0,0,0,0,0
+d1263,2021,Cisco,San Francisco, CA,Data Scientist,2,General,200000,5,1,165000,15000,20000,1,0,0,0,0
+d1264,2020,Facebook,Seattle, WA,Data Scientist,2,Salary,230000,10,1,165000,40000,25000,1,0,0,0,0
+d1265,2020,Facebook,San Francisco, CA,Data Scientist,2,ML / AI,231000,5,0,165000,50000,16000,0,0,0,0,0
+d1266,2021,Facebook,Tulsa, OK,Data Scientist,2,Instagram,255000,6,0,165000,65000,25000,0,0,1,0,0
+d1267,2021,Facebook,Menlo Park, CA,Data Scientist,2,General,235000,1,0,165000,40000,30000,0,0,1,0,0
+d1268,2019,Facebook,Washington, DC,Data Scientist,2,DevOps,210000,10,0,165000,25000,25000,0,0,0,0,0
+d1269,2021,Facebook,Seattle, WA,Data Scientist,2,Data,280000,5,1,165000,100000,16000,0,0,0,0,0
+d1270,2021,Facebook,Menlo Park, CA,Data Scientist,2,Analytics,234000,8,0,165000,53000,17000,1,0,0,0,0
+d1271,2021,Facebook,New York, NY,Data Scientist,2,Analytics,242000,4,0,165000,60000,17000,0,0,0,0,0
+d1272,2019,google,Mountain View, CA,Data Scientist,2,Android,300000,10,4,165000,100000,35000,0,0,0,0,0
+d1273,2019,IBM,San Jose, CA,Data Scientist,2,ML / AI,165000,5,2,165000,0,0,0,0,0,0,0
+d1274,2021,Intuit,Mountain View, CA,Data Scientist,2,General,248000,8,4,165000,50000,33000,0,0,0,0,0
+d1275,2020,Intuit,Mountain View, CA,Data Scientist,2,Data,250000,6,0,165000,50000,33000,1,0,0,0,0
+d1276,2020,Iterable,San Francisco, CA,Data Scientist,2,ML / AI,165000,1,1,165000,0,0,1,0,0,0,0
+d1277,2021,Microsoft,Bellevue, WA,Data Scientist,2,Search,225000,11,11,165000,30000,30000,0,0,1,0,0
+d1278,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,270000,4,0,165000,50000,55000,0,0,0,0,0
+d1279,2018,Microsoft,Seattle, WA,Data Scientist,2,ML / AI,218000,11,11,165000,28000,23000,0,0,0,0,0
+d1280,2019,Microsoft,Seattle, WA,Data Scientist,2,ML / AI,250000,13,12,165000,57000,28000,0,0,0,0,0
+d1281,2019,Microsoft,Redmond, WA,Data Scientist,2,Data and Applied Scinece,288000,6,3,165000,55000,68000,0,0,0,0,0
+d1282,2021,Shopify,Tampa, FL,Data Scientist,2,ML / AI,207000,6,0,165000,42000,0,0,0,0,0,0
+d1283,2021,Snap,Los Angeles, CA,Data Scientist,2,product org,231000,5,1,165000,50000,17000,0,1,0,0,0
+d1284,2020,Two Sigma,New York, NY,Data Scientist,2,ML / AI,330000,0,0,165000,0,165000,0,0,1,0,0
+d1285,2021,Uber,San Francisco, CA,Data Scientist,2,General,275000,3,0,165000,87000,23000,0,0,1,0,0
+d1286,2021,Workday,Boulder, CO,Data Scientist,2,General,265000,5,2,165000,95000,5000,1,0,0,0,0
+d1287,2020,Lyft,New York, NY,Data Scientist,2,Data Science,300000,0,0,166000,134000,0,0,0,0,0,0
+d1288,2019,Microsoft,Bellevue, WA,Data Scientist,2,ML / AI,222000,10,4,166000,23000,32000,0,0,0,0,0
+d1289,2018,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,216000,15,1,166000,25000,25000,0,0,0,0,0
+d1290,2021,Amazon,New York, NY,Data Scientist,2,General,245000,2,2,167000,78000,0,0,0,0,0,0
+d1291,2021,Citi,Atlanta, GA,Data Scientist,2,Risk,209000,11,11,167000,0,42000,1,0,0,0,0
+d1292,2020,Instacart,San Francisco, CA,Data Scientist,2,Data,305000,6,2,167000,138000,0,0,0,1,0,0
+d1293,2021,Microsoft,Seattle, WA,Data Scientist,2,Machine Learning,248000,3,2,167000,60000,21000,0,0,1,0,0
+d1294,2020,Uber,San Francisco, CA,Data Scientist,2,Data,217000,3,3,167000,40000,10000,0,0,1,0,0
+d1295,2020,Adobe,San Francisco, CA,Data Scientist,2,Other,200000,4,1,168000,15000,17000,0,0,0,0,0
+d1296,2020,Apple,Cupertino, CA,Data Scientist,2,ML / AI,385000,6,6,168000,195000,20000,1,0,0,0,0
+d1297,2021,Facebook,Austin, TX,Data Scientist,2,General,257000,3,1,168000,64000,25000,0,0,1,0,0
+d1298,2021,Facebook,New York, NY,Data Scientist,2,Analytics,265000,5,2,168000,80000,17000,0,0,0,0,0
+d1299,2019,Microsoft,Seattle, WA,Data Scientist,2,ML / AI,213000,4,19,168000,24000,21000,0,0,0,0,0
+d1300,2020,SquareSpace,New York, NY,Data Scientist,2,Data,178000,6,2,168000,10000,0,0,1,0,0,0
+d1301,2020,Twitter,San Francisco, CA,Data Scientist,2,Ad tech,280000,4,1,168000,89000,25000,0,0,1,0,0
+d1302,2021,Apple,Cupertino, CA,Data Scientist,2,General,304000,6,6,169000,115000,20000,1,0,0,0,0
+d1303,2019,Google,Mountain View, CA,Data Scientist,2,Product Analyst,273000,13,12,169000,73000,31000,0,0,0,0,0
+d1304,2020,Google,Mountain View, CA,Data Scientist,2,Data,236000,7,2,169000,42000,25000,0,1,0,0,0
+d1305,2020,Aetna,New York, NY,Data Scientist,2,ML / AI,180000,5,2,170000,0,10000,0,0,0,0,0
+d1306,2019,Apple,Cupertino, CA,Data Scientist,2,ML / AI,214000,5,0,170000,27000,17000,0,0,0,0,0
+d1307,2020,Apple,Cupertino, CA,Data Scientist,2,ML / AI,215000,2,1,170000,27000,17000,0,0,1,0,0
+d1308,2019,Apple,Cupertino, CA,Data Scientist,2,ML / AI,230000,10,0,170000,40000,20000,0,0,1,0,0
+d1309,2020,Apple,Cupertino, CA,Data Scientist,2,Data,324000,3,3,170000,134000,20000,1,0,0,0,0
+d1310,2021,Apple,Austin, TX,Data Scientist,2,Analytics,227000,6,3,170000,40000,17000,0,0,0,0,0
+d1311,2021,Apple,Cupertino, CA,Data Scientist,2,Analytics,227000,7,0,170000,40000,17000,1,0,0,0,0
+d1312,2021,Apple,Cupertino, CA,Data Scientist,2,Analytics,227000,8,0,170000,40000,17000,1,0,0,0,0
+d1313,2020,Apple,Cupertino, CA,Data Scientist,2,ML / AI,300000,5,5,170000,110000,20000,0,0,0,0,0
+d1314,2020,Cisco,San Francisco, CA,Data Scientist,2,ML / AI,270000,15,3,170000,50000,50000,0,0,1,0,0
+d1315,2020,DoorDash,San Francisco, CA,Data Scientist,2,ML / AI,245000,5,3,170000,75000,0,0,1,0,0,0
+d1316,2020,eBay,San Jose, CA,Data Scientist,2,ML / AI,220000,4,0,170000,30000,20000,0,0,0,0,0
+d1317,2020,eBay,New York, NY,Data Scientist,2,ML / AI,237000,4,0,170000,42000,25000,1,0,0,0,0
+d1318,2020,eBay,Bellevue, WA,Data Scientist,2,ML / AI,230000,6,6,170000,45000,17000,1,0,0,0,0
+d1319,2021,ebay,San Jose, CA,Data Scientist,2,Machine Learning,227000,3,3,170000,40000,17000,0,0,0,0,0
+d1320,2019,Facebook,Menlo Park, CA,Data Scientist,2,ML / AI,245000,8,1,170000,50000,25000,1,0,0,0,0
+d1321,2020,Google,Seattle, WA,Data Scientist,2,Security,210000,8,3,170000,20000,20000,0,0,0,0,0
+d1322,2020,Google,Mountain View, CA,Data Scientist,2,Product Analyst,240000,9,2,170000,40000,30000,0,0,0,0,0
+d1323,2020,Google,Seattle, WA,Data Scientist,2,ML / AI,320000,8,0,170000,125000,25000,0,0,1,0,0
+d1324,2020,Google,San Francisco, CA,Data Scientist,2,ML / AI,170000,3,3,170000,0,0,0,1,0,0,0
+d1325,2020,Google,Seattle, WA,Data Scientist,2,ML / AI,346000,12,0,170000,150000,26000,0,0,1,0,0
+d1326,2020,Google,Mountain View, CA,Data Scientist,2,ML / AI,270000,3,3,170000,70000,30000,0,0,1,0,0
+d1327,2021,Google,Redwood City, CA,Data Scientist,2,Global Business Operations,308000,5,3,170000,113000,26000,0,0,1,0,0
+d1328,2021,IBM,Armonk, NY,Data Scientist,2,Finance & Operations,170000,2,2,170000,0,0,0,0,0,0,0
+d1329,2021,illumina,Foster City, CA,Data Scientist,2,AI,197000,0,0,170000,10000,17000,0,0,1,0,0
+d1330,2018,Intuit,Mountain View, CA,Data Scientist,2,ML / AI,250000,5,3,170000,40000,20000,0,0,0,0,0
+d1331,2021,Intuit,San Francisco, CA,Data Scientist,2,Analytics,249000,14,1,170000,45000,34000,0,0,0,0,0
+d1332,2021,Liberty Mutual,Boston, MA,Data Scientist,2,predictive modeling,204000,7,7,170000,0,34000,0,0,1,0,0
+d1333,2020,LinkedIn,San Francisco, CA,Data Scientist,2,Ads,217000,5,1,170000,30000,17000,0,0,0,0,0
+d1334,2020,Lyft,New York, NY,Data Scientist,2,Data,345000,5,0,170000,130000,45000,1,0,0,0,0
+d1335,2021,Lyft,San Francisco, CA,Data Scientist,2,Data,323000,2,0,170000,118000,35000,0,0,1,0,0
+d1336,2021,Microsoft,Redmond, WA,Data Scientist,2,ML/AI,245000,5,0,170000,50000,25000,0,0,0,0,0
+d1337,2020,MITRE,Ann Arbor, MI,Data Scientist,2,ML / AI,170000,23,14,170000,0,0,1,0,0,0,0
+d1338,2021,Nextdoor,San Francisco, CA,Data Scientist,2,General,250000,3,3,170000,80000,0,0,0,0,0,0
+d1339,2020,Nike,Portland, OR,Data Scientist,2,Full Stack,245000,5,3,170000,45000,34000,0,0,1,0,0
+d1340,2021,PayPal,San Jose, CA,Data Scientist,2,Machine Learning,250000,5,2,170000,60000,20000,0,0,0,0,0
+d1341,2020,Pinterest,San Francisco, CA,Data Scientist,2,Data,270000,0,0,170000,100000,0,0,0,1,0,0
+d1342,2020,Reddit,San Francisco, CA,Data Scientist,2,ML / AI,170000,5,3,170000,0,0,0,0,0,0,0
+d1343,2020,Snap,New York, NY,Data Scientist,2,Data,408000,6,0,170000,178000,60000,1,0,0,0,0
+d1344,2020,SoFi,San Francisco, CA,Data Scientist,2,ML / AI,260000,5,1,170000,60000,30000,0,0,1,0,0
+d1345,2021,Square,Seattle, WA,Data Scientist,2,Data,250000,5,0,170000,80000,0,0,0,0,0,0
+d1346,2020,Uber,San Francisco, CA,Data Scientist,2,ML / AI,270000,5,3,170000,80000,20000,1,0,0,0,0
+d1347,2020,Uber,San Francisco, CA,Data Scientist,2,ML / AI,330000,2,2,170000,120000,40000,0,0,1,0,0
+d1348,2020,Uber,San Francisco, CA,Data Scientist,2,ML / AI,328000,4,4,170000,125000,33000,1,0,1,0,0
+d1349,2020,Uber,San Francisco, CA,Data Scientist,2,Data,386000,9,6,170000,150000,66000,0,0,0,0,0
+d1350,2021,Walmart Labs,Sunnyvale, CA,Data Scientist,2,Ml,243000,2,0,170000,23000,50000,0,0,1,0,0
+d1351,2020,Waymo,Mountain View, CA,Data Scientist,2,Data,250000,0,0,170000,50000,30000,0,0,1,0,0
+d1352,2020,Zillow,San Francisco, CA,Data Scientist,2,Product,270000,4,2,170000,100000,0,0,0,0,0,0
+d1353,2020,Zillow,Seattle, WA,Data Scientist,2,ML / AI,309000,5,5,170000,139000,0,0,0,1,0,0
+d1354,2020,Zillow,Seattle, WA,Data Scientist,2,applied scientist,260000,7,3,170000,90000,0,0,0,1,0,0
+d1355,2021,Amazon,Palo Alto, CA,Data Scientist,2,General,278000,1,1,171000,81000,26000,0,0,1,0,0
+d1356,2018,Facebook,Seattle, WA,Data Scientist,2,Full Stack,240000,10,1,171000,45000,24000,0,0,0,0,0
+d1357,2019,Microsoft,Seattle, WA,Data Scientist,2,ML / AI,266000,6,1,171000,45000,50000,0,0,0,0,0
+d1358,2020,Microsoft,Seattle, WA,Data Scientist,2,ML / AI,221000,8,4,171000,30000,20000,0,0,1,0,0
+d1359,2020,PayPal,San Jose, CA,Data Scientist,2,Full Stack,232000,6,0,171000,35000,25000,0,0,0,0,0
+d1360,2021,Uber,San Francisco, CA,Data Scientist,2,General,311000,2,2,171000,105000,35000,0,0,1,0,0
+d1361,2021,Uber,San Francisco, CA,Data Scientist,2,General,327000,6,2,171000,134000,18000,0,0,0,0,0
+d1362,2021,Uber,San Francisco, CA,Data Scientist,2,Data Engineering,372000,2,2,171000,162000,39000,1,0,0,0,0
+d1363,2019,Facebook,New York, NY,Data Scientist,2,ML / AI,253000,8,0,172000,55000,26000,0,0,0,0,0
+d1364,2019,Facebook,New York, NY,Data Scientist,2,ML / AI,253000,8,0,172000,55000,26000,0,0,0,0,0
+d1365,2020,Google,Mountain View, CA,Data Scientist,2,Product Analyst,277000,9,2,172000,75000,30000,0,0,1,0,0
+d1366,2020,Google,Austin, TX,Data Scientist,2,ML / AI,289000,15,3,172000,80000,40000,0,0,1,0,0
+d1367,2020,Hulu,Seattle, WA,Data Scientist,2,Data,222000,10,2,172000,0,50000,0,0,1,0,0
+d1368,2019,Microsoft,Seattle, WA,Data Scientist,2,ML / AI,222000,10,4,172000,23000,32000,0,0,0,0,0
+d1369,2019,Amazon,Sunnyvale, CA,Data Scientist,2,Analytics,295000,6,4,173000,122000,0,0,0,0,0,0
+d1370,2021,Google,Mountain View, CA,Data Scientist,2,Sales,264000,8,2,173000,57000,34000,1,0,0,0,0
+d1371,2020,Twitter,San Francisco, CA,Data Scientist,2,Data,300000,9,2,173000,100000,27000,1,0,0,0,0
+d1372,2018,Uber,San Francisco, CA,Data Scientist,2,ML / AI,350000,5,4,173000,150000,27000,0,0,0,0,0
+d1373,2020,Apple,Cupertino, CA,Data Scientist,2,ML / AI,268000,5,2,174000,85000,9000,0,0,1,0,0
+d1374,2020,Google,Sunnyvale, CA,Data Scientist,2,Data,345000,5,3,174000,136000,35000,0,0,1,0,0
+d1375,2021,Google,Mountain View, CA,Data Scientist,2,Data,319000,2,2,174000,110000,35000,0,0,1,0,0
+d1376,2021,Google,Mountain View, CA,Data Scientist,2,commerce,225000,10,2,174000,19000,32000,1,0,0,0,0
+d1377,2021,IBM,Charleston, SC,Data Scientist,2,Computer vision,174000,11,2,174000,0,0,1,0,0,0,0
+d1378,2020,Adobe,San Francisco, CA,Data Scientist,2,Analytics,210000,4,1,175000,18000,18000,0,1,0,0,0
+d1379,2020,Airbnb,San Francisco, CA,Data Scientist,2,ML / AI,295000,5,2,175000,100000,20000,0,0,0,0,0
+d1380,2020,Amazon,New York, NY,Data Scientist,2,Security,262000,2,0,175000,42000,50000,1,0,0,0,0
+d1381,2019,Amazon,Palo Alto, CA,Data Scientist,2,ML / AI,225000,3,0,175000,30000,20000,0,0,0,0,0
+d1382,2020,Amazon,New York, NY,Data Scientist,2,ML / AI,270000,4,0,175000,95000,0,0,0,0,0,0
+d1383,2020,Amazon,San Francisco, CA,Data Scientist,2,ML / AI,253000,5,0,175000,42000,37000,0,1,0,0,0
+d1384,2020,Amazon,San Francisco, CA,Data Scientist,2,ML / AI,380000,17,2,175000,90000,115000,0,0,1,0,0
+d1385,2020,Amazon,Palo Alto, CA,Data Scientist,2,ML / AI,314000,7,3,175000,139000,0,1,0,0,0,0
+d1386,2021,Amazon,San Francisco, CA,Data Scientist,2,ML,360000,11,1,175000,80000,105000,0,0,1,0,0
+d1387,2021,Amazon,San Francisco, CA,Data Scientist,2,General,340000,7,0,175000,90000,75000,0,0,0,0,0
+d1388,2021,Amazon,San Francisco, CA,Data Scientist,2,AI/ML,249000,5,0,175000,5000,69000,0,1,0,0,0
+d1389,2020,Apple,Cupertino, CA,Data Scientist,2,operations,232000,12,3,175000,43000,14000,1,0,0,0,0
+d1390,2019,Apple,Sunnyvale, CA,Data Scientist,2,ML / AI,350000,5,1,175000,160000,15000,0,0,0,0,0
+d1391,2020,Apple,Cupertino, CA,Data Scientist,2,ML / AI,270000,5,2,175000,80000,15000,0,0,0,0,0
+d1392,2021,Apple,Cupertino, CA,Data Scientist,2,Data Science,248000,3,0,175000,40000,33000,0,1,0,0,0
+d1393,2020,Apple,Cupertino, CA,Data Scientist,2,Data,250000,3,0,175000,62000,14000,0,0,0,0,0
+d1394,2020,Amazon,New York, NY,Data Scientist,2,ML / AI,230000,2,1,175000,55000,0,0,0,0,0,0
+d1395,2021,Chime,San Francisco, CA,Data Scientist,2,Analytics,293000,5,1,175000,100000,18000,1,0,0,0,0
+d1396,2020,DoorDash,San Francisco, CA,Data Scientist,2,Data,240000,4,0,175000,65000,0,1,0,0,0,0
+d1397,2020,Facebook,Seattle, WA,Data Scientist,2,Data,250000,8,3,175000,50000,25000,0,0,0,0,0
+d1398,2020,Genentech,South San Francisco, CA,Data Scientist,2,ML / AI,196000,3,0,175000,5000,21000,0,0,0,0,0
+d1399,2021,Google,San Francisco, CA,Data Scientist,2,Product,250000,1,1,175000,40000,35000,0,0,0,0,0
+d1400,2021,Google,Mountain View, CA,Data Scientist,2,Data,262000,12,7,175000,60000,27000,0,1,0,0,0
+d1401,2020,Google,Sunnyvale, CA,Data Scientist,2,Cloud - Technical Infrastructure,291000,2,2,175000,82000,34000,0,0,1,0,0
+d1402,2020,LinkedIn,Sunnyvale, CA,Data Scientist,2,ML / AI,233000,0,0,175000,30000,28000,0,0,0,0,0
+d1403,2020,Microsoft,Seattle, WA,Data Scientist,2,ML / AI,234000,8,5,175000,29000,30000,0,0,1,0,0
+d1404,2020,PayPal,San Jose, CA,Data Scientist,2,ML / AI,205000,4,2,175000,20000,10000,1,0,0,0,0
+d1405,2021,Pinterest,San Francisco, CA,Data Scientist,2,General,450000,5,4,175000,275000,0,0,0,0,0,0
+d1406,2021,Snap,New York, NY,Data Scientist,2,Product analytics,375000,7,1,175000,180000,20000,0,0,0,0,0
+d1407,2020,Spotify,New York, NY,Data Scientist,2,ML / AI,245000,5,0,175000,60000,10000,1,0,0,0,0
+d1408,2020,Twitter,San Francisco, CA,Data Scientist,2,Data,330000,4,2,175000,120000,35000,0,0,0,0,0
+d1409,2020,Twitter,San Francisco, CA,Data Scientist,2,Data,330000,4,2,175000,120000,35000,0,0,0,0,0
+d1410,2020,Uber,San Francisco, CA,Data Scientist,2,Analytics,332000,7,4,175000,123000,34000,1,0,0,0,0
+d1411,2020,WeWork,New York, NY,Data Scientist,2,Data Engineer,192000,4,1,175000,0,17000,1,0,0,0,0
+d1412,2021,Workday,Boulder, CO,Data Scientist,2,Research,311000,6,2,175000,130000,6000,1,0,0,0,0
+d1413,2020,Zillow,San Francisco, CA,Data Scientist,2,Misc.,275000,8,2,175000,50000,50000,0,0,0,0,0
+d1414,2020,Airbnb,San Francisco, CA,Data Scientist,2,Inference,296000,4,2,176000,120000,0,0,0,0,0,0
+d1415,2018,Apple,Cupertino, CA,Data Scientist,2,Services,300000,6,2,176000,100000,20000,0,0,0,0,0
+d1416,2018,Apple,Cupertino, CA,Data Scientist,2,ML / AI,322000,6,2,176000,0,0,0,0,0,0,0
+d1417,2021,Apple,Austin, TX,Data Scientist,2,General,228000,8,0,176000,42000,10000,1,0,0,0,0
+d1418,2020,Robinhood,Menlo Park, CA,Data Scientist,2,Data,251000,0,0,176000,75000,0,0,0,0,0,0
+d1419,2021,Facebook,Seattle, WA,Data Scientist,2,Data,294000,4,3,177000,90000,27000,0,0,0,0,0
+d1420,2020,Microsoft,Boston, MA,Data Scientist,2,ML / AI,265000,10,1,177000,58000,30000,0,0,1,0,0
+d1421,2019,Amazon,New York, NY,Data Scientist,2,ML / AI,228000,3,1,178000,50000,0,0,0,0,0,0
+d1422,2020,Amazon,New York, NY,Data Scientist,2,ML / AI,228000,2,1,178000,50000,0,0,0,1,0,0
+d1423,2020,Amazon,New York, NY,Data Scientist,2,ML / AI,228000,3,1,178000,30000,20000,0,0,1,0,0
+d1424,2020,IBM,San Jose, CA,Data Scientist,2,ML / AI,179000,3,3,178000,0,1000,0,0,0,0,0
+d1425,2021,Snap,Santa Monica, CA,Data Scientist,2,Data,374000,6,0,178000,178000,18000,0,0,0,0,0
+d1426,2020,Uber,San Francisco, CA,Data Scientist,2,DS,311000,8,5,178000,100000,33000,1,0,0,0,0
+d1427,2021,Wayfair,Boston, MA,Data Scientist,2,recommender systems,404000,5,5,178000,191000,35000,0,0,1,0,0
+d1428,2021,Yahoo,Sunnyvale, CA,Data Scientist,2,Ads & Search Sciences,254000,3,3,178000,51000,25000,0,0,1,0,0
+d1429,2021,Facebook,Menlo Park, CA,Data Scientist,2,Marketing analytics,296000,9,2,179000,90000,27000,1,0,0,0,0
+d1430,2021,Microsoft,Seattle, WA,Data Scientist,2,Product Analytics,345000,7,0,179000,110000,56000,0,0,1,0,0
+d1431,2020,Microsoft,Redmond, WA,Data Scientist,2,Data,248000,15,5,179000,34000,35000,1,0,0,0,0
+d1432,2020,Amazon,Seattle, WA,Data Scientist,2,Networking,500000,9,5,180000,200000,120000,0,0,1,0,0
+d1433,2019,Amazon,Palo Alto, CA,Data Scientist,2,ML / AI,250000,7,1,180000,30000,40000,0,0,0,0,0
+d1434,2020,Amazon,New York, NY,Data Scientist,2,ML / AI,236000,2,1,180000,6000,50000,1,0,0,0,0
+d1435,2020,Amazon,San Francisco, CA,Data Scientist,2,ML / AI,275000,10,5,180000,80000,10000,0,0,1,0,0
+d1436,2020,Amazon,Palo Alto, CA,Data Scientist,2,ML / AI,340000,13,0,180000,50000,110000,1,0,0,0,0
+d1437,2018,Amazon,Sunnyvale, CA,Data Scientist,2,ML / AI,300000,1,3,180000,100000,20000,0,0,0,0,0
+d1438,2021,Amazon,San Francisco, CA,Data Scientist,2,Machine Learning,330000,6,4,180000,150000,0,0,0,1,0,0
+d1439,2021,Amazon,Seattle, WA,Data Scientist,2,General,180000,1,0,180000,0,0,0,0,1,0,0
+d1440,2020,Apple,Cupertino, CA,Data Scientist,2,Mobile (iOS + Android),252000,5,0,180000,45000,27000,1,0,0,0,0
+d1441,2019,Apple,Cupertino, CA,Data Scientist,2,ML / AI,340000,8,4,180000,135000,25000,0,0,0,0,0
+d1442,2019,Apple,Cupertino, CA,Data Scientist,2,ML / AI,290000,4,2,180000,90000,20000,0,0,0,0,0
+d1443,2020,Apple,Cupertino, CA,Data Scientist,2,ML / AI,330000,8,0,180000,100000,50000,1,0,0,0,0
+d1444,2020,Apple,Cupertino, CA,Data Scientist,2,data science,252000,6,0,180000,45000,27000,1,0,0,0,0
+d1445,2019,Disney,New York, NY,Data Scientist,2,iOS,205000,8,1,180000,0,25000,0,0,0,0,0
+d1446,2021,Facebook,Menlo Park, CA,Data Scientist,2,Product,297000,5,2,180000,90000,27000,0,0,1,0,0
+d1447,2021,Facebook,Seattle, WA,Data Scientist,2,Product,295000,10,1,180000,65000,50000,0,0,1,0,0
+d1448,2021,Facebook,San Francisco, CA,Data Scientist,2,General,357000,7,3,180000,150000,27000,1,0,0,0,0
+d1449,2021,Facebook,San Francisco, CA,Data Scientist,2,data science,300000,10,0,180000,100000,20000,0,0,0,0,0
+d1450,2020,Facebook,Menlo Park, CA,Data Scientist,2,Analytics,250000,5,2,180000,50000,20000,1,0,0,0,0
+d1451,2020,Facebook,Seattle, WA,Data Scientist,2,analytics,297000,2,2,180000,90000,27000,0,0,1,0,0
+d1452,2021,Facebook,Seattle, WA,Data Scientist,2,Analytics,272000,16,0,180000,65000,27000,1,0,0,0,0
+d1453,2020,Genentech,South San Francisco, CA,Data Scientist,2,ML / AI,180000,8,1,180000,0,0,1,0,0,0,0
+d1454,2021,Genentech,San Francisco, CA,Data Scientist,2,ML,275000,3,3,180000,45000,50000,0,0,0,0,0
+d1455,2021,IBM,Traverse City, MI,Data Scientist,2,Healthcare,197000,9,5,180000,15000,2000,1,0,0,0,0
+d1456,2020,IBM,Cleveland, OH,Data Scientist,2,Full Stack,200000,9,4,180000,0,20000,0,0,0,0,0
+d1457,2020,Instacart,San Francisco, CA,Data Scientist,2,ML / AI,240000,5,1,180000,60000,0,1,0,0,0,0
+d1458,2019,Intuit,Mountain View, CA,Data Scientist,2,ML / AI,276000,4,1.5,180000,60000,36000,0,0,0,0,0
+d1459,2020,Microsoft,Redmond, WA,Data Scientist,2,ML,220000,10,7,180000,20000,20000,1,0,0,0,0
+d1460,2021,Microsoft,Seattle, WA,Data Scientist,2,"Identity, Cloud",230000,13,4,180000,20000,30000,0,0,0,0,0
+d1461,2021,PayPal,San Jose, CA,Data Scientist,2,DS,310000,6,6,180000,100000,30000,1,0,0,0,0
+d1462,2020,PayPal,San Jose, CA,Data Scientist,2,Analysis,220000,7,0,180000,25000,15000,1,0,1,0,0
+d1463,2020,Postmates,San Francisco, CA,Data Scientist,2,ML / AI,280000,2,1,180000,100000,0,1,0,0,0,0
+d1464,2021,S&P Global,New York, NY,Data Scientist,2,Data Architecture,208000,8,1,180000,0,28000,0,0,0,0,0
+d1465,2021,Shopify,New York, NY,Data Scientist,2,Data,220000,4,0,180000,40000,0,1,0,0,0,0
+d1466,2021,Shopify,Boston, MA,Data Scientist,2,Data,220000,4,0,180000,40000,0,1,0,0,0,0
+d1467,2021,Turo,San Francisco, CA,Data Scientist,2,General,230000,3,3,180000,50000,0,1,0,0,0,0
+d1468,2021,Twitter,San Francisco, CA,Data Scientist,2,Product,336000,5,4,180000,120000,36000,0,0,0,0,0
+d1469,2021,Uber,San Francisco, CA,Data Scientist,2,Operations Research,415000,5,5,180000,200000,35000,0,0,1,0,0
+d1470,2020,Uber,San Francisco, CA,Data Scientist,2,ML / AI,310000,10,0,180000,100000,30000,0,1,0,0,0
+d1471,2020,Walmart,San Bruno, CA,Data Scientist,2,ML / AI,300000,10,4,180000,80000,40000,0,0,0,0,0
+d1472,2021,Walmart Labs,Sunnyvale, CA,Data Scientist,2,Staff,320000,5,3,180000,100000,36000,0,0,0,0,0
+d1473,2019,Walmart Labs,Sunnyvale, CA,Data Scientist,2,ML / AI,280000,8,1,180000,60000,40000,0,0,0,0,0
+d1474,2021,Wish,San Francisco, CA,Data Scientist,2,Data,300000,6,1,180000,120000,0,0,0,0,0,0
+d1475,2021,Workday,Pleasanton, CA,Data Scientist,2,General,220000,5,0,180000,40000,0,0,0,1,0,0
+d1476,2021,Yahoo,Sunnyvale, CA,Data Scientist,2,General,270000,15,10,180000,70000,25000,0,1,0,0,0
+d1477,2020,Airbnb,San Francisco, CA,Data Scientist,2,Data,229000,2,2,181000,40000,8000,0,0,1,0,0
+d1478,2021,Google,Mountain View, CA,Data Scientist,2,Google Store,336000,9,0,181000,128000,27000,0,1,0,0,0
+d1479,2020,Adobe,San Jose, CA,Data Scientist,2,Data,520000,5,5,182000,323000,15000,0,0,1,0,0
+d1480,2020,Apple,Cupertino, CA,Data Scientist,2,ML / AI,407000,4,3,182000,200000,25000,0,0,1,0,0
+d1481,2021,Facebook,Seattle, WA,Data Scientist,2,Product analyst,320000,5,3,182000,110000,27000,0,0,1,0,0
+d1482,2021,Facebook,New York, NY,Data Scientist,2,General,334000,4,2,182000,125000,27000,0,0,1,0,0
+d1483,2019,Facebook,Menlo Park, CA,Data Scientist,2,Data Science,274000,5,0,182000,65000,27000,0,0,0,0,0
+d1484,2020,Facebook,San Francisco, CA,Data Scientist,2,Data,308000,8,3,182000,99000,27000,1,0,0,0,0
+d1485,2021,IBM,New York, NY,Data Scientist,2,Data Science,182000,5,3,182000,0,0,0,0,0,0,0
+d1486,2019,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,262000,14,8,182000,50000,30000,0,0,0,0,0
+d1487,2020,Apple,Cupertino, CA,Data Scientist,2,ML / AI,358000,5,2,183000,150000,25000,0,0,0,0,0
+d1488,2021,Facebook,New York, NY,Data Scientist,2,Product Data Scientist,291000,4,3,183000,81000,27000,0,1,0,0,0
+d1489,2021,Facebook,New York, NY,Data Scientist,2,product analytics,338000,2,2,183000,120000,35000,0,1,0,0,0
+d1490,2021,Facebook,New York, NY,Data Scientist,2,Product,297000,2,2,183000,86000,28000,0,1,0,0,0
+d1491,2020,Facebook,Seattle, WA,Data Scientist,2,Data,310000,6,2,183000,100000,27000,1,0,0,0,0
+d1492,2021,Genentech,San Francisco, CA,Data Scientist,2,General,274000,2,2,183000,46000,45000,0,0,0,0,0
+d1493,2021,Microsoft,San Francisco, CA,Data Scientist,2,Product Analytics,273000,6,1,183000,45000,45000,1,0,0,0,0
+d1494,2021,Amazon,New York, NY,Data Scientist,2,Security,266000,7,1,185000,48000,34000,1,0,0,0,0
+d1495,2019,Amazon,Palo Alto, CA,Data Scientist,2,Optimization,332000,1,0,185000,17000,130000,0,0,1,0,0
+d1496,2021,Amazon,San Francisco, CA,Data Scientist,2,ML/AI,583000,20,3,185000,243000,153000,0,0,1,0,0
+d1497,2021,Amazon,San Francisco, CA,Data Scientist,2,ML/AI,414000,10,4,185000,230000,0,0,0,1,0,0
+d1498,2020,Amazon,New York, NY,Data Scientist,2,ML / AI,370000,5,2,185000,185000,0,0,0,1,0,0
+d1499,2021,Amazon,New York, NY,Data Scientist,2,Customer facing,339000,4,2,185000,154000,0,0,0,1,0,0
+d1500,2021,Amazon,Palo Alto, CA,Data Scientist,2,AI/ML,259000,5,0,185000,33000,41000,1,0,0,0,0
+d1501,2021,Apple,Cupertino, CA,Data Scientist,2,Experimentation,450000,7,2,185000,250000,15000,0,0,0,0,0
+d1502,2019,eBay,San Francisco, CA,Data Scientist,2,ML / AI,263000,6,2,185000,50000,28000,0,0,0,0,0
+d1503,2018,Facebook,San Francisco, CA,Data Scientist,2,product analytics,280000,3,0,185000,67000,28000,0,0,0,0,0
+d1504,2021,Facebook,San Francisco, CA,Data Scientist,2,Product,305000,3,1,185000,90000,30000,1,0,0,0,0
+d1505,2019,Facebook,New York, NY,Data Scientist,2,ML / AI,280000,8,2,185000,70000,25000,0,0,0,0,0
+d1506,2021,Facebook,Menlo Park, CA,Data Scientist,2,General,375000,5,4,185000,160000,30000,0,0,1,0,0
+d1507,2021,Facebook,Seattle, WA,Data Scientist,2,Data Engineer,300000,17,0,185000,87000,27000,0,1,0,0,0
+d1508,2020,Facebook,Seattle, WA,Data Scientist,2,Data,300000,12,3,185000,100000,15000,0,0,0,0,0
+d1509,2021,Genentech,South San Francisco, CA,Data Scientist,2,Research,236000,8,4,185000,16000,35000,1,0,0,0,0
+d1510,2020,Google,New York, NY,Data Scientist,2,Full Stack,365000,10,1,185000,140000,40000,0,0,0,0,0
+d1511,2021,IBM,Austin, TX,Data Scientist,2,Financial Services,200000,8,5,185000,10000,5000,1,0,0,0,0
+d1512,2020,Instacart,San Francisco, CA,Data Scientist,2,Data,385000,6,0,185000,200000,0,1,0,0,0,0
+d1513,2021,Intuit,Mountain View, MO,Data Scientist,2,ML,283000,6,2,185000,70000,28000,0,0,0,0,0
+d1514,2020,Lyft,San Francisco, CA,Data Scientist,2,iOS,355000,10,0,185000,170000,0,1,0,0,0,0
+d1515,2021,McAfee,San Jose, CA,Data Scientist,2,General,216000,4,0,185000,0,30000,0,1,0,0,0
+d1516,2020,Microsoft,Seattle, WA,Data Scientist,2,ML / AI,247000,7,4,185000,29000,33000,0,0,0,0,0
+d1517,2020,Oracle,Seattle, WA,Data Scientist,2,Security,335000,5,1,185000,150000,0,1,0,1,0,0
+d1518,2020,PayPal,San Jose, CA,Data Scientist,2,ML / AI,280000,5,3,185000,75000,20000,0,0,0,0,0
+d1519,2020,Pinterest,San Francisco, CA,Data Scientist,2,ML / AI,385000,8,1,185000,200000,0,0,0,0,0,0
+d1520,2021,Robinhood,New York, NY,Data Scientist,2,Growth,284000,3,0,185000,80000,19000,0,1,0,0,0
+d1521,2020,Square,San Francisco, CA,Data Scientist,2,ML / AI,310000,7,0,185000,125000,0,0,0,0,0,0
+d1522,2019,Target,Sunnyvale, CA,Data Scientist,2,ML / AI,250000,4,2,185000,50000,15000,0,0,0,0,0
+d1523,2021,Walmart Labs,Sunnyvale, CA,Data Scientist,2,Search,290000,3,3,185000,65000,40000,0,0,0,0,0
+d1524,2021,Walmart Labs,Sunnyvale, CA,Data Scientist,2,Operations Research,322000,4,0,185000,100000,37000,1,0,0,0,0
+d1525,2019,Walmart Labs,Sunnyvale, CA,Data Scientist,2,ML / AI,252000,6,2,185000,30000,37000,0,0,0,0,0
+d1526,2021,McAfee,San Jose, CA,Data Scientist,2,"ML, Product",241000,10,1,186000,25000,30000,0,1,0,0,0
+d1527,2019,Microsoft,Berkeley, CA,Data Scientist,2,ML / AI,309000,3,3,186000,95000,27000,0,0,0,0,0
+d1528,2021,Walmart Labs,Bentonville, AR,Data Scientist,2,ML/AI,366000,12,6,186000,125000,55000,0,0,0,0,0
+d1529,2021,Walmart Labs,Sunnyvale, CA,Data Scientist,2,ML/AI,332000,4,2,186000,100000,41000,1,0,0,0,0
+d1530,2020,Apple,Cupertino, CA,Data Scientist,2,AMP,246000,6,0,187000,40000,19000,0,1,0,0,0
+d1531,2021,Asana,San Francisco, CA,Data Scientist,2,ML/Analytics,592000,3,3,187000,330000,75000,0,0,0,0,0
+d1532,2020,Facebook,San Francisco, CA,Data Scientist,2,product analytics,295000,5,2,187000,80000,28000,0,0,1,0,0
+d1533,2021,Genentech,South San Francisco, CA,Data Scientist,2,Commercial Analytics,260000,7,4,187000,45000,30000,1,0,0,0,0
+d1534,2021,Google,New York, NY,Data Scientist,2,Data Scientist,332000,5,0,187000,117000,28000,0,0,1,0,0
+d1535,2020,Lyft,Seattle, WA,Data Scientist,2,ML / AI,387000,4,2,187000,200000,0,0,0,0,0,0
+d1536,2020,Microsoft,New York, NY,Data Scientist,2,Research,280000,5,5,187000,72000,21000,0,1,0,0,0
+d1537,2020,Microsoft,Seattle, WA,Data Scientist,2,ML / AI,257000,15,9,187000,33000,37000,0,1,0,0,0
+d1538,2021,Facebook,Menlo Park, CA,Data Scientist,2,Instagram,300000,5,2,188000,89000,20000,1,0,0,0,0
+d1539,2021,Microsoft,Redmond, WA,Data Scientist,2,ML/AI,323000,7,2,188000,110000,25000,0,0,0,0,0
+d1540,2019,Apple,Cupertino, CA,Data Scientist,2,ML / AI,505000,6,4,189000,288000,30000,0,0,0,0,0
+d1541,2018,eBay,Seattle, WA,Data Scientist,2,ML / AI,305000,5,0.7,189000,75000,41000,0,0,0,0,0
+d1542,2020,Google,Kirkland, WA,Data Scientist,2,DevOps,203000,5,5,189000,4000,10000,0,0,0,0,0
+d1543,2020,Airbnb,San Francisco, CA,Data Scientist,2,ML / AI,300000,6,2,190000,80000,30000,0,0,0,0,0
+d1544,2020,Apple,Cupertino, CA,Data Scientist,2,product,300000,10,3,190000,90000,18000,1,0,0,0,0
+d1545,2020,Apple,Cupertino, CA,Data Scientist,2,ML / AI,350000,11,4,190000,145000,15000,0,0,1,0,0
+d1546,2021,Atlassian,San Francisco, CA,Data Scientist,2,Statistics,320000,7,0,190000,30000,100000,1,0,0,0,0
+d1547,2019,eBay,Seattle, WA,Data Scientist,2,ML / AI,315000,10,3,190000,85000,40000,0,0,0,0,0
+d1548,2021,Facebook,Menlo Park, CA,Data Scientist,2,Infrastructure,265000,11,2,190000,60000,15000,0,0,1,0,0
+d1549,2021,Facebook,Seattle, WA,Data Scientist,2,Infra,370000,9,3,190000,150000,30000,0,0,0,0,0
+d1550,2021,Facebook,Menlo Park, CA,Data Scientist,2,infra,278000,2,2,190000,80000,10000,1,0,0,0,0
+d1551,2021,Facebook,Menlo Park, CA,Data Scientist,2,Growth,280000,8,2,190000,62000,29000,0,0,0,0,0
+d1552,2021,Facebook,San Francisco, CA,Data Scientist,2,DS,300000,7,0,190000,81000,29000,0,0,0,0,0
+d1553,2020,Facebook,San Jose, CA,Data Scientist,2,data,300000,20,3,190000,90000,20000,1,0,0,0,0
+d1554,2020,Facebook,Fremont, CA,Data Scientist,2,Data,300000,11,2,190000,80000,30000,1,0,0,0,0
+d1555,2019,Intuit,Mountain View, CA,Data Scientist,2,ML / AI,300000,7,0,190000,75000,35000,0,0,1,0,0
+d1556,2021,Liberty Mutual,Boston, MA,Data Scientist,2,General,210000,15,2,190000,0,20000,0,0,0,0,0
+d1557,2020,Lyft,San Francisco, CA,Data Scientist,2,ML / AI,450000,4,4,190000,260000,0,0,0,1,0,0
+d1558,2020,Lyft,San Francisco, CA,Data Scientist,2,ML / AI,410000,4,3,190000,220000,0,0,0,0,0,0
+d1559,2021,Lyft,Worcester, MA,Data Scientist,2,Algorithms,375000,5,0,190000,185000,0,0,0,1,0,0
+d1560,2020,Microsoft,Seattle, WA,Data Scientist,2,data science,245000,11,2,190000,25000,30000,1,0,0,0,0
+d1561,2020,Microsoft,Seattle, WA,Data Scientist,2,Data,320000,10,4,190000,25000,100000,0,0,0,0,0
+d1562,2020,Pinterest,San Francisco, CA,Data Scientist,2,ML / AI,350000,8,2,190000,160000,0,0,0,0,0,0
+d1563,2020,Snap,Los Angeles, CA,Data Scientist,2,Data,300000,10,2,190000,90000,19000,0,0,0,0,0
+d1564,2020,Stitch Fix,San Francisco, CA,Data Scientist,2,ML / AI,235000,1,1,190000,45000,0,0,0,1,0,0
+d1565,2020,Stitch Fix,San Francisco, CA,Data Scientist,2,ML / AI,250000,4,2,190000,60000,0,0,0,0,0,0
+d1566,2021,Stitch Fix,San Francisco, CA,Data Scientist,2,General,240000,5,1,190000,50000,0,0,0,0,0,0
+d1567,2021,Visa,San Francisco, CA,Data Scientist,2,General,260000,8,4,190000,40000,30000,0,0,0,0,0
+d1568,2020,Visa,Foster City, CA,Data Scientist,2,Data,270000,10,3,190000,50000,30000,0,0,0,0,0
+d1569,2021,Waymo,San Francisco, CA,Data Scientist,2,Product,268000,4,2,190000,40000,38000,1,0,0,0,0
+d1570,2020,WeWork,New York, NY,Data Scientist,2,Data,220000,8,1,190000,0,29000,0,0,0,0,0
+d1571,2021,IBM,Los Angeles, CA,Data Scientist,2,ML / AI,191000,3,3,191000,0,0,1,0,0,0,0
+d1572,2019,Apple,Cupertino, CA,Data Scientist,2,ML / AI,306000,5,4,192000,89000,20000,0,0,1,0,0
+d1573,2021,Microsoft,Seattle, WA,Data Scientist,2,general,262000,11,6,192000,36000,38000,0,0,0,0,0
+d1574,2020,Airbnb,San Francisco, CA,Data Scientist,2,Data,243000,3,1,193000,50000,0,0,0,0,0,0
+d1575,2020,Apple,Cupertino, CA,Data Scientist,2,ML / AI,381000,13,6,193000,160000,28000,0,0,1,0,0
+d1576,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,290000,7,7,193000,46000,46000,0,0,0,0,0
+d1577,2020,Apple,Cupertino, CA,Data Scientist,2,Data,292000,15,2,195000,67000,30000,0,0,1,0,0
+d1578,2021,Cisco,New York, NY,Data Scientist,2,Security,245000,4,0,195000,25000,25000,0,0,1,0,0
+d1579,2020,Cisco,San Francisco, CA,Data Scientist,2,ML / AI,325000,15,1,195000,80000,50000,0,0,1,0,0
+d1580,2020,Facebook,San Francisco, CA,Data Scientist,2,ML / AI,325000,7,0,195000,100000,30000,1,0,0,0,0
+d1581,2021,Facebook,New York, NY,Data Scientist,2,Data,315000,14,0,195000,87000,28000,1,0,0,0,0
+d1582,2020,Facebook,San Francisco, CA,Data Scientist,2,Analytics,324000,6,0,195000,100000,29000,0,0,0,0,0
+d1583,2021,Instacart,San Francisco, CA,Data Scientist,2,Product,395000,4,0,195000,200000,0,1,0,0,0,0
+d1584,2021,Microsoft,Seattle, WA,Data Scientist,2,ML,283000,9,1,195000,50000,38000,0,0,1,0,0
+d1585,2019,Microsoft,Bellevue, WA,Data Scientist,2,Analysis,270000,10,2,195000,36000,39000,0,0,0,0,0
+d1586,2021,Northrop Grumman,Los Angeles, CA,Data Scientist,2,Ops,195000,15,3,195000,0,0,0,0,0,0,0
+d1587,2020,Square,San Francisco, CA,Data Scientist,2,ML / AI,323000,5,0,195000,128000,0,0,0,1,0,0
+d1588,2020,Stripe,San Francisco, CA,Data Scientist,2,ML / AI,385000,4,0,195000,158000,33000,0,0,0,0,0
+d1589,2021,Target,Sunnyvale, CA,Data Scientist,2,ML Engineer,245000,5,3,195000,25000,25000,0,0,1,0,0
+d1590,2021,Twitter,San Francisco, CA,Data Scientist,2,Data,300000,5,3,195000,70000,35000,0,0,1,0,0
+d1591,2019,Uber,San Francisco, CA,Data Scientist,2,Analytics,360000,16,0,195000,135000,30000,0,0,0,0,0
+d1592,2020,Wells Fargo,Portland, OR,Data Scientist,2,Data,270000,22,2,195000,20000,50000,0,1,0,0,0
+d1593,2020,Uber,San Francisco, CA,Data Scientist,2,ML / AI,366000,10,2.5,196000,150000,20000,1,0,0,0,0
+d1594,2021,Facebook,Menlo Park, CA,Data Scientist,2,Modeling,327000,2,0,197000,100000,30000,0,0,1,0,0
+d1595,2021,Facebook,San Francisco, CA,Data Scientist,2,ML/AI,367000,7,4,197000,144000,26000,1,0,0,0,0
+d1596,2021,Walmart Labs,Hoboken, NJ,Data Scientist,2,General,337000,6,2,197000,100000,40000,1,0,0,0,0
+d1597,2021,Indeed,San Francisco, CA,Data Scientist,2,ml/ai,257000,8,3,198000,40000,19000,0,0,0,0,0
+d1598,2020,Microsoft,Redmond, WA,Data Scientist,2,ML / AI,320000,9,4,199000,60000,61000,1,0,0,0,0
+d1599,2019,Microsoft,Seattle, WA,Data Scientist,2,Data science,304000,8,7,199000,60000,45000,0,0,0,0,0
+d1600,2019,Airbnb,Seattle, WA,Data Scientist,3,ML / AI,440000,11,0,200000,160000,80000,0,0,0,0,0
+d1601,2020,Airbnb,San Francisco, CA,Data Scientist,3,Analytics,405000,6,1,200000,170000,35000,0,0,0,0,0
+d1602,2020,Amazon,San Francisco, CA,Data Scientist,3,ML / AI,325000,5,0,200000,100000,25000,1,0,0,0,0
+d1603,2020,Apple,Sunnyvale, CA,Data Scientist,3,ML / AI,350000,2,1,200000,130000,20000,0,0,1,0,0
+d1604,2018,Apple,Sunnyvale, CA,Data Scientist,3,ML / AI,425000,9,1,200000,150000,75000,0,0,0,0,0
+d1605,2020,Apple,Cupertino, CA,Data Scientist,3,Data,320000,4,2,200000,100000,25000,0,0,0,0,0
+d1606,2021,Asana,San Francisco, CA,Data Scientist,3,data analytics,350000,7,1,200000,150000,0,0,0,0,0,0
+d1607,2020,Atlassian,San Francisco, CA,Data Scientist,3,ML / AI,340000,10,1,200000,110000,30000,0,0,1,0,0
+d1608,2020,Capital One,Washington, DC,Data Scientist,3,Data Scientist,280000,10,7,200000,40000,40000,1,0,0,0,0
+d1609,2019,Cisco,San Francisco, CA,Data Scientist,3,ML / AI,280000,5,0,200000,50000,30000,0,0,1,0,0
+d1610,2020,DoorDash,San Francisco, CA,Data Scientist,3,ML / AI,412000,13,0,200000,212000,0,1,0,0,0,0
+d1611,2021,DoorDash,San Francisco, CA,Data Scientist,3,General,315000,5,0,200000,95000,20000,0,1,0,0,0
+d1612,2020,Ebay,Campbell, CA,Data Scientist,3,ML / AI,290000,15,5,200000,40000,50000,0,0,0,0,0
+d1613,2019,Facebook,Menlo Park, CA,Data Scientist,3,Product Analytics,350000,12,2,200000,110000,40000,0,0,0,0,0
+d1614,2021,Facebook,Seattle, WA,Data Scientist,3,experimentation,300000,4,1,200000,80000,25000,0,0,1,0,0
+d1615,2021,Fidelity Investments,Boston, MA,Data Scientist,3,Machine Learning,400000,10,3,200000,100000,100000,0,0,1,0,0
+d1616,2019,Intuit,Mountain View, CA,Data Scientist,3,ML / AI,318000,4,0,200000,78000,40000,0,0,0,0,0
+d1617,2018,Intuit,Mountain View, CA,Data Scientist,3,ML / AI,318000,3,0,200000,78000,40000,0,0,0,0,0
+d1618,2019,Johnson & Johnson,Raritan, NJ,Data Scientist,3,ML / AI,300000,19,13,200000,50000,50000,1,0,0,0,0
+d1619,2021,JP Morgan Chase,New York, NY,Data Scientist,3,ML / AI,285000,5,1,200000,0,85000,0,0,0,0,0
+d1620,2021,LinkedIn,Sunnyvale, CA,Data Scientist,3,Applied machine learning,344000,5,5,200000,120000,24000,0,0,1,0,0
+d1621,2020,LinkedIn,San Francisco, CA,Data Scientist,3,Android,270000,1,1,200000,50000,20000,0,0,0,0,0
+d1622,2020,Lyft,San Francisco, CA,Data Scientist,3,ML / AI,400000,5,0,200000,200000,0,0,0,0,0,0
+d1623,2021,Lyft,San Francisco, CA,Data Scientist,3,General,680000,6,1,200000,480000,0,0,0,0,0,0
+d1624,2021,Lyft,San Francisco, CA,Data Scientist,3,decisions,500000,8,4,200000,300000,0,0,1,0,0,0
+d1625,2020,Microsoft,Redmond, WA,Data Scientist,3,Security,292000,15,0,200000,75000,17000,0,0,1,0,0
+d1626,2018,Microsoft,Bellevue, WA,Data Scientist,3,ML / AI,340000,11,11,200000,80000,60000,0,0,0,0,0
+d1627,2021,Microsoft,Seattle, WA,Data Scientist,3,General,290000,14,14,200000,45000,45000,0,0,0,0,0
+d1628,2021,Robinhood,Menlo Park, CA,Data Scientist,3,iOS,375000,5,0,200000,175000,0,0,0,0,0,0
+d1629,2019,Spotify,New York, NY,Data Scientist,3,ML / AI,315000,8,0,200000,75000,40000,0,0,0,0,0
+d1630,2020,Synchrony,Stamford, CT,Data Scientist,3,Data,240000,15,2,200000,10000,30000,1,0,0,0,0
+d1631,2018,Twitter,San Francisco, CA,Data Scientist,3,ML / AI,500000,4,4,200000,280000,20000,0,0,0,0,0
+d1632,2021,Vanguard,Malvern, PA,Data Scientist,3,Ml,230000,10,2,200000,0,30000,0,0,0,0,0
+d1633,2021,Walmart,San Bruno, CA,Data Scientist,3,Supply Chain,400000,10,6,200000,150000,50000,1,0,0,0,0
+d1634,2020,Walmart Labs,San Francisco, CA,Data Scientist,3,Networking,223000,10,3,200000,23000,0,0,0,1,0,0
+d1635,2018,Walmart Labs,San Francisco, CA,Data Scientist,3,ML / AI,320000,10,2,200000,90000,40000,0,0,0,0,0
+d1636,2020,WeWork,New York, NY,Data Scientist,3,ML / AI,270000,3,1,200000,40000,30000,0,0,1,0,0
+d1637,2020,wish,San Francisco, CA,Data Scientist,3,Data,300000,8,2,200000,100000,0,1,0,0,0,0
+d1638,2020,Workday,San Francisco, CA,Data Scientist,3,ML / AI,318000,5,2,200000,68000,50000,0,0,0,0,0
+d1639,2021,Zillow,Seattle, WA,Data Scientist,3,Applied Science,290000,10,3,200000,90000,0,0,0,1,0,0
+d1640,2020,Wish,San Francisco, CA,Data Scientist,3,Data,212000,5,3,202000,10000,0,1,0,0,0,0
+d1641,2018,Microsoft,Redmond, WA,Data Scientist,3,ML / AI,340000,9,2,203000,96000,41000,0,0,0,0,0
+d1642,2020,Thumbtack,San Francisco, CA,Data Scientist,3,Data,249000,10,3,203000,46000,0,0,0,0,0,0
+d1643,2021,Lockheed Martin,King of Prussia, PA,Data Scientist,3,Research and Development,221000,14,13,204000,0,17000,0,0,1,0,0
+d1644,2020,Microsoft,Oakland, CA,Data Scientist,3,ML / AI,350000,4,2,204000,112000,34000,1,0,0,0,0
+d1645,2020,Microsoft,Redmond, WA,Data Scientist,3,ML / AI,281000,15,6,204000,36000,41000,0,0,0,0,0
+d1646,2020,Airbnb,San Francisco, CA,Data Scientist,3,ML / AI,445000,5,2,205000,200000,40000,1,0,0,0,0
+d1647,2021,Airbnb,San Francisco, CA,Data Scientist,3,Algorithms,395000,10,2,205000,150000,40000,0,0,0,0,0
+d1648,2020,Facebook,Menlo Park, CA,Data Scientist,3,product,321000,15,5,205000,80000,40000,0,0,0,0,0
+d1649,2018,Facebook,Menlo Park, CA,Data Scientist,3,Data Science Manager,385000,6,3,205000,135000,50000,0,0,0,0,0
+d1650,2020,Lyft,San Francisco, CA,Data Scientist,3,ML / AI,463000,5,2,205000,258000,0,0,0,0,0,0
+d1651,2018,Microsoft,Redmond, WA,Data Scientist,3,ML / AI,356000,9,1,205000,111000,40000,0,0,0,0,0
+d1652,2019,Microsoft,Redmond, WA,Data Scientist,3,ML / AI,427000,10,2,205000,181000,41000,0,0,0,0,0
+d1653,2020,PayPal,San Jose, CA,Data Scientist,3,ML / AI,420000,15,6,205000,160000,55000,0,0,1,0,0
+d1654,2021,PwC,San Francisco, CA,Data Scientist,3,Data & Tech,276000,7,4,205000,60000,12000,0,0,1,0,0
+d1655,2020,ServiceNow,Kirkland, WA,Data Scientist,3,ML / AI,326000,7,0,205000,80000,41000,0,0,1,0,0
+d1656,2020,PayPal,San Jose, CA,Data Scientist,3,Data Science,297000,13,2,207000,60000,30000,1,0,0,0,0
+d1657,2021,Uber,Seattle, WA,Data Scientist,3,ML / AI,517000,7,0,207000,275000,35000,1,0,0,0,0
+d1658,2021,Uber,Seattle, WA,Data Scientist,3,Machine Learning,518000,6,0,207000,276000,35000,1,0,0,0,0
+d1659,2020,eBay,San Jose, CA,Data Scientist,3,Full Stack,346000,12,2,208000,100000,38000,1,0,0,0,0
+d1660,2019,Facebook,San Francisco, CA,Data Scientist,3,Full Stack,450000,11,3.7,208000,200000,42000,1,0,0,0,0
+d1661,2019,Facebook,Seattle, WA,Data Scientist,3,Data Scientist,395000,15,3.5,208000,135000,52000,0,0,0,0,0
+d1662,2019,LinkedIn,San Francisco, CA,Data Scientist,3,Data science,330000,4,2,208000,91000,31000,0,0,0,0,0
+d1663,2020,Apple,Cupertino, CA,Data Scientist,3,ML / AI,350000,9,5,209000,120000,26000,1,0,0,0,0
+d1664,2018,Airbnb,San Francisco, CA,Data Scientist,3,ML / AI,430000,7,0,210000,180000,40000,0,0,0,0,0
+d1665,2020,Airbnb,Seattle, WA,Data Scientist,3,ML / AI,690000,12,1,210000,438000,42000,1,0,0,0,0
+d1666,2021,Apple,Cupertino, CA,Data Scientist,3,General,400000,11,3,210000,155000,35000,0,0,0,0,0
+d1667,2021,Cisco,San Jose, CA,Data Scientist,3,ML/AI,310000,6,0,210000,48000,53000,1,0,0,0,0
+d1668,2020,Cruise,San Francisco, CA,Data Scientist,3,ML / AI,310000,9,2,210000,100000,0,1,0,1,0,0
+d1669,2021,Facebook,Menlo Park, CA,Data Scientist,3,General,310000,4,2,210000,90000,10000,1,0,0,0,0
+d1670,2021,Facebook,New York, NY,Data Scientist,3,General,412000,10,4,210000,144000,57000,0,1,0,0,0
+d1671,2019,GE Digital,San Francisco, CA,Data Scientist,3,DevOps,270000,10,6,210000,0,60000,0,0,0,0,0
+d1672,2019,Instacart,San Francisco, CA,Data Scientist,3,Data,360000,5,1,210000,150000,0,0,0,0,0,0
+d1673,2021,Johnson & Johnson,La Jolla, CA,Data Scientist,3,General,300000,20,15,210000,45000,45000,0,0,0,0,0
+d1674,2021,Liberty Mutual,Seattle, WA,Data Scientist,3,Price Modeling,275000,9,9,210000,0,65000,0,0,0,0,0
+d1675,2019,Microsoft,Redmond, WA,Data Scientist,3,ML / AI,350000,15,3,210000,90000,50000,0,0,0,0,0
+d1676,2020,Snap,Santa Monica, CA,Data Scientist,3,ML / AI,728000,7,4,210000,500000,18000,0,0,0,0,0
+d1677,2021,Visa,San Francisco, CA,Data Scientist,3,Machine Learning,285000,3,3,210000,50000,25000,0,0,1,0,0
+d1678,2020,Walmart Labs,Sunnyvale, CA,Data Scientist,3,ML / AI,330000,5,3,210000,60000,60000,0,0,1,0,0
+d1679,2020,Uber,San Francisco, CA,Data Scientist,3,ML / AI,471000,16,3,211000,220000,40000,0,0,0,0,0
+d1680,2021,Facebook,Menlo Park, CA,Data Scientist,3,General,420000,4,3,212000,160000,52000,0,0,0,0,0
+d1681,2020,Uber,Palo Alto, CA,Data Scientist,3,ML / AI,451000,12,5,212000,207000,32000,1,0,0,0,0
+d1682,2019,Microsoft,San Jose, CA,Data Scientist,3,ML / AI,269000,15,7,214000,24000,31000,0,0,0,0,0
+d1683,2020,Uber,Palo Alto, CA,Data Scientist,3,ML / AI,464000,20,1,214000,220000,30000,1,0,1,0,0
+d1684,2021,Convoy,Seattle, WA,Data Scientist,3,Data,215000,11,3,215000,0,0,0,0,0,0,0
+d1685,2020,Facebook,San Francisco, CA,Data Scientist,3,ML / AI,338000,10,0,216000,80000,42000,0,0,0,0,0
+d1686,2020,Facebook,San Francisco, CA,Data Scientist,3,ML / AI,330000,10,0,216000,72000,43000,1,0,0,0,0
+d1687,2021,Stripe,San Francisco, CA,Data Scientist,3,General,463000,7,0,216000,214000,33000,0,0,0,0,0
+d1688,2020,Apple,Cupertino, CA,Data Scientist,3,iOS,382000,7,1,217000,125000,40000,0,0,1,0,0
+d1689,2021,Genentech,South San Francisco, CA,Data Scientist,3,General,350000,5,5,218000,82000,50000,0,0,1,0,0
+d1690,2021,Capital One,Fairfax, VA,Data Scientist,3,General,286000,10,2,220000,31000,35000,0,0,0,0,0
+d1691,2020,Facebook,Menlo Park, CA,Data Scientist,3,product,315000,11,4,220000,50000,44000,0,0,0,0,0
+d1692,2021,Facebook,Menlo Park, CA,Data Scientist,3,General,360000,7,7,220000,100000,40000,0,0,0,0,0
+d1693,2021,Facebook,Mountain View, CA,Data Scientist,3,Experimentation,445000,10,4,220000,180000,45000,1,0,0,0,0
+d1694,2021,Facebook,San Francisco, CA,Data Scientist,3,Data Engineering,464000,8,5,220000,200000,44000,0,0,0,0,0
+d1695,2021,Facebook,Menlo Park, CA,Data Scientist,3,Data engineer,385000,14,0,220000,125000,40000,1,0,0,0,0
+d1696,2021,Facebook,New York, NY,Data Scientist,3,AI,420000,7,3,220000,156000,44000,1,0,0,0,0
+d1697,2020,Google,Mountain View, CA,Data Scientist,3,Full Stack,489000,12,7,220000,219000,50000,0,0,0,0,0
+d1698,2021,Instacart,San Francisco, CA,Data Scientist,3,Experimentation,485000,6,0,220000,225000,40000,1,0,0,0,0
+d1699,2020,Microsoft,Redmond, WA,Data Scientist,3,ML / AI,400000,16,4,220000,120000,60000,0,0,1,0,0
+d1700,2021,Microsoft,Boston, MA,Data Scientist,3,Analytics,400000,10,4,220000,130000,50000,1,0,0,0,0
+d1701,2021,Robinhood,Menlo Park, CA,Data Scientist,3,DS,426000,4,0,220000,184000,22000,0,0,1,0,0
+d1702,2021,Walmart Labs,Sunnyvale, CA,Data Scientist,3,ML/AI,425000,9,6,220000,150000,55000,0,0,0,0,0
+d1703,2018,Google,Seattle, WA,Data Scientist,3,ML / AI,700000,6,2,221000,300000,44000,0,0,0,0,0
+d1704,2018,Google,Kirkland, WA,Data Scientist,3,ML / AI,685000,22,2,221000,296000,55000,0,0,0,0,0
+d1705,2021,Microsoft,Bellevue, WA,Data Scientist,3,Machine learning,510000,11,9,223000,237000,50000,1,0,0,0,0
+d1706,2020,Airbnb,San Francisco, CA,Data Scientist,3,Full Stack,580000,9,2,224000,318000,38000,1,0,0,0,0
+d1707,2020,Apple,Cupertino, CA,Data Scientist,3,ML / AI,400000,17,7,225000,160000,20000,1,0,0,0,0
+d1708,2021,Dolby Laboratories,Sunnyvale, CA,Data Scientist,3,General,300000,10,1,225000,50000,25000,0,0,0,0,0
+d1709,2019,Facebook,Menlo Park, CA,Data Scientist,3,ML / AI,570000,15,2,225000,300000,45000,0,0,1,0,0
+d1710,2021,Facebook,Menlo Park, CA,Data Scientist,3,Data,495000,8,6,225000,225000,45000,0,0,1,0,0
+d1711,2021,Instacart,San Francisco, CA,Data Scientist,3,Data Science,488000,15,0,225000,263000,0,1,0,0,0,0
+d1712,2020,Nextdoor,San Francisco, CA,Data Scientist,3,Analytics,320000,6,0,225000,75000,20000,0,0,0,0,0
+d1713,2020,Stitch Fix,San Francisco, CA,Data Scientist,3,ML / AI,325000,2,0,225000,100000,0,0,0,0,0,0
+d1714,2021,Stitch Fix,San Francisco, CA,Data Scientist,3,General,325000,5,1,225000,100000,0,0,0,0,0,0
+d1715,2019,Uber,San Francisco, CA,Data Scientist,3,ML / AI,450000,8,2,225000,180000,50000,0,0,1,0,0
+d1716,2020,Walmart Labs,Sunnyvale, CA,Data Scientist,3,ML / AI,370000,4,4,225000,90000,55000,0,0,0,0,0
+d1717,2021,AT&T,Palo Alto, CA,Data Scientist,3,General,325000,10,8,228000,52000,45000,0,0,1,0,0
+d1718,2019,Google,Mountain View, CA,Data Scientist,3,ML / AI,634000,8,3,228000,353000,53000,0,0,0,0,0
+d1719,2021,Google,Mountain View, CA,Data Scientist,3,ML,570000,12,1,230000,300000,40000,0,0,0,0,0
+d1720,2019,Huawei,Santa Clara, CA,Data Scientist,3,ML / AI,400000,6,1,230000,0,170000,0,0,0,0,0
+d1721,2020,Microsoft,Sunnyvale, CA,Data Scientist,3,ML / AI,550000,7,7,230000,270000,50000,0,0,1,0,0
+d1722,2019,Microsoft,Redmond, WA,Data Scientist,3,ML / AI,365000,18,1,230000,100000,45000,0,0,0,0,0
+d1723,2021,Microsoft,Redmond, WA,Data Scientist,3,AI,513000,12,3,230000,225000,58000,0,0,0,0,0
+d1724,2020,Google,Mountain View, CA,Data Scientist,3,gTech,460000,10,4,235000,165000,60000,0,0,0,0,0
+d1725,2021,Credit Karma,Oakland, CA,Data Scientist,3,Machine Learning,520000,9,3,236000,284000,0,1,0,0,0,0
+d1726,2020,Facebook,Seattle, WA,Data Scientist,3,ML / AI,565000,10,0,240000,275000,48000,0,0,1,0,0
+d1727,2018,Google,Kirkland, WA,Data Scientist,3,ML / AI,690000,10,0,240000,298000,72000,0,0,0,0,0
+d1728,2021,Stitch Fix,San Diego, CA,Data Scientist,3,Algorithms,409000,9,0,244000,165000,0,0,0,1,0,0
+d1729,2020,Nvidia,Santa Clara, CA,Data Scientist,3,ML / AI,354000,7,0,249000,90000,15000,1,0,0,0,0
+d1730,2020,Google,San Francisco, CA,Data Scientist,3,Android,350000,7,1,250000,20000,80000,0,0,0,0,0
+d1731,2021,Robinhood,Menlo Park, CA,Data Scientist,3,Data,550000,4,4,250000,300000,0,0,0,1,0,0
+d1732,2020,Salesforce,San Francisco, CA,Data Scientist,3,ML / AI,800000,12,3,250000,500000,50000,0,0,0,0,0
+d1733,2020,SAP,Chicago, IL,Data Scientist,3,ML / AI,380000,30,5,250000,40000,90000,1,0,0,0,0
+d1734,2020,Startup,San Diego, CA,Data Scientist,3,Data,250000,12,4,250000,0,0,0,0,0,0,0
+d1735,2021,Facebook,Menlo Park, CA,Data Scientist,3,Product Data Science,700000,16,2,255000,375000,70000,1,0,0,0,0
+d1736,2021,Microsoft,Mountain View, CA,Data Scientist,3,"ML, AI",757000,5,0,255000,420000,82000,0,0,0,0,0
+d1737,2020,IBM,San Francisco, CA,Data Scientist,3,Data Science,260000,15,2,260000,0,0,0,0,0,0,0
+d1738,2020,Lyft,San Francisco, CA,Data Scientist,3,ML / AI,730000,12,2,260000,470000,0,0,0,0,0,0
+d1739,2020,Stitch Fix,San Francisco, CA,Data Scientist,3,ML / AI,525000,3,0,260000,265000,0,0,1,0,0,0
+d1740,2021,Stitch Fix,San Francisco, CA,Data Scientist,3,ML / AI,520000,6,3,260000,260000,0,1,0,0,0,0
+d1741,2020,Stitch Fix,San Francisco, CA,Data Scientist,3,ML / AI,425000,8,2,260000,160000,0,0,0,0,0,0
+d1742,2021,Stitch Fix,San Francisco, CA,Data Scientist,3,ml,578000,5,2,260000,318000,0,0,0,0,0,0
+d1743,2021,Stitch Fix,San Francisco, CA,Data Scientist,3,General,577000,10,5,260000,317000,0,0,1,0,0,0
+d1744,2021,Facebook,Menlo Park, CA,Data Scientist,3,General,740000,10,4,270000,400000,70000,0,0,1,0,0
+d1745,2020,IBM,Armonk, NY,Data Scientist,3,Data Science,270000,13,12,270000,0,0,0,0,0,0,0
+d1746,2020,Roblox,San Francisco, CA,Data Scientist,3,Data,490000,12,0,270000,220000,0,0,0,0,0,0
+d1747,2021,Facebook,New York, NY,Data Scientist,3,General,631000,11,0,275000,287000,69000,1,0,0,0,0
+d1748,2021,Verizon,Basking Ridge, NJ,Data Scientist,3,General,538000,14,4,278000,166000,94000,0,0,1,0,0
+d1749,2020,Samsung,San Jose, CA,Data Scientist,3,ML / AI,280000,6,1,280000,0,0,0,0,0,0,0
+d1750,2021,Stitch Fix,San Francisco, CA,Data Scientist,3,General,580000,16,3,280000,300000,0,0,0,1,0,0
+d1751,2021,Salesforce,San Francisco, CA,Data Scientist,3,AI / ML,564000,9,5,284000,212000,68000,0,0,1,0,0
+d1752,2020,Microsoft,Berkeley, CA,Data Scientist,3,ML / AI,390000,5,2,285000,50000,55000,1,0,1,0,0
+d1753,2021,Roblox,San Mateo, CA,Data Scientist,3,Forecast,498000,5,1,285000,213000,0,0,0,0,0,0
+d1754,2021,IBM,New York, NY,Data Scientist,3,General,303000,15,3,286000,0,17000,0,0,0,0,0
+d1755,2021,Dropbox,San Francisco, CA,Data Scientist,3,General,650000,15,0,290000,260000,100000,1,0,0,0,0
+d1756,2018,Amazon,Seattle, WA,Data Scientist,3,iOS,400000,10,3,300000,50000,50000,0,0,0,0,0
+d1757,2019,eBay,San Jose, CA,Data Scientist,3,ML / AI,900000,12,2,300000,250000,350000,0,0,0,0,0
+d1758,2020,Expedia,Seattle, WA,Data Scientist,3,ML / AI,300000,2,1,300000,0,0,0,0,1,0,0
+d1759,2021,Instacart,San Francisco, CA,Data Scientist,3,Data,1000000,16,1,300000,700000,0,0,0,0,0,0
+d1760,2021,Point72,New York, NY,Data Scientist,3,finance,650000,8,0,300000,0,350000,0,0,1,0,0
+d1761,2021,Capgemini,San Antonio, TX,Data Scientist,3,FinServ,400000,25,3,310000,0,90000,0,0,1,0,0
+d1762,2020,Apple,Redmond, WA,Data Scientist,3,ML / AI,645000,7,2,375000,180000,90000,1,0,1,0,0
+d1763,2019,Goldman Sachs,Illinois City, IL,Data Scientist,3,Web Development (Front-End),510000,8,2,450000,50000,10000,0,0,1,0,0
+d1764,2020,Apple,Los Angeles, CA,Data Scientist,3,iOS,480000,20,4,480000,0,0,1,0,0,0,0
+d1765,2021,Netflix,Los Angeles, CA,Data Scientist,3,Content,630000,6,4,630000,0,0,0,0,1,0,0
