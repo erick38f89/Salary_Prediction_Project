@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Salary_Prediction_Project
 <<<<<<< HEAD
 Final project for bootcamp. Analyze datasets with a machine learning model to predict potential salaries for roles that Data Analytics Bootcamp graduates are elegible to apply. We believe this could be useful to any graduate from the Bootcamp. 
@@ -19,3 +20,6 @@ Final project for bootcamp. Analyze datasets with a machine learning model to pr
 Tableau Dashboard
 https://public.tableau.com/views/SalariesVisualizations/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 >>>>>>> Erick
+=======
+
+>>>>>>> 5c1cc40759a2c718ba9d7442ebacb3ff79266d69
