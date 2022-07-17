@@ -15,4 +15,4 @@ We aim to make a prediction about the salaries that the graduates from the Data 
 
 Final project for bootcamp. Analyze datasets with a machine learning model to predict potential salaries for roles that Data Analytics Bootcamp graduates are elegible to apply.
 
-## [Tableau Dashboard] (https://public.tableau.com/views/SalariesVisualizations/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+## [Tableau Dashboard](https://public.tableau.com/views/SalariesVisualizations/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
